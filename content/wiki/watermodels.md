@@ -1,0 +1,8 @@
+Water models in AMBER:
+
+TIP3P
+TIP4P
+TIP5P
+SPCE
+SPCFW
+SPCEB

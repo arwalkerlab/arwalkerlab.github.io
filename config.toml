@@ -4,6 +4,9 @@ title = "Walker Group"
 theme = "terminal"
 paginate = 6
 
+[markup.goldmark.renderer]
+  unsafe=true
+
 [params]
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
@@ -65,25 +68,25 @@ paginate = 6
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "research"
-        name = "Research"
+        name = "0:Research"
         url = "/Research"
       [[languages.en.menu.main]]
         identifier = "people"
-        name = "People"
+        name = "1:People"
         url = "/People"
       [[languages.en.menu.main]]
         identifier = "publications"
-        name = "Publications"
+        name = "2:Publications"
         url = "/Publications"
       [[languages.en.menu.main]]
         identifier = "class"
-        name = "Teaching"
+        name = "4:Teaching"
         url = "/Classes"
       [[languages.en.menu.main]]
         identifier = "jobs"
-        name = "Job Openings"
+        name = "3:Job Openings"
         url = "/JobOpenings"
       [[languages.en.menu.main]]
         identifier = "wiki"
-        name = "Wiki"
+        name = "5:Wiki"
         url = "/Wiki"

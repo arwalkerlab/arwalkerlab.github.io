@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title> :: Walker Lab</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Command cheatsheet for tleap/xleap
+Loading files:
+leaprc file: source leaprc.forcefield lib file: loadoff res.lib prepi file: loadamberprep res.prepi frcmod file: loadamberparams res.frcmod mol2: loadmol2 RES res.mol2
+Saving files:
+savepdb UNIT unit.pdb (note that this saves the pdb in Amber&amp;rsquo;s format and renumbers residues. Can be useful for cleaning/testing complex systems.) savamberparams UNIT unit.prmtop unit.rst7 savemol2 UNIT unit.mol2
+Creating structure name:
+UNITNAME = unitstructure UNITNAME = loadpdb unitstructure.pdb UNITNAME = loadmol2 unitstructure." />
+<meta name="keywords" content="computational chemistry" />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="/wiki/loadingffparams/" />
+
+
+
+
+<link rel="stylesheet" href="/assets/style.css">
+
+  <link rel="stylesheet" href="/assets/green.css">
+
+
+
+
+
+
+<link rel="apple-touch-icon" href="/img/apple-touch-icon-192x192.png">
+
+  <link rel="shortcut icon" href="/img/favicon/green.png">
+
+
+
+<meta name="twitter:card" content="summary" />
+
+  
+    <meta name="twitter:site" content="https://twitter.com/apika" />
+  
+    <meta name="twitter:creator" content="" />
+
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="">
+<meta property="og:description" content="Command cheatsheet for tleap/xleap
+Loading files:
+leaprc file: source leaprc.forcefield lib file: loadoff res.lib prepi file: loadamberprep res.prepi frcmod file: loadamberparams res.frcmod mol2: loadmol2 RES res.mol2
+Saving files:
+savepdb UNIT unit.pdb (note that this saves the pdb in Amber&amp;rsquo;s format and renumbers residues. Can be useful for cleaning/testing complex systems.) savamberparams UNIT unit.prmtop unit.rst7 savemol2 UNIT unit.mol2
+Creating structure name:
+UNITNAME = unitstructure UNITNAME = loadpdb unitstructure.pdb UNITNAME = loadmol2 unitstructure." />
+<meta property="og:url" content="/wiki/loadingffparams/" />
+<meta property="og:site_name" content="Walker Lab" />
+
+  
+    <meta property="og:image" content="/img/favicon/green.png">
+  
+
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="green">
+
+
+<div class="container center headings--one-size">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="/posts">
+  <div class="logo">
+    Walker Lab
+  </div>
+</a>
+
+    </div>
+    
+      <div class="menu-trigger">menu</div>
+    
+  </div>
+  
+    <nav class="menu">
+  <ul class="menu__inner menu__inner--desktop">
+    
+      
+        
+          <li><a href="/research">0:Research</a></li>
+        
+      
+        
+          <li><a href="/people">1:People</a></li>
+        
+      
+        
+          <li><a href="/publications">2:Publications</a></li>
+        
+      
+        
+          <li><a href="/jobopenings">3:Job Openings</a></li>
+        
+      
+        
+          <li><a href="/classes">4:Teaching</a></li>
+        
+      
+      
+        <ul class="menu__sub-inner">
+          <li class="menu__sub-inner-more-trigger">Show more ▾</li>
+
+          <ul class="menu__sub-inner-more hidden">
+            
+              
+                <li><a href="/wiki">5:Wiki</a></li>
+              
+            
+          </ul>
+        </ul>
+      
+    
+
+    
+  </ul>
+
+  <ul class="menu__inner menu__inner--mobile">
+    
+      
+        <li><a href="/research">0:Research</a></li>
+      
+    
+      
+        <li><a href="/people">1:People</a></li>
+      
+    
+      
+        <li><a href="/publications">2:Publications</a></li>
+      
+    
+      
+        <li><a href="/jobopenings">3:Job Openings</a></li>
+      
+    
+      
+        <li><a href="/classes">4:Teaching</a></li>
+      
+    
+      
+        <li><a href="/wiki">5:Wiki</a></li>
+      
+    
+    
+  </ul>
+</nav>
+
+  
+</header>
+
+
+  <div class="content">
+    
+<div class="post">
+  <h1 class="post-title">
+    <a href="/wiki/loadingffparams/"></a></h1>
+  <div class="post-meta">
+    
+    
+  </div>
+
+  
+
+  
+
+  
+
+  <div class="post-content"><div>
+        <p>Command cheatsheet for tleap/xleap</p>
+<p>Loading files:</p>
+<p>leaprc file: source leaprc.forcefield
+lib file: loadoff res.lib
+prepi file: loadamberprep res.prepi
+frcmod file: loadamberparams res.frcmod
+mol2: loadmol2 RES res.mol2</p>
+<p>Saving files:</p>
+<p>savepdb UNIT unit.pdb (note that this saves the pdb in Amber&rsquo;s format and renumbers residues. Can be useful for cleaning/testing complex systems.)
+savamberparams UNIT unit.prmtop unit.rst7
+savemol2 UNIT unit.mol2</p>
+<p>Creating structure name:</p>
+<p>UNITNAME = unitstructure
+UNITNAME = loadpdb unitstructure.pdb 
+UNITNAME = loadmol2 unitstructure.mol2</p>
+<p>Helpful commands</p>
+<p>Check UNIT - checks unit for charge, clashes, and missing parameters
+list - lists all currently loaded parameters by RES 3 letter code</p>
+<p>Building structures:</p>
+<p>bond UNIT.res#.atom UNIT.res#.atom 
+deletebond UNIT.res#.atom UNIT.res#.atom</p>
+<p>xleap:</p>
+<p>It&rsquo;s good to check structures in xleap, because it shows the actual bonds it thinks your structure has. Most GUIs bond based on distance between atoms, not on forcefield parameters. If you have a nonstandard residue and your simulation will not proceed, incorrect bonding is often the cause. It can display anything in the list.</p>
+<p>edit UNIT - Displays structure in GUI. 
+select UNIT.res# - Selects residue in GUI.
+deselect UNIT.res# - Deselects residue in GUI.</p>
+
+      </div></div>
+
+  
+
+  
+
+</div>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright copyright--user">
+        <span>ARW</span>
+    
+        <span>:: Theme made by <a href="https://twitter.com/panr">panr</a></span>
+      </div>
+  </div>
+</footer>
+
+<script src="/assets/main.js"></script>
+<script src="/assets/prism.js"></script>
+
+
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>
