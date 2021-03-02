@@ -1,0 +1,89 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Walker Group"
+theme = "terminal"
+paginate = 6
+
+[params]
+  # dir name of your main content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "News"
+
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "green"
+
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 5
+
+  # show selector to switch language
+  showLanguageSelector = false
+
+  # set theme to full screen width
+  fullWidthTheme = false
+
+  # center theme with default width
+  centerTheme = true
+
+  # set a custom favicon (default is a `themeColor` square)
+  # favicon = "favicon.ico"
+
+  # set post to show the last updated
+  # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
+  showLastUpdated = false
+  # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
+  # updatedDatePrefix = "Updated"
+
+  # set all headings to their default size (depending on browser settings)
+  # it's set to `true` by default
+  # oneHeadingSize = false
+
+[params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = "apika"
+  site = "https://twitter.com/apika"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Walker Lab"
+    subtitle = "Excited states and fluorescence in biomolecules"
+    owner = "A. R. Walker"
+    keywords = "computational chemistry"
+    copyright = "ARW"
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+
+    [languages.en.params.logo]
+      logoText = "Walker Lab"
+      logoHomeLink = "/posts"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "research"
+        name = "Research"
+        url = "/Research"
+      [[languages.en.menu.main]]
+        identifier = "people"
+        name = "People"
+        url = "/People"
+      [[languages.en.menu.main]]
+        identifier = "publications"
+        name = "Publications"
+        url = "/Publications"
+      [[languages.en.menu.main]]
+        identifier = "class"
+        name = "Teaching"
+        url = "/Classes"
+      [[languages.en.menu.main]]
+        identifier = "jobs"
+        name = "Job Openings"
+        url = "/JobOpenings"
+      [[languages.en.menu.main]]
+        identifier = "wiki"
+        name = "Wiki"
+        url = "/Wiki"
