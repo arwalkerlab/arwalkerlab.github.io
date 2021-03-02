@@ -33,6 +33,11 @@
   </url>
   
   <url>
+    <loc>/old/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/people/</loc>
     <priority>0</priority>
   </url>
@@ -53,71 +58,11 @@
   </url>
   
   <url>
-    <loc>/wiki/altresnames_amber/</loc>
-  </url>
-  
-  <url>
-    <loc>/wiki/anisou/</loc>
-  </url>
-  
-  <url>
-    <loc>/wiki/atomtype/</loc>
-  </url>
-  
-  <url>
-    <loc>/wiki/bfactor/</loc>
-  </url>
-  
-  <url>
-    <loc>/wiki/cryoemt/</loc>
-  </url>
-  
-  <url>
-    <loc>/wiki/easyparameters/</loc>
-  </url>
-  
-  <url>
-    <loc>/wiki/forcefieldeq/</loc>
-  </url>
-  
-  <url>
-    <loc>/wiki/loadingffparams/</loc>
-  </url>
-  
-  <url>
-    <loc>/wiki/modified_amino/</loc>
-  </url>
-  
-  <url>
-    <loc>/wiki/nmr/</loc>
-  </url>
-  
-  <url>
-    <loc>/wiki/outline/</loc>
-  </url>
-  
-  <url>
-    <loc>/wiki/pdbformat/</loc>
-  </url>
-  
-  <url>
-    <loc>/wiki/stdaminos/</loc>
-  </url>
-  
-  <url>
-    <loc>/wiki/watermodels/</loc>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
   </url>
   
   <url>
     <loc>/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>/wiki/</loc>
   </url>
   
 </urlset>

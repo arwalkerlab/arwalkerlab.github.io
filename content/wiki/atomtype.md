@@ -1,3 +1,0 @@
-FATAL: Atom .R<GL4 36>.A<HCA 20> does not have a type.
-
-This error arises when an atomtype and the related parameters were not properly defined in my FF or in the PDB file. In order to avoid this, you need to do your homework when defining non-standard residues: check your PDB for naming, check that all bonds, angles, dihedrals (proper and improper), non-bonding and electrostatic params are correctly set (pay attention to units conversion depending on the original parameters set).

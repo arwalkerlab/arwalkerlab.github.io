@@ -2,15 +2,16 @@
 <html lang="en">
 <head>
   
-    <title>Let&#39;s go WalkerLab :: Walker Lab</title>
+    <title> :: Walker Lab</title>
   
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Nothing yet to report :)
- " />
+<meta name="description" content="#Wiki
+{{if and (gt .WordCount 100 ) (.Params.toc) }}
+{{.Title}}{{ .TableOfContents }}{{end}}" />
 <meta name="keywords" content="computational chemistry" />
 <meta name="robots" content="noodp" />
-<link rel="canonical" href="/posts/first_post/" />
+<link rel="canonical" href="/old/" />
 
 
 
@@ -35,24 +36,26 @@
   
     <meta name="twitter:site" content="https://twitter.com/apika" />
   
-    <meta name="twitter:creator" content="ARW" />
+    <meta name="twitter:creator" content="" />
 
 
 
 <meta property="og:locale" content="en" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Let&#39;s go WalkerLab">
-<meta property="og:description" content="First post!" />
-<meta property="og:url" content="/posts/first_post/" />
+<meta property="og:title" content="">
+<meta property="og:description" content="#Wiki
+{{if and (gt .WordCount 100 ) (.Params.toc) }}
+{{.Title}}{{ .TableOfContents }}{{end}}" />
+<meta property="og:url" content="/old/" />
 <meta property="og:site_name" content="Walker Lab" />
 
-  <meta property="og:image" content="/images/Hello.png">
+  
+    <meta property="og:image" content="/img/favicon/green.png">
+  
 
 <meta property="og:image:width" content="2048">
 <meta property="og:image:height" content="1024">
 
-
-  <meta property="article:published_time" content="2021-02-25 00:00:00 &#43;0000 UTC" />
 
 
 
@@ -166,35 +169,31 @@
     
 <div class="post">
   <h1 class="post-title">
-    <a href="/posts/first_post/">Let&rsquo;s go WalkerLab</a></h1>
+    <a href="/old/"></a></h1>
   <div class="post-meta">
     
-      <span class="post-date">
-        2021-02-25 
-      </span>
-    
-    
-    <span class="post-author">:: ARW</span>
     
   </div>
 
   
 
   
-    <img src="/images/Hello.png" class="post-cover" alt="Let&#39;s go WalkerLab" />
-  
 
   
 
   <div class="post-content"><div>
-        <p>Nothing yet to report :)</p>
-
-  <figure class="center" >
-    <img src="/images/rnapol2.png"   style="border-radius: 6px;"  />
-    
-  </figure>
-
-
+        <p>#Wiki</p>
+<nav id="Table of Contents"><ul></ul></nav>
+<p>{{if and (gt .WordCount 100 ) (.Params.toc) }}</p>
+<main>
+  <header>
+    <h1>{{.Title}}</h1>
+  </header>
+  <aside>
+    {{ .TableOfContents }}
+  </aside>
+</main>
+<p>{{end}}</p>
 
       </div></div>
 
