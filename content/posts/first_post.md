@@ -6,7 +6,7 @@ cover = "images/Hello.png"
 description = "First post!"
 +++
 
-Nothing yet to report :) 
+Coming soon to a university near you, if you live in the Detroit area. :) 
 
 {{<figure src="/images/rnapol2.png" position="center" style="border-radius: 6px;" >}}
 
