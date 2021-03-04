@@ -14,102 +14,12 @@
     
     <item>
       <title>Let&#39;s go WalkerLab</title>
-      <link>/posts/first_post/</link>
+      <link>/</link>
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/first_post/</guid>
+      <guid>/</guid>
       <description>Coming soon to a university near you, if you live in the Detroit area. :)
  </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/classes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/classes/</guid>
-      <description>Classes I plan to teach a course on photochemistry in biology! Here is a set of topics:
-  Basics of photochemistry and excited state theory
-  Photosynthesis and photoenzymes
-  Fluorescent proteins/bioluminescence
-  Isomerizing channel proteins and optics
-  Simulations of excited state systems
-  The goal of this course is that everyone will have some new understanding of photochemistry in biology, and how experimental and theoretical chemistry can work together to investigate these systems.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/cv/</guid>
-      <description>Alice R. Walker
-Stanford Chemistry
-SLAC PULSE Institute
-333 Campus Dr.
-Stanford, CA 94305
-ll Email: &amp;amp; arwalker@stanford.edu
-Websites: &amp;amp; Google Scholar, ResearchGate
-Education  March 2018 Ph.D. in Physical Chemistry, University of North Texas Dissertation: Computational Simulations of Cancer and Disease-Related Enzymatic Systems using Molecular Dynamics and Combined Quantum Methods September 2013-August 2016 Ph.D. Candidate in Physical Chemistry, Wayne State University May 2011 B.S. in Chemistry with distinction, University of Michigan-Dearborn</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/jobopenings/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/jobopenings/</guid>
-      <description>Job Openings We are currently hiring for up to 2 postdoctoral positions for qualified candidates, beginning in Fall 2021.
-If you&amp;rsquo;d like to work on excited state simulations of biomolecules, relevant method development, and or the development of new machine learning models, please contant arwalker[at]wayne[dot]edu for further information.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/old/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/old/</guid>
-      <description>#Wiki
-{{if and (gt .WordCount 100 ) (.Params.toc) }}
-{{.Title}}{{ .TableOfContents }}{{end}}</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/people/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/people/</guid>
-      <description>People PI: Alice R. Walker CV Google ScholarResearch GateOrcIDTwitterHobbies: knitting, video games, staring at screens</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/</guid>
-      <description>Publications Prior to faculty appointment:
-Joseph E. Thomaz*, Alice R. Walker*, Stephen J. Van Wyck, Jan Meisner, Todd J. artínez, and Michael D. Fayer. Proton transfer dynamics in the aprotic proton accepting solvent 1-methylimidazole. The Journal of Physical Chemistry B, 2020. Alice R. Walker, Nikhil Baddam, and G. Andrés Cisneros. Unfolding pathways of hen egg-white lysozyme in ethanol. The Journal of Physical Chemistry B, 123(15):3267–3271, 2019 Hailey L. Gahlon, Alice R.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/research/</guid>
-      <description>Research Overview In the Walker group, we are interested in how to connect biological phenomena and measurements of fluorescence using computational chemistry. Molecular modeling provides ways of translating between what we see in experiment, usually a signal or set of signals, to atomic or electronic level details of the system. To investigate fluorescence in biological systems, we use and develop new techniques in quantum chemistry, molecular dynamics, and excited state simulations.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/wiki/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/wiki/</guid>
-      <description>#Wiki
-Work in progress :)</description>
     </item>
     
   </channel>

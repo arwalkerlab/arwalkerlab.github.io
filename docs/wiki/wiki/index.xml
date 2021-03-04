@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wikis on Walker Lab</title>
+    <link>/wiki/</link>
+    <description>Recent content in Wikis on Walker Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>ARW</copyright>
+    
+	<atom:link href="/wiki/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/wiki/altresnames_amber/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/wiki/altresnames_amber/</guid>
+      <description>Standard residue modifications:
+GLH - protonated glutamic acid GL4 - doubly protonatic glutamic acid ASH - protonated aspartic acid AS4 - doubly protonated aspartic acid CYM - deprotonated cysteine CYX - disulfide bridge cysteine (*Must manually bond in tleap) HIE - epsilon protonated histidine; default for HIS HIP - doubly protonated histidine HID - delta protonated histidine LYN - deprotonated lysine
+Alternative names: HOH - water</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/wiki/anisou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/wiki/anisou/</guid>
+      <description>Anisotropic Temperature Factors These are a numerical representation of the asymmetric scattering density of the atoms in a crystal structure. In a PDB file, these are denoted &amp;ldquo;ANISOU&amp;rdquo;. They are related to the B factors.
+http://skuld.bmsc.washington.edu/parvati/pdb_anisou.html
+For preparing a protein for simulation, these records can be safely deleted.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/wiki/atomtype/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/wiki/atomtype/</guid>
+      <description>FATAL: Atom .R&amp;lt;GL4 36&amp;gt;.A&amp;lt;HCA 20&amp;gt; does not have a type.
+This error arises when an atomtype and the related parameters were not properly defined in my FF or in the PDB file. In order to avoid this, you need to do your homework when defining non-standard residues: check your PDB for naming, check that all bonds, angles, dihedrals (proper and improper), non-bonding and electrostatic params are correctly set (pay attention to units conversion depending on the original parameters set).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/wiki/bfactor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/wiki/bfactor/</guid>
+      <description>#Debye-Waller factors#
+These are often referred to as B factors or the temperature factor. This is a scattering parameter that comes from thermal vibrational motion&amp;ndash;in general, the more flexible the residue, the more smeared out the electornic density, and the higher the B factor.
+These can be found in a PDB in the 11th column, prior to the element column.
+These values can be compared to root mean square fluctuation (RMSF), root mean square deviation (RMSD), and normal mode vibrations to connect between theory and experiment.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/wiki/cryoemt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/wiki/cryoemt/</guid>
+      <description>#Cryo-EM#
+Very large multi-domain structures are often resolved using cryo-EM. This experimental technique is quite powerful and advancing rapidly, but often has structures that are low-resolution and sometimes hard to simulate.
+These issues can be addressed to some degree by overlaying high resolution crystal subdomains onto the main cryo-EM structure.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/wiki/easyparameters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/wiki/easyparameters/</guid>
+      <description>List of previously developed parameters
+Just because these parameters exist doesn&amp;rsquo;t mean they&amp;rsquo;re what you need. Many of them also have different options. Evaluate them first.
+You can build new parameters from existing ones, e.g. adding a Glycam sugar to a Lipid14 tail to make a glycolipid. These should also be carefully evaluated.
+Parameters that are native to Amber can be found in $AMBERHOME/dat/leap/parm and/or $AMBERHOME/dat/leap/lib.
+Parameters compatible with source leaprc.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/wiki/forcefieldeq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/wiki/forcefieldeq/</guid>
+      <description>https://en.wikipedia.org/wiki/AMBER
+https://www.ks.uiuc.edu/Training/Tutorials/science/forcefield-tutorial/forcefield-html/node5.html</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/wiki/loadingffparams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/wiki/loadingffparams/</guid>
+      <description>Command cheatsheet for tleap/xleap
+Loading files:
+leaprc file: source leaprc.forcefield lib file: loadoff res.lib prepi file: loadamberprep res.prepi frcmod file: loadamberparams res.frcmod mol2: loadmol2 RES res.mol2
+Saving files:
+savepdb UNIT unit.pdb (note that this saves the pdb in Amber&amp;rsquo;s format and renumbers residues. Can be useful for cleaning/testing complex systems.) savamberparams UNIT unit.prmtop unit.rst7 savemol2 UNIT unit.mol2
+Creating structure name:
+UNITNAME = unitstructure UNITNAME = loadpdb unitstructure.pdb UNITNAME = loadmol2 unitstructure.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/wiki/modified_amino/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/wiki/modified_amino/</guid>
+      <description>Modified amino acids in Amber:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/wiki/nmr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/wiki/nmr/</guid>
+      <description>#NMR#
+NMR structures are dynamic, and thus output a set of structures rather than just one. The resolution is high, but NMR data is mostly only available for smaller structures. It is also not clear which one is the &amp;ldquo;best&amp;rdquo;, making it sometimes difficult to determine which structure you might want to simulate.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/wiki/outline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/wiki/outline/</guid>
+      <description>How to prepare a protein!
+https://nicolas-van.github.io/easy-markdown-to-github-pages/ http://markdownpad.com/faq.html#livepreview-directx https://guides.github.com/features/mastering-markdown/ https://www.gatsbyjs.com/tutorial/part-zero/
+ Obtain structure (crystal &amp;ndash;&amp;gt; resolution, other metrics like Bfactors, cryo-em, NMR https://www.creative-biostructure.com/comparison-of-crystallography-nmr-and-em_6.htm) &amp;ndash;&amp;gt; bin of structures, PDB vs new PDB formatting). Make sure to save this initial structure as-is for reference, and to make a fresh copy for editing. Check for nonstandard residues (list of common amino acids, list of common DNA bases, list of common crystallization compounds, list of common cofactors, header of PDB breakdown, CONECT nonsense) Check for alternative configurations (ANISOU, rotamers, A/B/C chains, cocrystal repeats) Check for missing residues (Tails vs.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/wiki/pdbformat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/wiki/pdbformat/</guid>
+      <description>A PDB file has several different sections. The first main division is between the HEADER, which contains a large amount of crystallographic, structural and experimental details. The second is the actual crystal structure.
+The crystal structure format is
+Atom # Atom Type Residue Code Residue Number X Y Z 1.0 B-factor Element
+HEADER info</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/wiki/stdaminos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/wiki/stdaminos/</guid>
+      <description>Standard amino acids:
+Arginine - Arg - +1 Histidine - His - 0 usually, +1 if doubly protonated (Hip) Lysine - Lys - +1
+Aspartic acid - Asp - -1 Glutamic acid - Glu - -1
+Serine - Ser - 0 Threonine - Thr - 0 Asparagine - Asn - 0 Glutamine - Glh - 0 Cysteine - Cys - 0 Glycine - Gly - 0 Proline - Pro - 0 Alanine - Ala - 0 Valine - Val - 0 Isoleucine - Ile - 0 Leucine - Leu - 0 Methionine - Met - 0 Phenylalanine - Phe - 0 Tyrosine - Tyr - 0 Tryptophan - Trp - 0</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/wiki/watermodels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/wiki/watermodels/</guid>
+      <description>Water models in AMBER:
+TIP3P TIP4P TIP5P SPCE SPCFW SPCEB</description>
+    </item>
+    
+  </channel>
+</rss>
