@@ -18,4 +18,13 @@
   Hobbies: knitting, video games, staring at screens
   </td>
 </tr>
+<tr>
+  <td width="16%">
+  <center>
+  </center>
+  </td>
+  <td>
+  Undergraduate Researcher: Ashlyn Murphy <br>
+  </td>
+</tr>
 </table>
