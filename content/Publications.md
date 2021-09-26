@@ -1,5 +1,9 @@
 # Publications
 
+11. Madison B. Berger, Alice R. Walker, Erik Antonio Vázquez-Montelongo and G. Andrés Cisneros.
+Computational investigations of two iron and a-ketoglutarate-dependent family enzymes: structural
+and electronic level insights. PCCP, accepted 2021. https://doi.org/10.1039/D1CP03800A
+
 Prior to faculty appointment:
 
 10. Joseph E. Thomaz*, Alice R. Walker*, Stephen J. Van Wyck, Jan Meisner, Todd J. artínez, and Michael D. Fayer. Proton transfer dynamics in the aprotic proton accepting solvent 1-methylimidazole. The Journal of Physical Chemistry B, 2020.
