@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>ARW</copyright>
-    <lastBuildDate>Wed, 03 Mar 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 03 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D proteins in real life!</title>
       <link>/posts/second_post/</link>
@@ -38,13 +34,23 @@ Go here and type the molecule name of your choice! Alternatively, the following 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/classes/</guid>
-      <description>Classes I plan to teach a course on photochemistry in biology! Here is a set of topics:
-  Basics of photochemistry and excited state theory
-  Photosynthesis and photoenzymes
-  Fluorescent proteins/bioluminescence
-  Isomerizing channel proteins and optics
-  Simulations of excited state systems
-  The goal of this course is that everyone will have some new understanding of photochemistry in biology, and how experimental and theoretical chemistry can work together to investigate these systems.</description>
+      <description>#Basics
+Getting started with python: https://py.checkio.org/ https://www.learnpython.org/
+Getting started with conda: https://conda.io/projects/conda/en/latest/user-guide/getting-started.html
+Github basics: https://guides.github.com/activities/hello-world/
+#Scientific programming
+Intro to scientific python: https://stanford.edu/~schmit/cme193/lectures.html
+Using numpy: https://cs231n.github.io/python-numpy-tutorial/
+#Machine learning
+Pandas dataframes: https://github.com/jvns/pandas-cookbook (Has online version to test without installing) https://www.activestate.com/blog/how-to-clean-machine-learning-datasets-using-pandas/
+Pytorch basics: https://pytorch.org/tutorials/
+Keras/Tensorflow basics: https://www.tensorflow.org/tutorials https://keras.io/guides/
+#Quantum chemistry
+http://vergil.chemistry.gatech.edu/notes/
+#Useful utilities
+https://automeris.io/WebPlotDigitizer/
+ Classes I plan to teach a course on photochemistry in biology! Here is a set of topics:
+  Basics of photochemistry and excited state theory</description>
     </item>
     
     <item>
@@ -90,7 +96,7 @@ If you&amp;rsquo;d like to work on excited state simulations of biomolecules, re
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/people/</guid>
-      <description>People PI: Alice R. Walker CV Google ScholarResearch GateOrcIDTwitterHobbies: knitting, video games, staring at screens</description>
+      <description>People PI: Alice R. Walker CV Google ScholarResearch GateOrcIDTwitterHobbies: knitting, video games, staring at screensUndergraduate Researcher: Ashlyn Murphy </description>
     </item>
     
     <item>
@@ -99,8 +105,8 @@ If you&amp;rsquo;d like to work on excited state simulations of biomolecules, re
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description>Publications Prior to faculty appointment:
-Joseph E. Thomaz*, Alice R. Walker*, Stephen J. Van Wyck, Jan Meisner, Todd J. artínez, and Michael D. Fayer. Proton transfer dynamics in the aprotic proton accepting solvent 1-methylimidazole. The Journal of Physical Chemistry B, 2020. Alice R. Walker, Nikhil Baddam, and G. Andrés Cisneros. Unfolding pathways of hen egg-white lysozyme in ethanol. The Journal of Physical Chemistry B, 123(15):3267–3271, 2019 Hailey L. Gahlon, Alice R.</description>
+      <description>Publications Madison B. Berger, Alice R. Walker, Erik Antonio Vázquez-Montelongo and G. Andrés Cisneros. Computational investigations of two iron and a-ketoglutarate-dependent family enzymes: structural and electronic level insights. PCCP, accepted 2021. https://doi.org/10.1039/D1CP03800A  Prior to faculty appointment:
+Joseph E. Thomaz*, Alice R. Walker*, Stephen J. Van Wyck, Jan Meisner, Todd J. artínez, and Michael D. Fayer. Proton transfer dynamics in the aprotic proton accepting solvent 1-methylimidazole. The Journal of Physical Chemistry B, 2020.</description>
     </item>
     
     <item>
