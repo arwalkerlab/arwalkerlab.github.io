@@ -4,7 +4,7 @@
 <tr>
   <td width="16%">
   <center>
-  <image src="/images/arw_profile_pic.jpg" position="center" style="border-radius: 4px; width: 100px">
+  <image src="/images/arw_profile_pic.jpg" position="center" style="border-radius: 4px; width: 200px">
   </center>
   </td>
   <td>
@@ -21,7 +21,7 @@
 <tr>
   <td width="16%">
   <center>
-  <image src="/images/ashlyn_profile.jpg" position="center"  style="border-radius: 4px; width: 100px">
+  <image src="/images/ashlyn_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
   </center>
   </td>
   <td>
