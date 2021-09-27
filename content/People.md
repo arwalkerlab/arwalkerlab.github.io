@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-  <td width="16%">
+  <td width="25%">
   <center>
   <image src="/images/arw_profile_pic.jpg" position="center" style="border-radius: 4px; width: 200px">
   </center>
@@ -19,7 +19,7 @@
   </td>
 </tr>
 <tr>
-  <td width="16%">
+  <td width="25%">
   <center>
   <image src="/images/ashlyn_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
   </center>
