@@ -1,12 +1,19 @@
 # Publications
 
+12. Alice R. Walker, Boning Wu, Jan Meisner, Michael D. Fayer, and Todd J. Martínez. Proton transfer from a photoacid to a water wire: first principles simulations and fast fluorescence spectroscopy. J. Phys. Chem. B 2021, 125, 45, 12539–12551 https://doi.org/10.1021/acs.jpcb.1c07254
+Featured on supplementary cover. https://pubs.acs.org/toc/jpcbfk/125/45
 11. Madison B. Berger, Alice R. Walker, Erik Antonio Vázquez-Montelongo and G. Andrés Cisneros.
 Computational investigations of two iron and a-ketoglutarate-dependent family enzymes: structural
-and electronic level insights. PCCP, accepted 2021. https://doi.org/10.1039/D1CP03800A
+and electronic level insights. Phys. Chem. Chem. Phys., 2021,23, 22227-22240 https://doi.org/10.1039/D1CP03800A
 
-Prior to faculty appointment:
 
-10. Joseph E. Thomaz*, Alice R. Walker*, Stephen J. Van Wyck, Jan Meisner, Todd J. artínez, and Michael D. Fayer. Proton transfer dynamics in the aprotic proton accepting solvent 1-methylimidazole. The Journal of Physical Chemistry B, 2020.
+#Preprints
+
+ - Alice R. Walker, Boning Wu, Jan Meisner, Michael D. Fayer, and Todd J. Martínez. Proton Transfer from a Photoacid to Water: First Principles Simulations and Fast Fluorescence Spectroscopy. https://chemrxiv.org/engage/chemrxiv/article-details/61400bf68e38a349cb525743
+
+#Prior to faculty appointment:
+
+10. Joseph E. Thomaz*, Alice R. Walker*, Stephen J. Van Wyck, Jan Meisner, Todd J. Martínez, and Michael D. Fayer. Proton transfer dynamics in the aprotic proton accepting solvent 1-methylimidazole. The Journal of Physical Chemistry B, 2020.
 9. Alice R. Walker, Nikhil Baddam, and G. Andrés Cisneros. Unfolding pathways of hen egg-white lysozyme in ethanol. The Journal of Physical Chemistry B, 123(15):3267–3271, 2019
 8. Hailey L. Gahlon, Alice R. Walker, G. Andrés Cisneros, Meindert H. Lamers, and David S. Rueda. Reduced structural flexibility for an exonuclease deficient DNA polymerase III mutant. Physical Chemistry Chemical Physics, 20(40):26892–26902, 2018
 7. Nicole Antczak, Alice R. Walker, Hannah R. Stern, Emmett M. Leddin, Carl Palad, Timothy A. Coulther, Rebecca J. Swett, G. Andrés Cisneros, and Penny J. Beuning. Characterization of
