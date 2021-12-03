@@ -7,7 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>ARW</copyright>
-    <lastBuildDate>Wed, 03 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cover article!</title>
+      <link>/posts/third_post/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/third_post/</guid>
+      <description>An article from my postdoctoral research was recently featured as a supplemental cover to J. Phys Chem B!
+Check it out here!</description>
+    </item>
+    
     <item>
       <title>3D proteins in real life!</title>
       <link>/posts/second_post/</link>
@@ -75,7 +89,7 @@ Education  March 2018 Ph.D. in Physical Chemistry, University of North Texas Dis
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/jobopenings/</guid>
-      <description>Job Openings We are currently hiring for up to 2 postdoctoral positions for qualified candidates, beginning in Fall 2021.
+      <description>Job Openings We are not currently hiring for postdoctoral positions, but watch this space! Applicants interesting in pursuing external support are welcome. PhD and undergraduate students interested in research opportunities are also very welcome.
 If you&amp;rsquo;d like to work on excited state simulations of biomolecules, relevant method development, and or the development of new machine learning models, please contant arwalker[at]wayne[dot]edu for further information.</description>
     </item>
     
@@ -96,7 +110,7 @@ If you&amp;rsquo;d like to work on excited state simulations of biomolecules, re
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/people/</guid>
-      <description>People PI: Alice R. Walker CV Google ScholarResearch GateOrcIDTwitterHobbies: knitting, video games, staring at screensUndergraduate Researcher: Ashlyn Murphy </description>
+      <description>People PI: Alice R. Walker CV Google ScholarResearch GateOrcIDTwitterHobbies: knitting, video games, staring at screensUndergraduate Researcher: Ashlyn Murphy CVPostdoctoral Researcher: Nina McCulley CVGraduate Student: Solomon Yamoah Effah CVGraduate Student: Vishaka Pathiranage</description>
     </item>
     
     <item>
@@ -105,8 +119,7 @@ If you&amp;rsquo;d like to work on excited state simulations of biomolecules, re
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description>Publications Madison B. Berger, Alice R. Walker, Erik Antonio Vázquez-Montelongo and G. Andrés Cisneros. Computational investigations of two iron and a-ketoglutarate-dependent family enzymes: structural and electronic level insights. PCCP, accepted 2021. https://doi.org/10.1039/D1CP03800A  Prior to faculty appointment:
-Joseph E. Thomaz*, Alice R. Walker*, Stephen J. Van Wyck, Jan Meisner, Todd J. artínez, and Michael D. Fayer. Proton transfer dynamics in the aprotic proton accepting solvent 1-methylimidazole. The Journal of Physical Chemistry B, 2020.</description>
+      <description>Publications Alice R. Walker, Boning Wu, Jan Meisner, Michael D. Fayer, and Todd J. Martínez. Proton transfer from a photoacid to a water wire: first principles simulations and fast fluorescence spectroscopy. J. Phys. Chem. B 2021, 125, 45, 12539–12551 https://doi.org/10.1021/acs.jpcb.1c07254 Featured on supplementary cover. https://pubs.acs.org/toc/jpcbfk/125/45 Madison B. Berger, Alice R. Walker, Erik Antonio Vázquez-Montelongo and G. Andrés Cisneros. Computational investigations of two iron and a-ketoglutarate-dependent family enzymes: structural and electronic level insights.</description>
     </item>
     
     <item>

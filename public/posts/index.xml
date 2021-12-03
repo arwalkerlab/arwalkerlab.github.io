@@ -7,7 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>ARW</copyright>
-    <lastBuildDate>Wed, 03 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cover article!</title>
+      <link>/posts/third_post/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/third_post/</guid>
+      <description>An article from my postdoctoral research was recently featured as a supplemental cover to J. Phys Chem B!
+Check it out here!</description>
+    </item>
+    
     <item>
       <title>3D proteins in real life!</title>
       <link>/posts/second_post/</link>
