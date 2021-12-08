@@ -43,8 +43,8 @@
 <tr>
   <td width="25%">
   <center>
-<!--  <image src="/images/vishaka_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
-  </center> --!>
+  <image src="/images/vishaka_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
+  </center>
   </td>
   <td>
   Graduate Student: Vishaka Pathiranage<br>
