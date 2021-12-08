@@ -29,7 +29,7 @@
   <a href="/pdf/ashlyn_cv_2021.pdf">CV</a>
   </td>
 </tr>
-<! ---
+<!--
 <tr>
   <td width="25%">
   <center>
@@ -41,6 +41,7 @@
   <a href="/pdf/nina_cv_2021.pdf">CV</a>
   </td>
 </tr>
+--!>
 <tr>
   <td width="25%">
   <center>
@@ -55,8 +56,8 @@
 <tr>
   <td width="25%">
   <center>
-  <image src="/images/vishaka_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
-  </center>
+<!--  <image src="/images/vishaka_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
+  </center> --!>
   </td>
   <td>
   Graduate Student: Vishaka Pathiranage<br>
@@ -74,5 +75,4 @@
   <a href="/pdf/widana_cv_2021.pdf">CV</a>
   </td>
 </tr>
---- !>
 </table>
