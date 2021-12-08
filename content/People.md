@@ -29,7 +29,6 @@
   <a href="/pdf/ashlyn_cv_2021.pdf">CV</a>
   </td>
 </tr>
-<!--
 <tr>
   <td width="25%">
   <center>
@@ -41,7 +40,6 @@
   <a href="/pdf/nina_cv_2021.pdf">CV</a>
   </td>
 </tr>
---!>
 <tr>
   <td width="25%">
   <center>
