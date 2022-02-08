@@ -62,4 +62,22 @@
   <a href="/pdf/widana_cv_2021.pdf">CV</a>
   </td>
 </tr>
+<tr>
+  <td width="25%">
+  </td>
+  <td>
+  Undergraduate Researcher: Nathaniel Turner <br>
+  </td>
+</tr>
+<tr>
+  <td width="25%">
+  <center>
+  <image src="/images/nina_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
+  </center>
+  </td>
+  <td>
+  Postdoctoral Researcher: Nina McCulley <br>
+  <a href="/pdf/nina_cv_2022.pdf">CV</a>
+  </td>
+</tr>
 </table>

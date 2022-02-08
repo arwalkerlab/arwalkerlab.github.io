@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>ARW</copyright>
-    <lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cover article!</title>
       <link>/posts/third_post/</link>
@@ -40,6 +36,15 @@ Go here and type the molecule name of your choice! Alternatively, the following 
       <guid>/posts/first_post/</guid>
       <description>Coming soon to a university near you, if you live in the Detroit area. :)
  </description>
+    </item>
+    
+    <item>
+      <title>Welcome Nina!</title>
+      <link>/posts/fourth_post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/fourth_post/</guid>
+      <description>Nina McCulley has joined the lab as a postdoctoral researcher. Welcome Nina!</description>
     </item>
     
   </channel>
