@@ -2,7 +2,7 @@
 title = "Welcome Nina!"
 date = "2022-1-13"
 author = "ARW"
-cover = "images/nina_profile.jpg"
+cover = "/images/nina_profile.jpg"
 description = "New postdoctoral researcher"
 +++
 
