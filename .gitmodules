@@ -1,9 +1,9 @@
-[submodule "HugoTheme"]
-	path = themes/hugo-base16-theme/
-    url = https://github.com/butlerx/hugo-theme-base16
-[submodule "SolarTheme"]
-	path = themes/solar-theme-hugo/
-    url = https://github.com/bake/solar-theme-hugo/
-[submodule "terminal"]
-	path = themes/terminal/
-    url = https://github.com/panr/hugo-theme-terminal
+[submodule "hugo-theme-base16"]
+	path = hugo-theme-base16
+	url = https://github.com/butlerx/hugo-theme-base16
+[submodule "solar-theme-hugo"]
+	path = solar-theme-hugo
+	url = https://github.com/bake/solar-theme-hugo
+[submodule "hugo-theme-terminal"]
+	path = hugo-theme-terminal
+	url = https://github.com/panr/hugo-theme-terminal
