@@ -91,8 +91,7 @@ Keras/Tensorflow basics: https://www.tensorflow.org/tutorials https://keras.io/g
 http://vergil.chemistry.gatech.edu/notes/
 #Useful utilities
 https://automeris.io/WebPlotDigitizer/
- Classes I plan to teach a course on photochemistry in biology! Here is a set of topics:
-  Basics of photochemistry and excited state theory</description>
+ Classes Fall: Structure and Function of Biomolecules (5600/7600) Winter: Computational Chemistry (6440/7440)</description>
       <content>&lt;p&gt;#Basics&lt;/p&gt;
 &lt;p&gt;Getting started with python:
 &lt;a href=&#34;https://py.checkio.org/&#34;&gt;https://py.checkio.org/&lt;/a&gt;
@@ -121,25 +120,8 @@ https://automeris.io/WebPlotDigitizer/
 &lt;p&gt;&lt;a href=&#34;https://automeris.io/WebPlotDigitizer/&#34;&gt;https://automeris.io/WebPlotDigitizer/&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;classes&#34;&gt;Classes&lt;/h1&gt;
-&lt;p&gt;I plan to teach a course on photochemistry in biology! Here is a set of topics:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Basics of photochemistry and excited state theory&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Photosynthesis and photoenzymes&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Fluorescent proteins/bioluminescence&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Isomerizing channel proteins and optics&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Simulations of excited state systems&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The goal of this course is that everyone will have some new understanding of photochemistry in biology, and how experimental and theoretical chemistry can work together to investigate these systems.&lt;/p&gt;
+&lt;p&gt;Fall: Structure and Function of Biomolecules (5600/7600)
+Winter: Computational Chemistry (6440/7440)&lt;/p&gt;
 </content>
     </item>
     
