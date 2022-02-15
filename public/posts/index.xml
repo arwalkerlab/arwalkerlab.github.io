@@ -16,6 +16,9 @@
       <guid>/posts/third_post/</guid>
       <description>An article from my postdoctoral research was recently featured as a supplemental cover to J. Phys Chem B!
 Check it out here!</description>
+      <content>&lt;p&gt;An article from my postdoctoral research was recently featured as a supplemental cover to J. Phys Chem B!&lt;/p&gt;
+&lt;p&gt;Check it out &lt;a href=&#34;https://pubs.acs.org/toc/jpcbfk/125/45&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -26,6 +29,26 @@ Check it out here!</description>
       <guid>/posts/second_post/</guid>
       <description>If you have a mobile phone, you can play with some WalkerLab proteins in real life, courtesy of Sukolsak Sakshuwong and Umberto Raucci.
 Go here and type the molecule name of your choice! Alternatively, the following QR codes will display specific proteins relevant to our proposed research. Open up your mobile phone camera app and hover it over the following images; it will ask if you would like to follow a link to display the image interactively on your phone.</description>
+      <content>&lt;p&gt;If you have a mobile phone, you can play with some WalkerLab proteins in real life, courtesy of &lt;a href=&#34;https://sukolsak.com&#34;&gt;Sukolsak Sakshuwong&lt;/a&gt; and &lt;a href=&#34;https://orcid.org/0000-0002-8219-224X&#34;&gt;Umberto Raucci&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Go &lt;a href=&#34;https://stanford.edu/~sukolsak/ar/&#34;&gt;here&lt;/a&gt; and type the molecule name of your choice! Alternatively, the following QR codes will display specific proteins relevant to our proposed research. Open up your mobile phone camera app and hover it over the following images; it will ask if you would like to follow a link to display the image interactively on your phone. You can move it around and see it on your desk!&lt;/p&gt;
+&lt;p&gt;Note that Google Pixel phone support for augmented reality is somewhat questionable. The AR is the most well integrated with iPhones.&lt;/p&gt;
+&lt;p&gt;Interleukin6 aptamer: 
+  &lt;img src=&#34;/images/IL6SQR.png&#34;  class=&#34;left&#34;  style=&#34;width: 50%&#34;  /&gt;
+
+&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;Reversible GFP: 
+  &lt;img src=&#34;/images/rsEGFP2QR.png&#34;  class=&#34;left&#34;  style=&#34;width: 50%&#34;  /&gt;
+
+&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;RNA Polymerase II: 
+  &lt;img src=&#34;/images/3HOYQR.png&#34;  class=&#34;left&#34;  style=&#34;width: 50%&#34;  /&gt;
+
+&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -36,6 +59,15 @@ Go here and type the molecule name of your choice! Alternatively, the following 
       <guid>/posts/first_post/</guid>
       <description>Coming soon to a university near you, if you live in the Detroit area. :)
  </description>
+      <content>&lt;p&gt;Coming soon to a university near you, if you live in the Detroit area. :)&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/images/rnapol2.png&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
+</content>
     </item>
     
     <item>
@@ -45,6 +77,8 @@ Go here and type the molecule name of your choice! Alternatively, the following 
       
       <guid>/posts/fourth_post/</guid>
       <description>Nina McCulley has joined the lab as a postdoctoral researcher. Welcome Nina!</description>
+      <content>&lt;p&gt;Nina McCulley has joined the lab as a postdoctoral researcher. Welcome Nina!&lt;/p&gt;
+</content>
     </item>
     
   </channel>

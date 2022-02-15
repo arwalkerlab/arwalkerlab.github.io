@@ -16,6 +16,9 @@
       <guid>/posts/third_post/</guid>
       <description>An article from my postdoctoral research was recently featured as a supplemental cover to J. Phys Chem B!
 Check it out here!</description>
+      <content>&lt;p&gt;An article from my postdoctoral research was recently featured as a supplemental cover to J. Phys Chem B!&lt;/p&gt;
+&lt;p&gt;Check it out &lt;a href=&#34;https://pubs.acs.org/toc/jpcbfk/125/45&#34;&gt;here&lt;/a&gt;!&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -26,6 +29,26 @@ Check it out here!</description>
       <guid>/posts/second_post/</guid>
       <description>If you have a mobile phone, you can play with some WalkerLab proteins in real life, courtesy of Sukolsak Sakshuwong and Umberto Raucci.
 Go here and type the molecule name of your choice! Alternatively, the following QR codes will display specific proteins relevant to our proposed research. Open up your mobile phone camera app and hover it over the following images; it will ask if you would like to follow a link to display the image interactively on your phone.</description>
+      <content>&lt;p&gt;If you have a mobile phone, you can play with some WalkerLab proteins in real life, courtesy of &lt;a href=&#34;https://sukolsak.com&#34;&gt;Sukolsak Sakshuwong&lt;/a&gt; and &lt;a href=&#34;https://orcid.org/0000-0002-8219-224X&#34;&gt;Umberto Raucci&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Go &lt;a href=&#34;https://stanford.edu/~sukolsak/ar/&#34;&gt;here&lt;/a&gt; and type the molecule name of your choice! Alternatively, the following QR codes will display specific proteins relevant to our proposed research. Open up your mobile phone camera app and hover it over the following images; it will ask if you would like to follow a link to display the image interactively on your phone. You can move it around and see it on your desk!&lt;/p&gt;
+&lt;p&gt;Note that Google Pixel phone support for augmented reality is somewhat questionable. The AR is the most well integrated with iPhones.&lt;/p&gt;
+&lt;p&gt;Interleukin6 aptamer: 
+  &lt;img src=&#34;/images/IL6SQR.png&#34;  class=&#34;left&#34;  style=&#34;width: 50%&#34;  /&gt;
+
+&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;Reversible GFP: 
+  &lt;img src=&#34;/images/rsEGFP2QR.png&#34;  class=&#34;left&#34;  style=&#34;width: 50%&#34;  /&gt;
+
+&lt;/p&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;p&gt;RNA Polymerase II: 
+  &lt;img src=&#34;/images/3HOYQR.png&#34;  class=&#34;left&#34;  style=&#34;width: 50%&#34;  /&gt;
+
+&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -36,6 +59,15 @@ Go here and type the molecule name of your choice! Alternatively, the following 
       <guid>/posts/first_post/</guid>
       <description>Coming soon to a university near you, if you live in the Detroit area. :)
  </description>
+      <content>&lt;p&gt;Coming soon to a university near you, if you live in the Detroit area. :)&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/images/rnapol2.png&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
+</content>
     </item>
     
     <item>
@@ -61,6 +93,54 @@ http://vergil.chemistry.gatech.edu/notes/
 https://automeris.io/WebPlotDigitizer/
  Classes I plan to teach a course on photochemistry in biology! Here is a set of topics:
   Basics of photochemistry and excited state theory</description>
+      <content>&lt;p&gt;#Basics&lt;/p&gt;
+&lt;p&gt;Getting started with python:
+&lt;a href=&#34;https://py.checkio.org/&#34;&gt;https://py.checkio.org/&lt;/a&gt;
+&lt;a href=&#34;https://www.learnpython.org/&#34;&gt;https://www.learnpython.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Getting started with conda:
+&lt;a href=&#34;https://conda.io/projects/conda/en/latest/user-guide/getting-started.html&#34;&gt;https://conda.io/projects/conda/en/latest/user-guide/getting-started.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Github basics:
+&lt;a href=&#34;https://guides.github.com/activities/hello-world/&#34;&gt;https://guides.github.com/activities/hello-world/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Scientific programming&lt;/p&gt;
+&lt;p&gt;Intro to scientific python:
+&lt;a href=&#34;https://stanford.edu/~schmit/cme193/lectures.html&#34;&gt;https://stanford.edu/~schmit/cme193/lectures.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Using numpy:
+&lt;a href=&#34;https://cs231n.github.io/python-numpy-tutorial/&#34;&gt;https://cs231n.github.io/python-numpy-tutorial/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Machine learning&lt;/p&gt;
+&lt;p&gt;Pandas dataframes:
+&lt;a href=&#34;https://github.com/jvns/pandas-cookbook&#34;&gt;https://github.com/jvns/pandas-cookbook&lt;/a&gt; (Has online version to test without installing)
+&lt;a href=&#34;https://www.activestate.com/blog/how-to-clean-machine-learning-datasets-using-pandas/&#34;&gt;https://www.activestate.com/blog/how-to-clean-machine-learning-datasets-using-pandas/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pytorch basics:
+&lt;a href=&#34;https://pytorch.org/tutorials/&#34;&gt;https://pytorch.org/tutorials/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Keras/Tensorflow basics:
+&lt;a href=&#34;https://www.tensorflow.org/tutorials&#34;&gt;https://www.tensorflow.org/tutorials&lt;/a&gt;
+&lt;a href=&#34;https://keras.io/guides/&#34;&gt;https://keras.io/guides/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Quantum chemistry&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://vergil.chemistry.gatech.edu/notes/&#34;&gt;http://vergil.chemistry.gatech.edu/notes/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Useful utilities&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://automeris.io/WebPlotDigitizer/&#34;&gt;https://automeris.io/WebPlotDigitizer/&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;classes&#34;&gt;Classes&lt;/h1&gt;
+&lt;p&gt;I plan to teach a course on photochemistry in biology! Here is a set of topics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Basics of photochemistry and excited state theory&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Photosynthesis and photoenzymes&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fluorescent proteins/bioluminescence&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Isomerizing channel proteins and optics&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Simulations of excited state systems&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The goal of this course is that everyone will have some new understanding of photochemistry in biology, and how experimental and theoretical chemistry can work together to investigate these systems.&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -77,6 +157,197 @@ Stanford, CA 94305
 ll Email: &amp;amp; arwalker@stanford.edu
 Websites: &amp;amp; Google Scholar, ResearchGate
 Education  March 2018 Ph.D. in Physical Chemistry, University of North Texas Dissertation: Computational Simulations of Cancer and Disease-Related Enzymatic Systems using Molecular Dynamics and Combined Quantum Methods September 2013-August 2016 Ph.D. Candidate in Physical Chemistry, Wayne State University May 2011 B.S. in Chemistry with distinction, University of Michigan-Dearborn</description>
+      <content>&lt;p&gt;&lt;strong&gt;Alice R. Walker&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://chemistry.stanford.edu/&#34;&gt;Stanford Chemistry&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://ultrafast.stanford.edu/&#34;&gt;SLAC PULSE Institute&lt;/a&gt;&lt;br&gt;
+333 Campus Dr.&lt;br&gt;
+Stanford, CA 94305&lt;/p&gt;
+&lt;p&gt;ll Email: &amp;amp; &lt;a href=&#34;arwalker@stanford.edu&#34;&gt;arwalker@stanford.edu&lt;/a&gt;&lt;br&gt;
+Websites: &amp;amp; &lt;a href=&#34;https://scholar.google.com/citations?user=2tmkmrkAAAAJ&amp;amp;hl=en&#34;&gt;Google
+Scholar&lt;/a&gt;,
+&lt;a href=&#34;https://www.researchgate.net/profile/Alice_Walker6&#34;&gt;ResearchGate&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;education&#34; class=&#34;unnumbered&#34;&gt;Education&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;March 2018                   &lt;strong&gt;Ph.D.&lt;/strong&gt; in Physical Chemistry, University of North Texas
+Dissertation:                Computational Simulations of Cancer and Disease-Related
+Enzymatic Systems using Molecular Dynamics and Combined Quantum Methods
+September 2013-August 2016   &lt;strong&gt;Ph.D. Candidate&lt;/strong&gt; in Physical Chemistry, Wayne State University
+May 2011                     &lt;strong&gt;B.S.&lt;/strong&gt; in Chemistry with distinction, University of Michigan-Dearborn&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;awards-and-honors&#34; class=&#34;unnumbered&#34;&gt;Awards and Honors&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;honors-program-university-of-michigan-dearborn-2005-11&#34;&gt;&lt;strong&gt;Promise in COMP Award&lt;/strong&gt;, 258th ACS National Meeting, San Diego, CA (2019)
+&lt;strong&gt;Robert Wade Brown Award&lt;/strong&gt;, University of North Texas (2018)
+&lt;strong&gt;Chemical Computing Group Excellence Award&lt;/strong&gt;, 255th ACS National Meeting, New Orleans, LA (2018)
+&lt;strong&gt;American Society for Mass Spectrometry Sanibel Conference Travel Award&lt;/strong&gt;, St. Petersburg, FL (2018)
+&lt;strong&gt;Award for Best Poster&lt;/strong&gt;, 6th EU-US Conference on Repair of Endogenous DNA Damage, University of Udine (2017)
+&lt;strong&gt;College of Science Travel Grant&lt;/strong&gt;, University of North Texas (2017)
+&lt;strong&gt;Ed and Julie Hodges Memorial Scholarship&lt;/strong&gt;, University of North Texas (2017)
+&lt;strong&gt;ANTON Molecular Dynamics Simulations Computing Award&lt;/strong&gt;, PSCA15038 (2015)
+&lt;strong&gt;Chemistry-Biology Interface (CBI) Fellowship&lt;/strong&gt;, Chemistry Division (2015-16)
+&lt;strong&gt;Honor Citation for Teaching Services in Chemistry&lt;/strong&gt;, Wayne State University (2013)
+&lt;strong&gt;Chancellor&amp;rsquo;s Scholarship&lt;/strong&gt;, University of Michigan-Dearborn (2005-9)
+&lt;strong&gt;Honor&amp;rsquo;s Program&lt;/strong&gt;, University of Michigan-Dearborn (2005-11)&lt;/h2&gt;
+&lt;h1 id=&#34;research-professional-experience&#34; class=&#34;unnumbered&#34;&gt;Research &amp;amp; Professional Experience&lt;/h1&gt;
+&lt;p&gt;+:&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;+
+| &lt;strong&gt;Postdoctoral Scholar&lt;/strong&gt; at Stanford Linear Accelerator Lab/Stanford |
+| University (Stanford, CA), May 2018-Present                          |
++&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-+
+| Adviser: Prof. Todd J. Martínez                                      |
+|                                                                      |
+| -   Simulated the initial steps of the previously unknown mechanism  |
+|     for fatty acid photodecarboxylase.                               |
+|                                                                      |
+| -   Collaborated with time-resolved single photon spectroscopy       |
+|     experiments to explain the excited state mechanism of pyranine,  |
+|     a weak photoacid, in aprotic solvent and water.                  |
+|                                                                      |
+| -   Heading an interdisciplinary collaboration of crystallography,   |
+|     spectroscopy and theory groups to characterize effect of         |
+|     mutations on quantum yield for red fluorescent proteins.         |
+|                                                                      |
+| -   Simulating the excited state mechanism of green fluorescent      |
+|     protein variant rsEGFP2 to determine the effect of crystal       |
+|     packing with ab initio multiple spawning.                        |
+|                                                                      |
+| -   Correlating ring strain in ICH ralstonia to allosteric networks  |
+|     and reaction mechanism from high-resolution crystal structures.  |
++&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-+
+|                                                                      |
++&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-+
+| &lt;strong&gt;Graduate Research Assistant&lt;/strong&gt; at University of North Texas         |
+| (Denton, TX), Sept. 2016-May 2018                                    |
++&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-+
+| &lt;strong&gt;Graduate Research Assistant&lt;/strong&gt; at Wayne State University (Detroit,  |
+| MI), Sept. 2013-August 2016                                          |
++&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-+
+| Adviser: Prof. G. Andrés Cisneros                                    |
++&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-+
+|                                                                      |
++&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-+
+| &lt;strong&gt;Analytical Chemist&lt;/strong&gt; at RTI Laboratories (Livonia, MI), Sept.      |
+| 2011-May 2013                                                        |
++&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-+
+|                                                                      |
++&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-+
+| &lt;strong&gt;Undergraduate Research&lt;/strong&gt; at University of Michigan-Dearborn        |
+| (Dearborn, MI), June 2009-Nov. 2010                                  |
++&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-+
+| Adviser: Prof. Daniel B. Lawson                                      |
++&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-+&lt;/p&gt;
+&lt;h1 id=&#34;peer-reviewed-publications&#34; class=&#34;unnumbered&#34;&gt;Peer Reviewed Publications&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;10.        Joseph E. Thomaz*, [Alice R. Walker]{.ul}*, Stephen J. Van Wyck, Jan Meisner, Todd J. Martínez, and Michael D. Fayer. Proton transfer dynamics in the aprotic proton accepting solvent 1-methylimidazole. &lt;em&gt;The Journal of Physical Chemistry B&lt;/em&gt;, &lt;strong&gt;2020&lt;/strong&gt;. &lt;a href=&#34;https://doi.org/10.1021/acs.jpcb.0c05525&#34;&gt;https://doi.org/10.1021/acs.jpcb.0c05525&lt;/a&gt;
+9.      &lt;br&gt;
+8.      &lt;br&gt;
+7.      &lt;br&gt;
+6.      &lt;br&gt;
+5.      &lt;br&gt;
+4.      &lt;br&gt;
+3.      &lt;br&gt;
+2.      &lt;br&gt;
+1.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;          Manuscripts in preparation:
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;$\bullet$   [Alice R. Walker]{.ul}, Erik Vasquez Montelongo, and G. Andrés Cisneros. &amp;ldquo;Computational investigation of the rate-limiting step of dsDNA dealkylase AlkBH2 with AMOEBA/QMMM.&amp;rdquo;
+$\bullet$   [Alice R. Walker]{.ul}, T.J. Lane, Henry van den Bedem and Todd J. Martínez. &amp;ldquo;Theoretical insights into the excitation mechanism of fatty acid photodecarboxylase.&amp;rdquo;
+$\bullet$   [Alice R. Walker]{.ul}, Chey Jones, Nanna List, and Todd J. Martínez. &amp;quot; Simulations of crystal structure packing effect on green fluorescent protein variant isomerization.&amp;quot;
+$\bullet$   Elisa Pieri*, [Alice R. Walker]{.ul}*, Todd J. Martínez. &amp;ldquo;Computational study of relationship between quantum yield, structure and energy of red fluorescent protein variants.&amp;rdquo;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;teaching-and-mentoring-experience&#34; class=&#34;unnumbered&#34;&gt;Teaching and Mentoring Experience&lt;/h1&gt;
+&lt;p&gt;+:&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;+
+| &lt;strong&gt;&lt;a href=&#34;https://cqmd.stanford.edu/Education&#34;&gt;Quantum Molecular Design Summer School                            |
+| Instructor&lt;/a&gt;&lt;/strong&gt; at Stanford       |
+| University (Stanford, CA), August 2019                               |
++&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-+
+| Designed a curriculum for an interdisciplinary group of graduate     |
+| students and postdoctoral researchers to explore how to structure    |
+| theory-experiment collaborations in the context of excited state     |
+| QM/MM simulations of proteins.                                       |
+|                                                                      |
+| -   Taught and created a curriculum in the context of a hands-on     |
+|     tutorial to explore the excited state dynamics of photoactive    |
+|     yellow protein in explicit solvent.                              |
+|                                                                      |
+| -   Organized and facilitated a set of relevant lectures from        |
+|     graduate students and postdocs.                                  |
+|                                                                      |
+| &lt;strong&gt;Protein Subgroup Leader&lt;/strong&gt;, Martínez Group at Stanford University   |
+| (Stanford, CA) June 2018-present                                     |
++&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-+
+| Leader for protein related research in the Martinez group. Act as a  |
+| research coordinator and prepare monthly targeted meetings for group |
+| members working on simulations of photoswitchable and fluorescent    |
+| proteins, including discussion of relevant computational techniques  |
+| and presentations of current work.                                   |
+|                                                                      |
+| &lt;strong&gt;BUILD Program Coordinator and Lecturer&lt;/strong&gt; at Wayne State University |
+| (Detroit, MI), July 2015/July 2016                                   |
++&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-+
+| Co-created and co-implemented, with another graduate student, a      |
+| two-week chemistry curriculum aimed at advancing and supporting      |
+| incoming underrepresented minority undergraduate students majoring   |
+| in scientific fields.                                                |
+|                                                                      |
+| -   Lessons focused on active learning, integration of laboratory    |
+|     and interactive lecture, and completion of a group oral          |
+|     presentation on literature research.                             |
+|                                                                      |
+| -   BUILD is part of an interdisciplinary program at multiple local  |
+|     universities, and funded by the NIH.                             |
++&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-+
+| &lt;strong&gt;Graduate Teaching Assistant&lt;/strong&gt; at Wayne State University (Detroit,  |
+| MI), Sept. 2013-Aug. 2015                                            |
++&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-+
+| Assisted with teaching for Chemistry Skills and Reasoning, General   |
+| Chemistry I Laboratory, General Chemistry II: Analytical Chemistry,  |
+| and General Chemistry II: Analytical Chemistry Laboratory.           |
++&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-+
+| &lt;strong&gt;Student Teacher&lt;/strong&gt; at Southfield-Lathrup High School (Southfield,   |
+| MI), Jan. 2011-April 2011                                            |
++&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-+
+| Created and implemented consistent lesson plans throughout the       |
+| semester for four chemistry classes and one English class, as well   |
+| as a variety of classroom materials and activities for students,     |
+| including demonstrations and laboratories.                           |
++&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-+&lt;/p&gt;
+&lt;h1 id=&#34;highlighted-presentations&#34; class=&#34;unnumbered&#34;&gt;Highlighted Presentations&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;15.   &amp;ldquo;Awarded Long Talk for Outstanding Lightning Talk: Simulations of crystal structure packing effect on green fluorescent protein variant isomerization.&amp;rdquo; Alice R. Walker, Chey Jones, Nanna List, Todd J. Martínez. &lt;strong&gt;Talk&lt;/strong&gt;. Virtual Conference on Theoretical Chemistry, July 2020.
+14.   &amp;ldquo;Mechanistic insights into photodecarboxylation of fatty acids from classical and QM/MM simulations.&amp;rdquo; Alice R. Walker, T.J. Lane, Henry van den Bedem, Todd J. Martínez. &lt;strong&gt;Talk&lt;/strong&gt;. Division of Computers in Chemistry: Women Make COMP, 258th ACS National Meeting, San Diego, CA. August 26, 2019.
+13.   &amp;ldquo;Mechanistic insights into photodecarboxylation of fatty acids from classical and QM/MM simulations.&amp;rdquo; Alice R. Walker, T.J. Lane, Henry van den Bedem, Todd J. Martínez. &lt;strong&gt;Talk&lt;/strong&gt;. Northern California Theoretical Chemistry Meeting, Berkeley, CA. May 19, 2019.
+12.   &amp;ldquo;Mechanistic insights into photodecarboxylation of fatty acids from classical and QM/MM simulations.&amp;rdquo; Alice R. Walker, T.J. Lane, Henry van den Bedem, Todd J. Martínez. &lt;strong&gt;Poster&lt;/strong&gt;. D. E. Shaw Research Graduate and Postdoc Women&amp;rsquo;s Forum, New York, NY. May 9, 2019.
+11.   &amp;ldquo;Effects of a single point mutation and mismatched base on DNA polymerase III holoenzyme proofreading.&amp;rdquo; Alice R. Walker, Hailey Gahlon, David Rueda, G. Andrés Cisneros. &lt;strong&gt;Talk&lt;/strong&gt;. Division of Computers in Chemistry: Insights into Structure, Function, Dynamics &amp;amp; Evolution of Enzymatic Mechanisms from Computational Simulation, 255th ACS National Meeting, New Orleans, LA. March 20, 2018.
+10.   &amp;ldquo;Unfolding of hen egg white lysozyme in high alcohol solutions: Insights from molecular dynamics and IMS-MS.&amp;rdquo; Alice R. Walker, Daniel W. Woodall, Ellen Inutan, Nikhil Baddam, G. Andrés Cisneros, Sarah Trimpin. &lt;strong&gt;Poster&lt;/strong&gt;. Division of Computers in Chemistry Poster Session, 255th ACS National Meeting, New Orleans, LA. March 20, 2018.
+9.    &amp;ldquo;Hot Topic Talk: Unfolding of hen egg white lysozyme in high alcohol solutions: Insights from molecular dynamics and IMS-MS.&amp;rdquo; Alice R. Walker, Daniel W. Woodall, Ellen Inutan, Nikhil Baddam, G. Andrés Cisneros, Sarah Trimpin. &lt;strong&gt;Talk and Poster&lt;/strong&gt;. 30th ASMS Sanibel Conference on Mass Spectrometry, St Petersburg, FL. January 27, 2018.
+8.    &amp;ldquo;ALKBH7 variant related to prostate cancer exhibits altered substrate binding.&amp;rdquo; Alice R. Walker, Pavel Silvestrov, Tina A. Müller, Robert H. Podolsky, Gregory Dyson, Robert P. Hausinger, G. Andrés Cisneros. &lt;strong&gt;Poster&lt;/strong&gt;. 6th EU-US Conference on Repair of Endogenous DNA Damage, University of Udine, Udine, Italy. September 26/27, 2017.
+7.    &amp;ldquo;ALKBH7 variant related to prostate cancer exhibits altered substrate binding.&amp;rdquo; Alice R. Walker, Pavel Silvestrov, Tina A. Müller, Robert H. Podolsky, Gregory Dyson, Robert P. Hausinger, G. Andrés Cisneros. &lt;strong&gt;Poster&lt;/strong&gt;. Division of Computers in Chemistry Poster Session, 253rd ACS National Meeting, San Francisco, CA. April 4, 2017.
+6.    &amp;ldquo;ALKBH7 variant related to prostate cancer exhibits altered substrate binding.&amp;rdquo; Alice R. Walker, Pavel Silvestrov, Tina A. Müller, Robert H. Podolsky, Gregory Dyson, Robert P. Hausinger, G. Andrés Cisneros. &lt;strong&gt;Poster&lt;/strong&gt;. Graduate Student Research Symposium, Texas Women&amp;rsquo;s University, Denton, TX. March 31, 2017.
+5.    &amp;ldquo;GPU-enabled binding free energy calculations of potential ligands for pancreatic cancer imaging.&amp;rdquo; Alice R. Walker, Robin Bonomi, Juri Gelovani, G. Andrés Cisneros. &lt;strong&gt;Poster&lt;/strong&gt;. Division of Computers in Chemistry Poster Session, 251st ACS National Meeting, San Diego, CA. March 16, 2016.
+4.    &amp;ldquo;Computational studies on potential PET imaging ligands for Galectin-3 in pancreatic cancer tumors.&amp;rdquo; Alice R. Walker, Robin Bonomi, Juri Gelovani, G. Andrés Cisneros. &lt;strong&gt;Poster&lt;/strong&gt;. Division of Computers in Chemistry Poster Session, 250th ACS National Meeting, Boston, MA. August 18, 2015.
+3.    &amp;ldquo;Computational Studies on Potential Ligands for Imaging Cancer Tumors and Examination of Dealkylation Mechanism of AlkBH2.&amp;rdquo; Alice R. Walker, G. Andrés Cisneros. &lt;strong&gt;Talk&lt;/strong&gt;. Second year seminar at Wayne State University. February 25, 2015.
+2.    &amp;ldquo;Computational Studies of Inhibitors for Galectin-3.&amp;rdquo; Alice R. Walker, G. Andrés Cisneros. &lt;strong&gt;Poster&lt;/strong&gt;. Wayne State University 16th Annual Chemistry Graduate Research Symposium, Detroit, MI. October 11 2014.
+1.    &amp;ldquo;Binding of Ethene to Carbon Nanotubes.&amp;rdquo; Alice R. Walker, Daniel B. Lawson. &lt;strong&gt;Talk&lt;/strong&gt;. 20th Annual Argonne Undergraduate Research Symposium, Argonne, IL. November 13, 2009.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;service&#34; class=&#34;unnumbered&#34;&gt;Service&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;women-in-learning-and-leadership-member-2005-2011&#34;&gt;&lt;strong&gt;divSTEM&lt;/strong&gt; Mentorship Group Leader (July 2020-present)
+Facilitating the mentorship wing of the Martínez lab diversity outreach initiative with regular meetings, literature review and actively participating in mentorship opportunities at Stanford.
+&lt;strong&gt;Physical Chemistry Faculty Hiring Committee&lt;/strong&gt;, at University of North Texas (Spring 2018)
+&lt;strong&gt;UNT Chemistry Graduate Social Group&lt;/strong&gt;, at University of North Texas (January 2016-April 2018)
+&lt;strong&gt;Phoenix Mentoring Project&lt;/strong&gt;, Mentor (June 2007-June 2010)
+&lt;strong&gt;Women in Learning and Leadership&lt;/strong&gt;, Member (2005-2011)&lt;/h2&gt;
+&lt;h1 id=&#34;professional-organizations-development&#34; class=&#34;unnumbered&#34;&gt;Professional Organizations &amp;amp; Development&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;best-professional-development-program-september-2014-september-2016&#34;&gt;&lt;strong&gt;Association for Women in Science&lt;/strong&gt; (November 2018-present)
+&lt;strong&gt;Software Summer School&lt;/strong&gt; at Virginia Tech (June 2015)
+&lt;strong&gt;NVDIA CUDA qwiklabs&lt;/strong&gt; (April 2015)
+&lt;strong&gt;American Chemical Society&lt;/strong&gt;, Member (January 2015-present)
+&lt;strong&gt;AGEP Seminar Series&lt;/strong&gt; (January 2015-September 2016)
+&lt;strong&gt;STEM Pedagogy Seminar Series&lt;/strong&gt; (September 2014-September 2016)
+&lt;strong&gt;BEST Professional Development Program&lt;/strong&gt; (September 2014-September 2016)&lt;/h2&gt;
+&lt;p&gt;Last updated:&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -87,6 +358,10 @@ Education  March 2018 Ph.D. in Physical Chemistry, University of North Texas Dis
       <guid>/jobopenings/</guid>
       <description>Job Openings We are not currently hiring for postdoctoral positions, but watch this space! Applicants interested in pursuing external support are welcome. PhD and undergraduate students interested in research opportunities are also very welcome.
 If you&amp;rsquo;d like to work on excited state simulations of biomolecules, relevant method development, and or the development of new machine learning models, please contact arwalker[at]wayne[dot]edu for further information.</description>
+      <content>&lt;h1 id=&#34;job-openings&#34;&gt;Job Openings&lt;/h1&gt;
+&lt;p&gt;We are not currently hiring for postdoctoral positions, but watch this space! Applicants interested in pursuing external support are welcome. PhD and undergraduate students interested in research opportunities are also very welcome.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;d like to work on excited state simulations of biomolecules, relevant method development, and or the development of new machine learning models, please contact arwalker[at]wayne[dot]edu for further information.&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -98,6 +373,19 @@ If you&amp;rsquo;d like to work on excited state simulations of biomolecules, re
       <description>#Wiki
 {{if and (gt .WordCount 100 ) (.Params.toc) }}
 {{.Title}}{{ .TableOfContents }}{{end}}</description>
+      <content>&lt;p&gt;#Wiki&lt;/p&gt;
+&lt;nav id=&#34;Table of Contents&#34;&gt;&lt;ul&gt;&lt;/ul&gt;&lt;/nav&gt;
+&lt;p&gt;{{if and (gt .WordCount 100 ) (.Params.toc) }}&lt;/p&gt;
+&lt;main&gt;
+  &lt;header&gt;
+    &lt;h1&gt;{{.Title}}&lt;/h1&gt;
+  &lt;/header&gt;
+  &lt;aside&gt;
+    {{ .TableOfContents }}
+  &lt;/aside&gt;
+&lt;/main&gt;
+&lt;p&gt;{{end}}&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -108,6 +396,89 @@ If you&amp;rsquo;d like to work on excited state simulations of biomolecules, re
       <guid>/people/</guid>
       <description>People PI: Alice R. Walker CV Google ScholarResearch GateOrcIDTwitterHobbies: knitting, video games, staring at screensUndergraduate Researcher: Ashlyn Murphy CVGraduate Student: Solomon Yamoah Effah CVGraduate Student: Vishaka Pathiranage
 CVGraduate Student: Widana Kaushalya CVUndergraduate Researcher: Nathaniel Turner Postdoctoral Researcher: Nina McCulley CV</description>
+      <content>&lt;h1 id=&#34;people&#34;&gt;People&lt;/h1&gt;
+&lt;table&gt;
+&lt;tr&gt;
+  &lt;td width=&#34;25%&#34;&gt;
+  &lt;center&gt;
+  &lt;image src=&#34;/images/arw_profile_pic.jpg&#34; position=&#34;center&#34; style=&#34;border-radius: 4px; width: 200px&#34;&gt;
+  &lt;/center&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  PI: Alice R. Walker &lt;br&gt;
+  &lt;a href=&#34;/pdf/alicerwalker_cv_2021.pdf&#34;&gt;CV&lt;/a&gt; 
+  &lt;a href=&#34;https://scholar.google.com/citations?user=2tmkmrkAAAAJ&amp;hl=en&#34;&gt;Google Scholar&lt;/a&gt;
+  &lt;a href=&#34;https://www.researchgate.net/profile/Alice-Walker-12&#34;&gt;Research Gate&lt;/a&gt;
+  &lt;a href=&#34;https://orcid.org/0000-0002-8617-3425&#34;&gt;OrcID&lt;/a&gt;
+  &lt;a href=&#34;https://twitter.com/arwalker_on_gpu&#34;&gt;Twitter&lt;/a&gt;
+  &lt;br&gt;
+  Hobbies: knitting, video games, staring at screens
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td width=&#34;25%&#34;&gt;
+  &lt;center&gt;
+  &lt;image src=&#34;/images/ashlyn_profile.jpg&#34; position=&#34;center&#34;  style=&#34;border-radius: 4px; width: 200px&#34;&gt;
+  &lt;/center&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  Undergraduate Researcher: Ashlyn Murphy &lt;br&gt;
+  &lt;a href=&#34;/pdf/ashlyn_cv_2021.pdf&#34;&gt;CV&lt;/a&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td width=&#34;25%&#34;&gt;
+  &lt;center&gt;
+  &lt;image src=&#34;/images/solomon_profile.jpg&#34; position=&#34;center&#34;  style=&#34;border-radius: 4px; width: 200px&#34;&gt;
+  &lt;/center&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  Graduate Student: Solomon Yamoah Effah &lt;br&gt;
+  &lt;a href=&#34;/pdf/solomon_cv_2021.pdf&#34;&gt;CV&lt;/a&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td width=&#34;25%&#34;&gt;
+  &lt;center&gt;
+  &lt;image src=&#34;/images/vishaka_profile.jpg&#34; position=&#34;center&#34;  style=&#34;border-radius: 4px; width: 200px&#34;&gt;
+  &lt;/center&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  Graduate Student: Vishaka Pathiranage&lt;br&gt;
+  &lt;a href=&#34;/pdf/vishaka_cv_2021.pdf&#34;&gt;CV&lt;/a&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td width=&#34;25%&#34;&gt;
+  &lt;center&gt;
+  &lt;image src=&#34;/images/widana_profile.jpg&#34; position=&#34;center&#34;  style=&#34;border-radius: 4px; width: 200px&#34;&gt;
+  &lt;/center&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  Graduate Student: Widana Kaushalya &lt;br&gt;
+  &lt;a href=&#34;/pdf/widana_cv_2021.pdf&#34;&gt;CV&lt;/a&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td width=&#34;25%&#34;&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  Undergraduate Researcher: Nathaniel Turner &lt;br&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td width=&#34;25%&#34;&gt;
+  &lt;center&gt;
+  &lt;image src=&#34;/images/nina_profile.jpg&#34; position=&#34;center&#34;  style=&#34;border-radius: 4px; width: 200px&#34;&gt;
+  &lt;/center&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  Postdoctoral Researcher: Nina McCulley &lt;br&gt;
+  &lt;a href=&#34;/pdf/nina_cv_2022.pdf&#34;&gt;CV&lt;/a&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+</content>
     </item>
     
     <item>
@@ -117,6 +488,33 @@ CVGraduate Student: Widana Kaushalya CVUndergraduate Researcher: N
       
       <guid>/publications/</guid>
       <description>Publications Alice R. Walker, Boning Wu, Jan Meisner, Michael D. Fayer, and Todd J. Martínez. Proton transfer from a photoacid to a water wire: first principles simulations and fast fluorescence spectroscopy. J. Phys. Chem. B 2021, 125, 45, 12539–12551 https://doi.org/10.1021/acs.jpcb.1c07254 Featured on supplementary cover. https://pubs.acs.org/toc/jpcbfk/125/45 Madison B. Berger, Alice R. Walker, Erik Antonio Vázquez-Montelongo and G. Andrés Cisneros. Computational investigations of two iron and a-ketoglutarate-dependent family enzymes: structural and electronic level insights.</description>
+      <content>&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;
+&lt;ol start=&#34;12&#34;&gt;
+&lt;li&gt;Alice R. Walker, Boning Wu, Jan Meisner, Michael D. Fayer, and Todd J. Martínez. Proton transfer from a photoacid to a water wire: first principles simulations and fast fluorescence spectroscopy. J. Phys. Chem. B 2021, 125, 45, 12539–12551 &lt;a href=&#34;https://doi.org/10.1021/acs.jpcb.1c07254&#34;&gt;https://doi.org/10.1021/acs.jpcb.1c07254&lt;/a&gt;
+Featured on supplementary cover. &lt;a href=&#34;https://pubs.acs.org/toc/jpcbfk/125/45&#34;&gt;https://pubs.acs.org/toc/jpcbfk/125/45&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Madison B. Berger, Alice R. Walker, Erik Antonio Vázquez-Montelongo and G. Andrés Cisneros.
+Computational investigations of two iron and a-ketoglutarate-dependent family enzymes: structural
+and electronic level insights. Phys. Chem. Chem. Phys., 2021,23, 22227-22240 &lt;a href=&#34;https://doi.org/10.1039/D1CP03800A&#34;&gt;https://doi.org/10.1039/D1CP03800A&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;#Preprints&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alice R. Walker, Boning Wu, Jan Meisner, Michael D. Fayer, and Todd J. Martínez. Proton Transfer from a Photoacid to Water: First Principles Simulations and Fast Fluorescence Spectroscopy. &lt;a href=&#34;https://chemrxiv.org/engage/chemrxiv/article-details/61400bf68e38a349cb525743&#34;&gt;https://chemrxiv.org/engage/chemrxiv/article-details/61400bf68e38a349cb525743&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;#Prior to faculty appointment:&lt;/p&gt;
+&lt;ol start=&#34;10&#34;&gt;
+&lt;li&gt;Joseph E. Thomaz*, Alice R. Walker*, Stephen J. Van Wyck, Jan Meisner, Todd J. Martínez, and Michael D. Fayer. Proton transfer dynamics in the aprotic proton accepting solvent 1-methylimidazole. The Journal of Physical Chemistry B, 2020.&lt;/li&gt;
+&lt;li&gt;Alice R. Walker, Nikhil Baddam, and G. Andrés Cisneros. Unfolding pathways of hen egg-white lysozyme in ethanol. The Journal of Physical Chemistry B, 123(15):3267–3271, 2019&lt;/li&gt;
+&lt;li&gt;Hailey L. Gahlon, Alice R. Walker, G. Andrés Cisneros, Meindert H. Lamers, and David S. Rueda. Reduced structural flexibility for an exonuclease deficient DNA polymerase III mutant. Physical Chemistry Chemical Physics, 20(40):26892–26902, 2018&lt;/li&gt;
+&lt;li&gt;Nicole Antczak, Alice R. Walker, Hannah R. Stern, Emmett M. Leddin, Carl Palad, Timothy A. Coulther, Rebecca J. Swett, G. Andrés Cisneros, and Penny J. Beuning. Characterization of
+nine cancer-associated variants in human DNA polymerase κ. Chemical Research in Toxicology, 31(8):697–711, 8 2018&lt;/li&gt;
+&lt;li&gt;Pramodha S. Liyanage, Alice R. Walker, Alfonso Brenlla, G. Andrés Cisneros, Louis J. Romano, and David Rueda. Bulky lesion bypass requires Dpo4 binding in distinct conformations. Scientific Reports, 7(1):17383–, 2017&lt;/li&gt;
+&lt;li&gt;Alice R. Walker and G. Andrés Cisneros. Computational simulations of DNA polymerases: Detailed insights on structure/function/mechanism from native proteins to cancer variants. Chemical Research in Toxicology, 30(11):1922–1935, 11 2017&lt;/li&gt;
+&lt;li&gt;Alice R. Walker, Pavel Silvestrov, Tina A. Müller, Robert H. Podolsky, Gregory Dyson, Robert P. Hausinger, and G. Andrés Cisneros. ALKBH7 variant related to prostate cancer exhibits altered substrate binding. PLOS Computational Biology, 13(2):1–13, 2 2017&lt;/li&gt;
+&lt;li&gt;Alice R. Walker, Robin Bonomi, Vadim Popov, Juri G. Gelovani, and G. Andrés Cisneros. Investigating carbohydrate based ligands for galectin-3 with docking and molecular dynamics studies. Journal of Molecular Graphics and Modelling, 71:211 – 217, 2017&lt;/li&gt;
+&lt;li&gt;Eric G. Kratz, Alice R. Walker, Louis Lagardére, Filippo Lipparini, Jean Philip Piquemal, and G. Andrés Cisneros. LICHEM: A QM/MM program for simulations with multipolar and polarizable force fields. Journal of Computational Chemistry, 37(11):1019–29, 1 2016&lt;/li&gt;
+&lt;li&gt;Daniel B. Lawson and Alice Walker. Cycloaddition of ethene on a series of single-walled carbon nanotubes. Computational and Theoretical Chemistry, 981:31 – 37, 2012&lt;/li&gt;
+&lt;/ol&gt;
+</content>
     </item>
     
     <item>
@@ -126,6 +524,48 @@ CVGraduate Student: Widana Kaushalya CVUndergraduate Researcher: N
       
       <guid>/research/</guid>
       <description>Research Overview In the Walker group, we are interested in how to connect biological phenomena and measurements of fluorescence using computational chemistry. Molecular modeling provides ways of translating between what we see in experiment, usually a signal or set of signals, to atomic or electronic level details of the system. To investigate fluorescence in biological systems, we use and develop new techniques in quantum chemistry, molecular dynamics, and excited state simulations.</description>
+      <content>&lt;h1 id=&#34;research-overview&#34;&gt;Research Overview&lt;/h1&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;In the Walker group, we are interested in how to connect biological phenomena and measurements of fluorescence using computational chemistry. Molecular modeling provides ways of translating between what we see in experiment, usually a signal or set of signals, to atomic or electronic level details of the system. To investigate fluorescence in biological systems, we use and develop new techniques in  quantum chemistry, molecular dynamics, and excited state simulations. This has direct applications in imaging, both in medicine and in basic science. &lt;/div&gt;
+&lt;br&gt;
+&lt;/br&gt;
+&lt;h1 id=&#34;fluorescent-nucleotides-and-aptamers&#34;&gt;Fluorescent Nucleotides and Aptamers&lt;/h1&gt;
+
+  &lt;img src=&#34;/images/fluorescentnucleotides.png&#34;  class=&#34;left&#34;  style=&#34;float:left; width: 60%; padding: 10px 20px 10px 0px&#34;  /&gt;
+
+
+&lt;div style=&#34;text-align: justify&#34;&gt;Theoretical chemistry provides avenues of testing large numbers of compounds and hypotheses in a systematic and inexpensive way, and also allows us to uncover principles for further design. One direction the Walker group will take is a bottom-up approach to designing new fluorescent biomolecules that absorb and emit brightly in the red part of the spectrum in order to image deep tissue. We will investigate a set of fluorescent synthetic nucleobases using quantum chemistry and molecular dynamics, and create a large data set that can be used for machine learning and design of new bases with desired properties, including shifting wavelengths to be more red and fluorescence quantum yield to be higher. These will then be tested in series, working up to large aptamer drugs like IL6SOMAmer, as pictured, in solution and bound to protein targets. Efficiently performing these calculations and interpreting such a dataset will require the development of new methodologies and approaches, particularly since fluorescence occurs on the nanosecond timescale.&lt;/div&gt;
+
+  &lt;img src=&#34;/images/aptamer.png&#34;  class=&#34;left&#34;  style=&#34;float:right; width: 40%; padding: 10px 0px 10px 20px&#34;  /&gt;
+
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+Aptamers, or short sequences of nucleotides, are easy to synthesize and are highly specific to their targets. By mutating specific parts of existing tight-binding aptamer drugs, we can potentially predict functionalization locations and effects of adding fluorescent synthetic nucleotides to various points in existing aptamer drugs, allowing for potential control and improved interpretation of experimental signals. Interleukin-6 is a protein implicated in cancer metastasis and inflammation, and provides an initial test system. We are also interested in Mango, an existing fluorescent aptamer that binds to biotin.  
+&lt;/div&gt;
+&lt;br&gt;
+&lt;/br&gt;
+&lt;h1 id=&#34;reversible-photoswitchable-protein-design&#34;&gt;Reversible Photoswitchable Protein Design&lt;/h1&gt;
+
+  &lt;img src=&#34;/images/gfp_project.png&#34;  class=&#34;left&#34;  style=&#34;float:left; width: 60%; padding: 10px 20px 10px 0px&#34;  /&gt;
+
+
+&lt;div style=&#34;text-align: justify&#34;&gt;
+Fluorescent proteins and their derivatives are powerful experimental tools. They can be used directly as fluorescent tags, but also have applications as reversible photoswitches, where the focus is on nonradiative decay pathways that result in a physical change upon excitation with light at various wavelengths. Most protein design for such systems focuses on residues inside the barrel-in this work, we focus on allosteric mutations on the flexible linkers at the edges of the protein barrel to investigate changes propagated to the surface of the protein. This work will combin bioinformatics and direct simulations of the excited state mechanisms of reversible fluorescent proteins to rationally design new and more highly tuned protein photoswitches. 
+&lt;/div&gt;
+&lt;br&gt;
+&lt;/br&gt;
+&lt;h1 id=&#34;fret-tag-simulations-of-rna-pol-ii&#34;&gt;FRET Tag Simulations of RNA Pol II&lt;/h1&gt;
+
+  &lt;img src=&#34;/images/rnapol2.png&#34;  class=&#34;left&#34;  style=&#34;float:right; width: 40%; padding: 10px 0px 10px 20px&#34;  /&gt;
+
+
+&lt;div style=&#34;text-align: justify&#34;&gt;Another direction will be to investigate the effects of protein environment on fluorescence. Many experiments use fluorescent tags to investigate protein dynamics. This direction of the Walker group will involve investigating large protein systems with their fluorescent tags attached, both to compare fluorescent emission wavelengths and brightness to experimental quantities and to potentially design custom tags with new properties. As the tags become close to each other, energy transfers from Tag 1 to Tag 2, resulting in an immediate shift in emission wavelength. This can be used to compare the motions of proteins simulated on the computer with the motions obtained in experiment, while also providing greater detail on what is happening on the atomic level for even very large systems. &lt;/div&gt;
+&lt;!---
+To view these molecules in augmented reality on your phone, visit:
+https://stanford.edu/~sukolsak/ar
+--&gt;
+</content>
     </item>
     
     <item>
@@ -136,6 +576,9 @@ CVGraduate Student: Widana Kaushalya CVUndergraduate Researcher: N
       <guid>/wiki/</guid>
       <description>#Wiki
 Work in progress :)</description>
+      <content>&lt;p&gt;#Wiki&lt;/p&gt;
+&lt;p&gt;Work in progress :)&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -145,6 +588,8 @@ Work in progress :)</description>
       
       <guid>/posts/fourth_post/</guid>
       <description>Nina McCulley has joined the lab as a postdoctoral researcher. Welcome Nina!</description>
+      <content>&lt;p&gt;Nina McCulley has joined the lab as a postdoctoral researcher. Welcome Nina!&lt;/p&gt;
+</content>
     </item>
     
   </channel>
