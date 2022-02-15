@@ -43,5 +43,6 @@ https://automeris.io/WebPlotDigitizer/
 # Classes
 
 Fall: Structure and Function of Biomolecules (5600/7600)
+
 Winter: Computational Chemistry (6440/7440)
 
