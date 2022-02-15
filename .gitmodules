@@ -1,6 +1,0 @@
-[submodule "HugoTheme"]
-	path = themes/hugo-base16-theme
-[submodule "SolarTheme"]
-	path = themes/solar-theme-hugo
-[submodule "terminal"]
-	path = themes/terminal
