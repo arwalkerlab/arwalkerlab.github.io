@@ -81,3 +81,17 @@
   </td>
 </tr>
 </table>
+<tr>
+  <td width="25%">
+  <center>
+  <image src="/images/mark_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
+  </center>
+  </td>
+  <td>
+  Postdoctoral Researcher: Mark A. Hix 
+  <a href="https://twitter.com/markahix">Twitter</a>
+  <br>
+  <a href="/pdf/mark_cv_2022.pdf">CV</a>
+  </td>
+</tr>
+</table>
