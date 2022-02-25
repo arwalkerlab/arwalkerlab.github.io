@@ -80,7 +80,6 @@
   <a href="/pdf/nina_cv_2022.pdf">CV</a>
   </td>
 </tr>
-</table>
 <tr>
   <td width="25%">
   <center>
