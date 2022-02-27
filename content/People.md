@@ -9,7 +9,7 @@
   </td>
   <td>
   PI: Alice R. Walker <br>
-  <a href="/pdf/alicerwalker_cv_2021.pdf">CV</a> 
+  <a href="/pdf/alicerwalker_cv_2022.pdf">CV</a> 
   <a href="https://scholar.google.com/citations?user=2tmkmrkAAAAJ&hl=en">Google Scholar</a>
   <a href="https://www.researchgate.net/profile/Alice-Walker-12">Research Gate</a>
   <a href="https://orcid.org/0000-0002-8617-3425">OrcID</a>
