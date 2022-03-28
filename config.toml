@@ -33,7 +33,8 @@ paginate = 6
 
   # set post to show the last updated
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
-  showLastUpdated = false
+  showLastUpdated = true
+  enableGitInfo = true
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix = "Updated"
 
@@ -45,8 +46,8 @@ paginate = 6
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
-  creator = "apika"
-  site = "https://twitter.com/apika"
+  creator = "arwalker_on_gpu"
+  site = "https://twitter.com/arwalker_on_gpu"
 
 [languages]
   [languages.en]
