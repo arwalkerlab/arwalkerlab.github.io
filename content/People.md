@@ -48,7 +48,7 @@
   </td>
   <td>
   Graduate Student: Vishaka Pathiranage<br>
-  <a href="/pdf/vishaka_cv_2021.pdf">CV</a>
+  <a href="/pdf/vishaka_cv_2022.pdf">CV</a>
   </td>
 </tr>
 <tr>
