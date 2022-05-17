@@ -1,6 +1,6 @@
 # People
 
-<image source="/images/group_molecule.jpg" onmouseover="image.src='/images/group_silly.jpg'" onmouseout="image.src='/images/group_molecule.jpg" style="width: 400px">
+<image src="/images/group_molecule.jpg" onmouseover="image.src='/images/group_silly.jpg'" onmouseout="image.src='/images/group_molecule.jpg" style="width: 400px">
 
 <table>
 <tr>
