@@ -104,8 +104,8 @@
   </td>
   <td>
   Postdoctoral Researcher: Mark A. Hix <br>
-  <a href="https://twitter.com/markahix">Twitter</a>
   <a href="/pdf/mark_cv_2022.pdf">CV</a>
+  <a href="https://twitter.com/markahix">Twitter</a>
   </td>
 </tr>
 </table>
