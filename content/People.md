@@ -1,21 +1,7 @@
 # People
 
-<head>
-<meta charset="utf-8">
-<style>
-    .card {
-        width: 500px;
-        height: 300px;
-        background: url("images/group_molecule.jpg") no-repeat;
-        display: inline-block;
-    }
-    .card:hover {
-        background: url("images/group_silly.jpg") no-repeat;
-    }
-</style>
-</head>
+<image source="/images/group_molecule.jpg" onmouseover="image.src='/images/group_silly.jpg'" onmouseout="image.src='/images/group_molecule.jpg" style="width: 400px">
 
-<body>
 <table>
 <tr>
   <td width="25%">
@@ -109,4 +95,3 @@
   </td>
 </tr>
 </table>
-</body>
