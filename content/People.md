@@ -1,5 +1,7 @@
 # People
 
+<head>
+<meta charset="utf-8">
 <style>
     .card {
         width: 500px;
@@ -11,8 +13,9 @@
         background: url("images/group_silly.jpg") no-repeat;
     }
 </style>
+</head>
 
-
+<body>
 <table>
 <tr>
   <td width="25%">
@@ -106,3 +109,4 @@
   </td>
 </tr>
 </table>
+</body>
