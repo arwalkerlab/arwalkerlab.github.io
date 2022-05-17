@@ -1,5 +1,18 @@
 # People
 
+<style>
+    .card {
+        width: 500px;
+        height: 300px;
+        background: url("images/group_molecule.jpg") no-repeat;
+        display: inline-block;
+    }
+    .card:hover {
+        background: url("images/group_silly.jpg") no-repeat;
+    }
+</style>
+
+
 <table>
 <tr>
   <td width="25%">
