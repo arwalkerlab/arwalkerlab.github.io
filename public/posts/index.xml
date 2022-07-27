@@ -7,7 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>ARW</copyright>
-    <lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ACTC 2022 in Lake Tahoe!</title>
+      <link>/posts/sixth_post/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/sixth_post/</guid>
+      <description>The Walker Group presented two posters at the American Conference on Theoretical Chemistry 2022!
+Dr. Walker served as the session chair for the Thursday Morning talks, and Mark gave a short presentation during the TeraChem Developers Conference on Friday.</description>
+      <content>&lt;p&gt;The Walker Group presented two posters at the American Conference on Theoretical Chemistry 2022!&lt;br&gt;
+Dr. Walker served as the session chair for the Thursday Morning talks, and Mark gave a short presentation during the TeraChem Developers Conference on Friday.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;images/ACTC2022_Alice_Poster.jpg&#34; alt=&#34;Alice with her poster&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;images/ACTC2022_Mark_Poster.jpg&#34; alt=&#34;Mark with his poster&#34;&gt;&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Fun with neural network image processing</title>
       <link>/posts/fifth_post/</link>
