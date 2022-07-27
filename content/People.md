@@ -23,17 +23,6 @@
 <tr>
   <td width="25%">
   <center>
-  <image src="/images/ashlyn_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
-  </center>
-  </td>
-  <td>
-  Undergraduate Researcher: Ashlyn Murphy <br>
-  <a href="/pdf/ashlyn_cv_2021.pdf">CV</a>
-  </td>
-</tr>
-<tr>
-  <td width="25%">
-  <center>
   <image src="/images/solomon_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
   </center>
   </td>
@@ -95,3 +84,7 @@
   </td>
 </tr>
 </table>
+
+#Alumni
+
+Ashlyn Murphy UGR -> Graduate Student at University of California-San Diego

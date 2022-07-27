@@ -7,7 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>ARW</copyright>
-    <lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fun with neural network image processing</title>
+      <link>/posts/fifth_post/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/fifth_post/</guid>
+      <description>As a quick break in our summer coding workshop, Vishaka made some lovely artwork with the neural style package in torch!
+ </description>
+      <content>&lt;p&gt;As a quick break in our summer coding workshop, Vishaka made some lovely artwork with the neural style package in torch!&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/images/mNeon_neuralstyle.png&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
+</content>
+    </item>
+    
     <item>
       <title>Cover article!</title>
       <link>/posts/third_post/</link>

@@ -7,7 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>ARW</copyright>
-    <lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fun with neural network image processing</title>
+      <link>/posts/fifth_post/</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/fifth_post/</guid>
+      <description>As a quick break in our summer coding workshop, Vishaka made some lovely artwork with the neural style package in torch!
+ </description>
+      <content>&lt;p&gt;As a quick break in our summer coding workshop, Vishaka made some lovely artwork with the neural style package in torch!&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/images/mNeon_neuralstyle.png&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
+</content>
+    </item>
+    
     <item>
       <title>Cover article!</title>
       <link>/posts/third_post/</link>
@@ -377,7 +396,7 @@ If you&amp;rsquo;d like to work on excited state simulations of biomolecules, re
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/people/</guid>
-      <description>People PI: Alice R. Walker CV Google ScholarResearch GateOrcIDTwitterHobbies: knitting, video games, staring at screensUndergraduate Researcher: Ashlyn Murphy CVGraduate Student: Solomon Yamoah Effah CVGraduate Student: Vishaka Pathiranage
+      <description>People PI: Alice R. Walker CV Google ScholarResearch GateOrcIDTwitterHobbies: knitting, video games, staring at screensGraduate Student: Solomon Yamoah Effah CVGraduate Student: Vishaka Pathiranage
 CVGraduate Student: Widana Kaushalya CVUndergraduate Researcher: Nathaniel Turner Postdoctoral Researcher: Nina McCulley CVPostdoctoral Researcher: Mark A.</description>
       <content>&lt;h1 id=&#34;people&#34;&gt;People&lt;/h1&gt;
 &lt;image src=&#34;/images/group_molecule.jpg&#34; onmouseover=&#34;image.src=&#39;/images/group_silly.jpg&#39;&#34; onmouseout=&#34;image.src=&#39;/images/group_molecule.jpg&#34; style=&#34;width: 650px&#34;&gt;
@@ -397,17 +416,6 @@ CVGraduate Student: Widana Kaushalya CVUndergraduate Researcher: N
   &lt;a href=&#34;https://twitter.com/arwalker_on_gpu&#34;&gt;Twitter&lt;/a&gt;
   &lt;br&gt;
   Hobbies: knitting, video games, staring at screens
-  &lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-  &lt;td width=&#34;25%&#34;&gt;
-  &lt;center&gt;
-  &lt;image src=&#34;/images/ashlyn_profile.jpg&#34; position=&#34;center&#34;  style=&#34;border-radius: 4px; width: 200px&#34;&gt;
-  &lt;/center&gt;
-  &lt;/td&gt;
-  &lt;td&gt;
-  Undergraduate Researcher: Ashlyn Murphy &lt;br&gt;
-  &lt;a href=&#34;/pdf/ashlyn_cv_2021.pdf&#34;&gt;CV&lt;/a&gt;
   &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -474,6 +482,8 @@ CVGraduate Student: Widana Kaushalya CVUndergraduate Researcher: N
   &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
+&lt;p&gt;#Alumni&lt;/p&gt;
+&lt;p&gt;Ashlyn Murphy UGR -&amp;gt; Graduate Student at University of California-San Diego&lt;/p&gt;
 </content>
     </item>
     
