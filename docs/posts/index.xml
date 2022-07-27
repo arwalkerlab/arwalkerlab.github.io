@@ -15,11 +15,24 @@
       
       <guid>/posts/sixth_post/</guid>
       <description>The Walker Group presented two posters at the American Conference on Theoretical Chemistry 2022!
-Dr. Walker served as the session chair for the Thursday Morning talks, and Mark gave a short presentation during the TeraChem Developers Conference on Friday.</description>
+Dr. Walker served as the session chair for the Thursday Morning talks, and Mark gave a short presentation during the TeraChem Developers Conference on Friday.
+  </description>
       <content>&lt;p&gt;The Walker Group presented two posters at the American Conference on Theoretical Chemistry 2022!&lt;br&gt;
 Dr. Walker served as the session chair for the Thursday Morning talks, and Mark gave a short presentation during the TeraChem Developers Conference on Friday.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;images/ACTC2022_Alice_Poster.jpg&#34; alt=&#34;Alice with her poster&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;images/ACTC2022_Mark_Poster.jpg&#34; alt=&#34;Mark with his poster&#34;&gt;&lt;/p&gt;
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/images/ACTC2022_Alice_Poster.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/images/ACTC2022_Mark_Poster.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
 </content>
     </item>
     
