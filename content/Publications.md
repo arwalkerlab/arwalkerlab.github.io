@@ -9,7 +9,7 @@ and electronic level insights. Phys. Chem. Chem. Phys., 2021,23, 22227-22240 htt
 
 #Preprints
 
- - Solomon Yamoah Effah, W. K. D. N. Kaushalya, Mark A. Hix, and Alice R. Walker. Computational investigations of the excited state dynamics and quenching mechanisms of polycyclic aromatic hydrocarbon DNA adducts in solution. https://chemrxiv.org/engage/chemrxiv/article-details/63127a9f5351a31eefed04dc
+ - Solomon Yamoah Effah*, W. K. D. N. Kaushalya*, Mark A. Hix, and Alice R. Walker. Computational investigations of the excited state dynamics and quenching mechanisms of polycyclic aromatic hydrocarbon DNA adducts in solution. https://chemrxiv.org/engage/chemrxiv/article-details/63127a9f5351a31eefed04dc
 
  - Alice R. Walker, Boning Wu, Jan Meisner, Michael D. Fayer, and Todd J. Martínez. Proton Transfer from a Photoacid to Water: First Principles Simulations and Fast Fluorescence Spectroscopy. https://chemrxiv.org/engage/chemrxiv/article-details/61400bf68e38a349cb525743
 
@@ -26,3 +26,5 @@ nine cancer-associated variants in human DNA polymerase κ. Chemical Research in
 3. Alice R. Walker, Robin Bonomi, Vadim Popov, Juri G. Gelovani, and G. Andrés Cisneros. Investigating carbohydrate based ligands for galectin-3 with docking and molecular dynamics studies. Journal of Molecular Graphics and Modelling, 71:211 – 217, 2017
 2. Eric G. Kratz, Alice R. Walker, Louis Lagardére, Filippo Lipparini, Jean Philip Piquemal, and G. Andrés Cisneros. LICHEM: A QM/MM program for simulations with multipolar and polarizable force fields. Journal of Computational Chemistry, 37(11):1019–29, 1 2016
 1. Daniel B. Lawson and Alice Walker. Cycloaddition of ethene on a series of single-walled carbon nanotubes. Computational and Theoretical Chemistry, 981:31 – 37, 2012
+
+*indicates that these authors contributed equally. 
