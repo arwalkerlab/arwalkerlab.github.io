@@ -2,7 +2,7 @@
 title = "Cider Mill Outing"
 date = "2022-10-30"
 author = "ARW"
-cover = "images/Group20221030.jpg"
+cover = "images/Group20221031.jpg"
 description = "Donuts and Cider"
 +++
 
