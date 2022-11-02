@@ -1,11 +1,9 @@
 +++
-title = "Cider Mill Outing"
-date = "2022-10-30"
+title = "Trip to DIA"
+date = "2022-09-30"
 author = "ARW"
 cover = "images/Group20221031.jpg"
-description = "Donuts and Cider"
+description = "Art at the DIA"
 +++
 
-Michigan has lots of local cider mills--we enjoyed some fall foliage, hot cider and doughnuts just in time for Halloween. 
-
-{{<figure src="/images/Group20221030_leaves.jpg" position="center" style="border-radius: 6px;" >}}
+Group outing to the Detroit Institute of Art, enjoying the beautiful works inside and out. 

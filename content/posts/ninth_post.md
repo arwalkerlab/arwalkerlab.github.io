@@ -1,11 +1,11 @@
 +++
-title = "ACS Fall 2022 in Chicago"
-date = "2022-08-30"
+title = "Cider Mill"
+date = "2022-10-30"
 author = "ARW"
-cover = "images/ACSFall2022.jpg"
-description = "ACS Fall 2022"
+cover = "images/CiderMill20221030.jpg"
+description = "Cider and Donuts"
 +++
 
-{{<figure src="/images/ACSFall2022.jpg" position="center" style="border-radius: 6px;" >}}
+Michigan has lots of local cider mills--we enjoyed some fall foliage, hot cider and doughnuts just in time for Halloween.
 
-Kaushalya did an amazing job presenting her work at Fall ACS 2022 in Chicago! Alice presented Kaushalya, Solomon and Mark's work at the Schlegel Symposium as well. 
+{{<figure src="/images/Group20221030_leaves.jpg" position="center" style="border-radius: 6px;" >}}
