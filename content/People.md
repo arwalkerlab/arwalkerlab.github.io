@@ -90,7 +90,7 @@
   </center>
   </td>
   <td>
-  Undergraduate Researcher, Morgan Grougan <br>
+  Undergraduate Researcher: Morgan Grougan <br>
   </td>
 </tr>
 </table>
