@@ -83,6 +83,16 @@
   <a href="https://twitter.com/markahix">Twitter</a>
   </td>
 </tr>
+<tr>
+  <td width="25%">
+  <center>
+  <image src="/images/morgan_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
+  </center>
+  </td>
+  <td>
+  Undergraduate Researcher, Morgan Grougan <br>
+  </td>
+</tr>
 </table>
 
 #Alumni

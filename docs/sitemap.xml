@@ -2,20 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/posts/tenth_post/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/posts/ninth_post/</loc>
     <lastmod>2022-10-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2022-10-30T00:00:00+00:00</lastmod>
+    <loc>/posts/twelfth_post/</loc>
+    <lastmod>2022-10-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/eighth_post/</loc>
     <lastmod>2022-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/seventh_post/</loc>
     <lastmod>2022-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/eleventh_post/</loc>
+    <lastmod>2022-08-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/sixth_post/</loc>
     <lastmod>2022-07-27T00:00:00+00:00</lastmod>
