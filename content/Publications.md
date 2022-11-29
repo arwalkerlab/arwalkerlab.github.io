@@ -1,5 +1,6 @@
 # Publications
 
+13. Solomon Yamoah Effah, W. K. D. N. Kaushalya, Mark A. Hix, and Alice R. Walker. Computational investigations of the excited state dynamics and quenching mechanisms of polycyclic aromatic hydrocarbon DNA adducts in solution. Electron. Struct. In press. https://doi.org/10.1088/2516-1075/aca4ff
 12. Alice R. Walker, Boning Wu, Jan Meisner, Michael D. Fayer, and Todd J. Martínez. Proton transfer from a photoacid to a water wire: first principles simulations and fast fluorescence spectroscopy. J. Phys. Chem. B 2021, 125, 45, 12539–12551 https://doi.org/10.1021/acs.jpcb.1c07254
 Featured on supplementary cover. https://pubs.acs.org/toc/jpcbfk/125/45
 11. Madison B. Berger, Alice R. Walker, Erik Antonio Vázquez-Montelongo and G. Andrés Cisneros.
