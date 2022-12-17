@@ -91,6 +91,21 @@
   </td>
   <td>
   Undergraduate Researcher: Morgan Grougan <br>
+  <a href="/pdf/morgan_cv_2022.pdf">CV</a>
+  </td>
+</tr>
+<tr>
+  <td width="25%">
+  </td>
+  <td>
+  Graduate Student: Anita Adams <br>
+  </td>
+</tr>
+<tr>
+  <td width="25%">
+  </td>
+  <td>
+  Graduate Student: Mfon Victoria Sunday <br>
   </td>
 </tr>
 </table>

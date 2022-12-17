@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>ARW</copyright>
-    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New group members</title>
+      <link>/posts/thirteenth_post/</link>
+      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/thirteenth_post/</guid>
+      <description>We had a group lunch to welcome two new students to the lab&amp;ndash;Victoria and Anita. Welcome!</description>
+      <content>
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/images/GroupLunchDec162022.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;We had a group lunch to welcome two new students to the lab&amp;ndash;Victoria and Anita. Welcome!&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Fun with Blender</title>
       <link>/posts/tenth_post/</link>
@@ -612,6 +630,21 @@ CVGraduate Student: Widana Kaushalya CVUndergraduate Researcher: N
   &lt;/td&gt;
   &lt;td&gt;
   Undergraduate Researcher: Morgan Grougan &lt;br&gt;
+  &lt;a href=&#34;/pdf/morgan_cv_2022.pdf&#34;&gt;CV&lt;/a&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td width=&#34;25%&#34;&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  Graduate Student: Anita Adams &lt;br&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td width=&#34;25%&#34;&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  Graduate Student: Mfon Victoria Sunday &lt;br&gt;
   &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
