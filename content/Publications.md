@@ -1,14 +1,16 @@
 # Publications
 
-13. Solomon Yamoah Effah, W. K. D. N. Kaushalya, Mark A. Hix, and Alice R. Walker. Computational investigations of the excited state dynamics and quenching mechanisms of polycyclic aromatic hydrocarbon DNA adducts in solution. Electron. Struct. In press. https://doi.org/10.1088/2516-1075/aca4ff
+13. Solomon Yamoah Effah*, W. K. D. N. Kaushalya*, Mark A. Hix, and Alice R. Walker. Computational investigations of the excited state dynamics and quenching mechanisms of polycyclic aromatic hydrocarbon DNA adducts in solution. Electron. Struct. 2022, 4, 044003. https://doi.org/10.1088/2516-1075/aca4ff
 12. Alice R. Walker, Boning Wu, Jan Meisner, Michael D. Fayer, and Todd J. Martínez. Proton transfer from a photoacid to a water wire: first principles simulations and fast fluorescence spectroscopy. J. Phys. Chem. B 2021, 125, 45, 12539–12551 https://doi.org/10.1021/acs.jpcb.1c07254
 Featured on supplementary cover. https://pubs.acs.org/toc/jpcbfk/125/45
 11. Madison B. Berger, Alice R. Walker, Erik Antonio Vázquez-Montelongo and G. Andrés Cisneros.
 Computational investigations of two iron and a-ketoglutarate-dependent family enzymes: structural
-and electronic level insights. Phys. Chem. Chem. Phys., 2021,23, 22227-22240 https://doi.org/10.1039/D1CP03800A
+and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 https://doi.org/10.1039/D1CP03800A
 
 
 #Preprints
+
+ - Whitney S. Y. Ong*, Ke Ji*, Vishaka Pathiranage*, Caden Maydew, Kiheon Baek, Rhiza Lyne E. Villones, Gabriele Meloni, Alice R. Walker, and Sheel S. Dodani. Rational design of the beta-bulge gate in a green fluorescent protein accelerates the kinetics of sulfate sensing. https://chemrxiv.org/engage/chemrxiv/article-details/63a223bab9c5f65de5da502f
 
  - Solomon Yamoah Effah*, W. K. D. N. Kaushalya*, Mark A. Hix, and Alice R. Walker. Computational investigations of the excited state dynamics and quenching mechanisms of polycyclic aromatic hydrocarbon DNA adducts in solution. https://chemrxiv.org/engage/chemrxiv/article-details/63127a9f5351a31eefed04dc
 
