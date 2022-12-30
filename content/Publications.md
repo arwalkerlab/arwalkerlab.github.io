@@ -12,6 +12,8 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 htt
 
 #Preprints
 
+ - Ashlyn Murphy, Mark A. Hix, and Alice R. Walker. Exploring the effects of mutagenesis on FusionRed using excited state QM/MM dynamics and classical force field simulations. https://chemrxiv.org/engage/chemrxiv/article-details/63ae991fa53ea645b35c5dac
+
  - Whitney S. Y. Ong*, Ke Ji*, Vishaka Pathiranage*, Caden Maydew, Kiheon Baek, Rhiza Lyne E. Villones, Gabriele Meloni, Alice R. Walker, and Sheel S. Dodani. Rational design of the beta-bulge gate in a green fluorescent protein accelerates the kinetics of sulfate sensing. https://chemrxiv.org/engage/chemrxiv/article-details/63a223bab9c5f65de5da502f
 
  - Solomon Yamoah Effah*, W. K. D. N. Kaushalya*, Mark A. Hix, and Alice R. Walker. Computational investigations of the excited state dynamics and quenching mechanisms of polycyclic aromatic hydrocarbon DNA adducts in solution. https://chemrxiv.org/engage/chemrxiv/article-details/63127a9f5351a31eefed04dc
