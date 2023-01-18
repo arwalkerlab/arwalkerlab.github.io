@@ -99,6 +99,7 @@
   </td>
   <td>
   Graduate Student: Anita Adams <br>
+  <a href="/pdf/annie_cv_2023.pdf">CV</a>
   </td>
 </tr>
 <tr>
