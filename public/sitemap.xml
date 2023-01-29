@@ -59,6 +59,9 @@
     <loc>/people/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>/posters/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>/publications/</loc>
     <priority>0</priority>
   </url><url>

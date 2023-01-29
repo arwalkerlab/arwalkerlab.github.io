@@ -499,10 +499,10 @@ Facilitating the mentorship wing of the Martínez lab diversity outreach initiat
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/jobopenings/</guid>
-      <description>Job Openings We are not currently hiring for postdoctoral positions, but watch this space! Applicants interested in pursuing external support are welcome. PhD and undergraduate students interested in research opportunities are also very welcome.
+      <description>Job Openings We are not currently hiring for postdoctoral positions and are full on undergraduate research positions, but watch this space! Applicants interested in pursuing external support are welcome. PhD students interested in research opportunities are also very welcome.
 If you&amp;rsquo;d like to work on excited state simulations of biomolecules, relevant method development, and or the development of new machine learning models, please contact arwalker[at]wayne[dot]edu for further information.</description>
       <content>&lt;h1 id=&#34;job-openings&#34;&gt;Job Openings&lt;/h1&gt;
-&lt;p&gt;We are not currently hiring for postdoctoral positions, but watch this space! Applicants interested in pursuing external support are welcome. PhD and undergraduate students interested in research opportunities are also very welcome.&lt;/p&gt;
+&lt;p&gt;We are not currently hiring for postdoctoral positions and are full on undergraduate research positions, but watch this space! Applicants interested in pursuing external support are welcome. PhD students interested in research opportunities are also very welcome.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;d like to work on excited state simulations of biomolecules, relevant method development, and or the development of new machine learning models, please contact arwalker[at]wayne[dot]edu for further information.&lt;/p&gt;
 </content>
     </item>
@@ -634,7 +634,10 @@ CVGraduate Student: Widana Kaushalya CVUndergraduate Researcher: N
   &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-  &lt;td width=&#34;25%&#34;&gt;
+&lt;td width=&#34;25%&#34;&gt;
+  &lt;center&gt;
+  &lt;image src=&#34;/images/anita_profile.jpg&#34; position=&#34;center&#34;  style=&#34;border-radius: 4px; width: 200px&#34;&gt;
+  &lt;/center&gt;
   &lt;/td&gt;
   &lt;td&gt;
   Graduate Student: Anita Adams &lt;br&gt;
@@ -642,7 +645,10 @@ CVGraduate Student: Widana Kaushalya CVUndergraduate Researcher: N
   &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-  &lt;td width=&#34;25%&#34;&gt;
+&lt;td width=&#34;25%&#34;&gt;
+  &lt;center&gt;
+  &lt;image src=&#34;/images/victoria_profile.jpg&#34; position=&#34;center&#34;  style=&#34;border-radius: 4px; width: 200px&#34;&gt;
+  &lt;/center&gt;
   &lt;/td&gt;
   &lt;td&gt;
   Graduate Student: Mfon Victoria Sunday &lt;br&gt;
@@ -651,6 +657,17 @@ CVGraduate Student: Widana Kaushalya CVUndergraduate Researcher: N
 &lt;/table&gt;
 &lt;p&gt;#Alumni&lt;/p&gt;
 &lt;p&gt;Ashlyn Murphy UGR -&amp;gt; Graduate Student at University of California-San Diego&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/posters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posters/</guid>
+      <description>#Latest Posters</description>
+      <content>&lt;p&gt;#Latest Posters&lt;/p&gt;
 </content>
     </item>
     
