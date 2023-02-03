@@ -113,6 +113,7 @@
   </td>
   <td>
   Graduate Student: Mfon Victoria Sunday <br>
+  <a href="/pdf/victoria_cv_2023.pdf">CV</a>
   </td>
 </tr>
 </table>
