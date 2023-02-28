@@ -238,63 +238,69 @@ Go here and type the molecule name of your choice! Alternatively, the following 
       <guid>/classes/</guid>
       <description>#Basics
 #Setting up your computer to have a terminal:
-Mac: You have one! Search for &amp;ldquo;terminal&amp;rdquo; in your apps. Linux: You have one! Search for &amp;ldquo;terminal&amp;rdquo; in your apps. Windows: https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview
-Alternative: VSCode is bundled with a terminal https://code.visualstudio.com/download
+Mac: You have one! Search for &amp;ldquo;terminal&amp;rdquo; in your apps.
+Linux: You have one! Search for &amp;ldquo;terminal&amp;rdquo; in your apps.
+Windows: https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview
+Alternative: VSCode is bundled with a terminal
+https://code.visualstudio.com/download
 #Setting up your computer to connect to the supercomputer:
-Using commands in the terminal and on the supercomputer: bash: https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a slurm (supercomputer only): https://stanford-rc.github.io/docs-earth/docs/slurm-basics vim: https://danielmiessler.com/study/vim/ emacs: https://www.gnu.org/software/emacs/tour/
-Connecting to the supercomputer: ssh: https://www.</description>
+Using commands in the terminal and on the supercomputer:
+bash: https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a
+slurm (supercomputer only): https://stanford-rc.github.io/docs-earth/docs/slurm-basics
+vim: https://danielmiessler.com/study/vim/
+emacs: https://www.gnu.org/software/emacs/tour/
+Connecting to the supercomputer:</description>
       <content>&lt;p&gt;#Basics&lt;/p&gt;
 &lt;p&gt;#Setting up your computer to have a terminal:&lt;/p&gt;
-&lt;p&gt;Mac: You have one! Search for &amp;ldquo;terminal&amp;rdquo; in your apps.
-Linux: You have one! Search for &amp;ldquo;terminal&amp;rdquo; in your apps.
-Windows:
-&lt;a href=&#34;https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview&#34;&gt;https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Alternative: VSCode is bundled with a terminal
-&lt;a href=&#34;https://code.visualstudio.com/download&#34;&gt;https://code.visualstudio.com/download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mac: You have one! Search for &amp;ldquo;terminal&amp;rdquo; in your apps.&lt;/p&gt;
+&lt;p&gt;Linux: You have one! Search for &amp;ldquo;terminal&amp;rdquo; in your apps.&lt;/p&gt;
+&lt;p&gt;Windows: &lt;a href=&#34;https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview&#34;&gt;https://ubuntu.com/tutorials/ubuntu-on-windows#1-overview&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Alternative: VSCode is bundled with a terminal&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://code.visualstudio.com/download&#34;&gt;https://code.visualstudio.com/download&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#Setting up your computer to connect to the supercomputer:&lt;/p&gt;
-&lt;p&gt;Using commands in the terminal and on the supercomputer:
-bash: &lt;a href=&#34;https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a&#34;&gt;https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a&lt;/a&gt;
-slurm (supercomputer only): &lt;a href=&#34;https://stanford-rc.github.io/docs-earth/docs/slurm-basics&#34;&gt;https://stanford-rc.github.io/docs-earth/docs/slurm-basics&lt;/a&gt;
-vim: &lt;a href=&#34;https://danielmiessler.com/study/vim/&#34;&gt;https://danielmiessler.com/study/vim/&lt;/a&gt;
-emacs: &lt;a href=&#34;https://www.gnu.org/software/emacs/tour/&#34;&gt;https://www.gnu.org/software/emacs/tour/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Connecting to the supercomputer:
-ssh: &lt;a href=&#34;https://www.hostinger.com/tutorials/ssh/basic-ssh-commands&#34;&gt;https://www.hostinger.com/tutorials/ssh/basic-ssh-commands&lt;/a&gt;
-ssh-keygen: &lt;a href=&#34;https://www.ssh.com/academy/ssh/keygen&#34;&gt;https://www.ssh.com/academy/ssh/keygen&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Uploading/downloading files:
-scp: &lt;a href=&#34;https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/&#34;&gt;https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/&lt;/a&gt;
-sftp: &lt;a href=&#34;https://www.digitalocean.com/community/tutorials/how-to-use-sftp-to-securely-transfer-files-with-a-remote-server&#34;&gt;https://www.digitalocean.com/community/tutorials/how-to-use-sftp-to-securely-transfer-files-with-a-remote-server&lt;/a&gt;
-rsync: &lt;a href=&#34;https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories&#34;&gt;https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Using commands in the terminal and on the supercomputer:&lt;/p&gt;
+&lt;p&gt;bash: &lt;a href=&#34;https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a&#34;&gt;https://towardsdatascience.com/basics-of-bash-for-beginners-92e53a4c117a&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;slurm (supercomputer only): &lt;a href=&#34;https://stanford-rc.github.io/docs-earth/docs/slurm-basics&#34;&gt;https://stanford-rc.github.io/docs-earth/docs/slurm-basics&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;vim: &lt;a href=&#34;https://danielmiessler.com/study/vim/&#34;&gt;https://danielmiessler.com/study/vim/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;emacs: &lt;a href=&#34;https://www.gnu.org/software/emacs/tour/&#34;&gt;https://www.gnu.org/software/emacs/tour/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Connecting to the supercomputer:&lt;/p&gt;
+&lt;p&gt;ssh: &lt;a href=&#34;https://www.hostinger.com/tutorials/ssh/basic-ssh-commands&#34;&gt;https://www.hostinger.com/tutorials/ssh/basic-ssh-commands&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ssh-keygen: &lt;a href=&#34;https://www.ssh.com/academy/ssh/keygen&#34;&gt;https://www.ssh.com/academy/ssh/keygen&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Uploading/downloading files:&lt;/p&gt;
+&lt;p&gt;scp: &lt;a href=&#34;https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/&#34;&gt;https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;sftp: &lt;a href=&#34;https://www.digitalocean.com/community/tutorials/how-to-use-sftp-to-securely-transfer-files-with-a-remote-server&#34;&gt;https://www.digitalocean.com/community/tutorials/how-to-use-sftp-to-securely-transfer-files-with-a-remote-server&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;rsync: &lt;a href=&#34;https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories&#34;&gt;https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#Setting up your computer as a workspace:&lt;/p&gt;
-&lt;p&gt;conda: &lt;a href=&#34;https://conda.io/projects/conda/en/latest/user-guide/getting-started.html&#34;&gt;https://conda.io/projects/conda/en/latest/user-guide/getting-started.html&lt;/a&gt;
-ambertools: &lt;a href=&#34;https://anaconda.org/conda-forge/ambertools&#34;&gt;https://anaconda.org/conda-forge/ambertools&lt;/a&gt;
-github: &lt;a href=&#34;https://guides.github.com/activities/hello-world/&#34;&gt;https://guides.github.com/activities/hello-world/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;#Visualizing molecules:
-chimera: &lt;a href=&#34;https://www.cgl.ucsf.edu/chimera/download.html&#34;&gt;https://www.cgl.ucsf.edu/chimera/download.html&lt;/a&gt;
-chimerax: &lt;a href=&#34;https://www.cgl.ucsf.edu/chimerax/download.html&#34;&gt;https://www.cgl.ucsf.edu/chimerax/download.html&lt;/a&gt; 
-vmd: &lt;a href=&#34;https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD&#34;&gt;https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD&lt;/a&gt;
-molview: &lt;a href=&#34;https://molview.org/&#34;&gt;https://molview.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;conda: &lt;a href=&#34;https://conda.io/projects/conda/en/latest/user-guide/getting-started.html&#34;&gt;https://conda.io/projects/conda/en/latest/user-guide/getting-started.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ambertools: &lt;a href=&#34;https://anaconda.org/conda-forge/ambertools&#34;&gt;https://anaconda.org/conda-forge/ambertools&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;github: &lt;a href=&#34;https://guides.github.com/activities/hello-world/&#34;&gt;https://guides.github.com/activities/hello-world/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Visualizing molecules:&lt;/p&gt;
+&lt;p&gt;chimera: &lt;a href=&#34;https://www.cgl.ucsf.edu/chimera/download.html&#34;&gt;https://www.cgl.ucsf.edu/chimera/download.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;chimerax: &lt;a href=&#34;https://www.cgl.ucsf.edu/chimerax/download.html&#34;&gt;https://www.cgl.ucsf.edu/chimerax/download.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;vmd: &lt;a href=&#34;https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD&#34;&gt;https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;molview: &lt;a href=&#34;https://molview.org/&#34;&gt;https://molview.org/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#Computational Chemistry: Code practices, software development, and education:&lt;/p&gt;
-&lt;p&gt;MolSSI: &lt;a href=&#34;http://education.molssi.org/&#34;&gt;http://education.molssi.org/&lt;/a&gt;
-Beginner python: &lt;a href=&#34;https://py.checkio.org/&#34;&gt;https://py.checkio.org/&lt;/a&gt;
-&lt;a href=&#34;https://www.learnpython.org/&#34;&gt;https://www.learnpython.org/&lt;/a&gt;
-Scientific python: &lt;a href=&#34;https://stanford.edu/~schmit/cme193/lectures.html&#34;&gt;https://stanford.edu/~schmit/cme193/lectures.html&lt;/a&gt;
-numpy: &lt;a href=&#34;https://cs231n.github.io/python-numpy-tutorial/&#34;&gt;https://cs231n.github.io/python-numpy-tutorial/&lt;/a&gt;
-Quantum chemistry: &lt;a href=&#34;http://vergil.chemistry.gatech.edu/notes/&#34;&gt;http://vergil.chemistry.gatech.edu/notes/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;#Classical molecular dynamics:
-Amber MD: &lt;a href=&#34;https://ambermd.org/tutorials/&#34;&gt;https://ambermd.org/tutorials/&lt;/a&gt;
-OpenMM: &lt;a href=&#34;http://docs.openmm.org/latest/userguide/library/03_tutorials.html&#34;&gt;http://docs.openmm.org/latest/userguide/library/03_tutorials.html&lt;/a&gt;
-cpptraj/pytraj analysis: &lt;a href=&#34;https://amber-md.github.io/cpptraj/CPPTRAJ.xhtml#magicparlabel-3113&#34;&gt;https://amber-md.github.io/cpptraj/CPPTRAJ.xhtml#magicparlabel-3113&lt;/a&gt;
+&lt;p&gt;MolSSI: &lt;a href=&#34;http://education.molssi.org/&#34;&gt;http://education.molssi.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Beginner python: &lt;a href=&#34;https://py.checkio.org/&#34;&gt;https://py.checkio.org/&lt;/a&gt;
+&lt;a href=&#34;https://www.learnpython.org/&#34;&gt;https://www.learnpython.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Scientific python: &lt;a href=&#34;https://stanford.edu/~schmit/cme193/lectures.html&#34;&gt;https://stanford.edu/~schmit/cme193/lectures.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;numpy: &lt;a href=&#34;https://cs231n.github.io/python-numpy-tutorial/&#34;&gt;https://cs231n.github.io/python-numpy-tutorial/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Quantum chemistry: &lt;a href=&#34;http://vergil.chemistry.gatech.edu/notes/&#34;&gt;http://vergil.chemistry.gatech.edu/notes/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;#Classical molecular dynamics:&lt;/p&gt;
+&lt;p&gt;Amber MD: &lt;a href=&#34;https://ambermd.org/tutorials/&#34;&gt;https://ambermd.org/tutorials/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;OpenMM: &lt;a href=&#34;http://docs.openmm.org/latest/userguide/library/03_tutorials.html&#34;&gt;http://docs.openmm.org/latest/userguide/library/03_tutorials.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;cpptraj/pytraj analysis: &lt;a href=&#34;https://amber-md.github.io/cpptraj/CPPTRAJ.xhtml#magicparlabel-3113&#34;&gt;https://amber-md.github.io/cpptraj/CPPTRAJ.xhtml#magicparlabel-3113&lt;/a&gt;
 &lt;a href=&#34;https://amberhub.chpc.utah.edu/cpptraj-cookbook/&#34;&gt;https://amberhub.chpc.utah.edu/cpptraj-cookbook/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#Machine learning&lt;/p&gt;
 &lt;p&gt;pandas: &lt;a href=&#34;https://github.com/jvns/pandas-cookbook&#34;&gt;https://github.com/jvns/pandas-cookbook&lt;/a&gt; (Has online version to test without installing)
-&lt;a href=&#34;https://www.activestate.com/blog/how-to-clean-machine-learning-datasets-using-pandas/&#34;&gt;https://www.activestate.com/blog/how-to-clean-machine-learning-datasets-using-pandas/&lt;/a&gt;
-pytorch: &lt;a href=&#34;https://pytorch.org/tutorials/&#34;&gt;https://pytorch.org/tutorials/&lt;/a&gt;
-keras: &lt;a href=&#34;https://www.tensorflow.org/tutorials&#34;&gt;https://www.tensorflow.org/tutorials&lt;/a&gt;
+&lt;a href=&#34;https://www.activestate.com/blog/how-to-clean-machine-learning-datasets-using-pandas/&#34;&gt;https://www.activestate.com/blog/how-to-clean-machine-learning-datasets-using-pandas/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;pytorch: &lt;a href=&#34;https://pytorch.org/tutorials/&#34;&gt;https://pytorch.org/tutorials/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;keras: &lt;a href=&#34;https://www.tensorflow.org/tutorials&#34;&gt;https://www.tensorflow.org/tutorials&lt;/a&gt;
 &lt;a href=&#34;https://keras.io/guides/&#34;&gt;https://keras.io/guides/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;#Graphing and utilities&lt;/p&gt;
-&lt;p&gt;Plot digitizer: &lt;a href=&#34;https://automeris.io/WebPlotDigitizer/&#34;&gt;https://automeris.io/WebPlotDigitizer/&lt;/a&gt;
-matplotlib: &lt;a href=&#34;https://matplotlib.org/&#34;&gt;https://matplotlib.org/&lt;/a&gt;
-Jupyter notebook: &lt;a href=&#34;https://jupyter.org/&#34;&gt;https://jupyter.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Plot digitizer: &lt;a href=&#34;https://automeris.io/WebPlotDigitizer/&#34;&gt;https://automeris.io/WebPlotDigitizer/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;matplotlib: &lt;a href=&#34;https://matplotlib.org/&#34;&gt;https://matplotlib.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jupyter notebook: &lt;a href=&#34;https://jupyter.org/&#34;&gt;https://jupyter.org/&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;classes&#34;&gt;Classes&lt;/h1&gt;
 &lt;p&gt;Fall: Structure and Function of Biomolecules (5600/7600)&lt;/p&gt;
