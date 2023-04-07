@@ -310,6 +310,25 @@ Connecting to the supercomputer:</description>
     
     <item>
       <title></title>
+      <link>/code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/code/</guid>
+      <description>#Walker Lab Open Source Software
+Automatic force field parametrizer:
+Adaptive QM/MM:
+Library of Alexandria (automated paper combing):
+Automated workflow for ML dataset generation:</description>
+      <content>&lt;p&gt;#Walker Lab Open Source Software&lt;/p&gt;
+&lt;p&gt;Automatic force field parametrizer:&lt;/p&gt;
+&lt;p&gt;Adaptive QM/MM:&lt;/p&gt;
+&lt;p&gt;Library of Alexandria (automated paper combing):&lt;/p&gt;
+&lt;p&gt;Automated workflow for ML dataset generation:&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
