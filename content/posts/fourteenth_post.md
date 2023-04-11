@@ -6,7 +6,7 @@ cover = "images/ACS2023_01.jpg"
 description = "ACS 2023"
 +++
 
-{{<figure src="/images/ACS2023_02.jpg" position="center" style="border-radius: 6px;" >}}
+{{<figure src="/images/ACS2023_03.jpg" position="center" style="border-radius: 6px;" >}}
 
 The Walker group attended the Spring ACS at Indianapolis in style--Vishaka presented her first talk at a national conference about her work on sulfate-sensitive fluorescent proteins. 
 
