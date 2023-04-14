@@ -7,7 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>ARW</copyright>
-    <lastBuildDate>Sun, 26 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Undergraduate Research Symposium</title>
+      <link>/posts/fifteenth_post/</link>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/fifteenth_post/</guid>
+      <description>Congratulations to Morgan on his first undergraduate research symposium at Wayne State, where he presented a poster and made a fantastic video to promote his work:
+https://clas.wayne.edu/ugr/symposium/comprehensive-extraction-chemical-data
+Morgan won a poster award (and a t-shirt).</description>
+      <content>
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/images/UGSMorgan2023.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;Congratulations to Morgan on his first undergraduate research symposium at Wayne State, where he presented a poster and made a fantastic video to promote his work:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://clas.wayne.edu/ugr/symposium/comprehensive-extraction-chemical-data&#34;&gt;https://clas.wayne.edu/ugr/symposium/comprehensive-extraction-chemical-data&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Morgan won a poster award (and a t-shirt).&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>ACS 2023</title>
       <link>/posts/fourteenth_post/</link>
