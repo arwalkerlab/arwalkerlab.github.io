@@ -690,8 +690,7 @@ If you&amp;rsquo;d like to work on excited state simulations of biomolecules, re
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/people/</guid>
-      <description>People PI: Alice R. Walker CV Google ScholarResearch GateOrcIDTwitterHobbies: knitting, video games, staring at screensGraduate Student: Solomon Yamoah Effah CVGraduate Student: Vishaka Pathiranage
-CVGraduate Student: Widana Kaushalya CVUndergraduate Researcher: Nathaniel Turner Postdoctoral Researcher: Nina McCulley CVPostdoctoral Researcher: Mark A.</description>
+      <description>People PI: Alice R. Walker CV Google ScholarResearch GateOrcIDTwitterHobbies: knitting, video games, staring at screensPostdoctoral Researcher: Nina McCulley CVPostdoctoral Researcher: Mark A. Hix CVTwitterGraduate Student: Solomon Yamoah Effah CVGraduate Student: Vishaka Pathiranage</description>
       <content>&lt;h1 id=&#34;people&#34;&gt;People&lt;/h1&gt;
 &lt;image src=&#34;/images/GroupPhoto2023_Vishaka.jpg&#34; onmouseover=&#34;image.src=&#39;/images/group_silly.jpg&#39;&#34; onmouseout=&#34;image.src=&#39;/images/group_molecule.jpg&#34; style=&#34;width: 650px&#34;&gt;
 &lt;table&gt;
@@ -710,6 +709,29 @@ CVGraduate Student: Widana Kaushalya CVUndergraduate Researcher: N
   &lt;a href=&#34;https://twitter.com/arwalker_on_gpu&#34;&gt;Twitter&lt;/a&gt;
   &lt;br&gt;
   Hobbies: knitting, video games, staring at screens
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td width=&#34;25%&#34;&gt;
+  &lt;center&gt;
+  &lt;image src=&#34;/images/nina_profile.jpg&#34; position=&#34;center&#34;  style=&#34;border-radius: 4px; width: 200px&#34;&gt;
+  &lt;/center&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  Postdoctoral Researcher: Nina McCulley &lt;br&gt;
+  &lt;a href=&#34;/pdf/nina_cv_2022.pdf&#34;&gt;CV&lt;/a&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td width=&#34;25%&#34;&gt;
+  &lt;center&gt;
+  &lt;image src=&#34;/images/mark_profile.jpg&#34; position=&#34;center&#34;  style=&#34;border-radius: 4px; width: 200px&#34;&gt;
+  &lt;/center&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  Postdoctoral Researcher: Mark A. Hix &lt;br&gt;
+  &lt;a href=&#34;/pdf/mark_cv_2022.pdf&#34;&gt;CV&lt;/a&gt;
+  &lt;a href=&#34;https://twitter.com/markahix&#34;&gt;Twitter&lt;/a&gt;
   &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -746,47 +768,6 @@ CVGraduate Student: Widana Kaushalya CVUndergraduate Researcher: N
   &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-  &lt;td width=&#34;25%&#34;&gt;
-  &lt;/td&gt;
-  &lt;td&gt;
-  Undergraduate Researcher: Nathaniel Turner &lt;br&gt;
-  &lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-  &lt;td width=&#34;25%&#34;&gt;
-  &lt;center&gt;
-  &lt;image src=&#34;/images/nina_profile.jpg&#34; position=&#34;center&#34;  style=&#34;border-radius: 4px; width: 200px&#34;&gt;
-  &lt;/center&gt;
-  &lt;/td&gt;
-  &lt;td&gt;
-  Postdoctoral Researcher: Nina McCulley &lt;br&gt;
-  &lt;a href=&#34;/pdf/nina_cv_2022.pdf&#34;&gt;CV&lt;/a&gt;
-  &lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-  &lt;td width=&#34;25%&#34;&gt;
-  &lt;center&gt;
-  &lt;image src=&#34;/images/mark_profile.jpg&#34; position=&#34;center&#34;  style=&#34;border-radius: 4px; width: 200px&#34;&gt;
-  &lt;/center&gt;
-  &lt;/td&gt;
-  &lt;td&gt;
-  Postdoctoral Researcher: Mark A. Hix &lt;br&gt;
-  &lt;a href=&#34;/pdf/mark_cv_2022.pdf&#34;&gt;CV&lt;/a&gt;
-  &lt;a href=&#34;https://twitter.com/markahix&#34;&gt;Twitter&lt;/a&gt;
-  &lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-  &lt;td width=&#34;25%&#34;&gt;
-  &lt;center&gt;
-  &lt;image src=&#34;/images/morgan_profile.jpg&#34; position=&#34;center&#34;  style=&#34;border-radius: 4px; width: 200px&#34;&gt;
-  &lt;/center&gt;
-  &lt;/td&gt;
-  &lt;td&gt;
-  Undergraduate Researcher: Morgan Grougan &lt;br&gt;
-  &lt;a href=&#34;/pdf/morgan_cv_2022.pdf&#34;&gt;CV&lt;/a&gt;
-  &lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
 &lt;td width=&#34;25%&#34;&gt;
   &lt;center&gt;
   &lt;image src=&#34;/images/anita_profile.jpg&#34; position=&#34;center&#34;  style=&#34;border-radius: 4px; width: 200px&#34;&gt;
@@ -806,6 +787,31 @@ CVGraduate Student: Widana Kaushalya CVUndergraduate Researcher: N
   &lt;td&gt;
   Graduate Student: Mfon Victoria Sunday &lt;br&gt;
   &lt;a href=&#34;/pdf/victoria_cv_2023.pdf&#34;&gt;CV&lt;/a&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td width=&#34;25%&#34;&gt;
+  &lt;center&gt;
+  &lt;image src=&#34;/images/morgan_profile.jpg&#34; position=&#34;center&#34;  style=&#34;border-radius: 4px; width: 200px&#34;&gt;
+  &lt;/center&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  Undergraduate Researcher: Morgan Grougan &lt;br&gt;
+  &lt;a href=&#34;/pdf/morgan_cv_2022.pdf&#34;&gt;CV&lt;/a&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width=&#34;25%&#34;&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  Undergraduate Researcher: John Muller &lt;br&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td width=&#34;25%&#34;&gt;
+  &lt;/td&gt;
+  &lt;td&gt;
+  Undergraduate Researcher: Nathaniel Turner &lt;br&gt;
   &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -857,6 +863,9 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 &lt
 &lt;/ol&gt;
 &lt;p&gt;#Preprints&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Christina McCulley, Alice R. Walker. Dimer interface destabilization of photodissociative Dronpa driven by asymmetric monomer dynamics. &lt;a href=&#34;https://chemrxiv.org/engage/chemrxiv/article-details/6478e79be64f843f412a424a&#34;&gt;https://chemrxiv.org/engage/chemrxiv/article-details/6478e79be64f843f412a424a&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Yasmin Shamsudin, Alice R. Walker, Chey M. Jones, Todd J. Martínez, and Steven G. Boxer. Simulation-guided engineering of split GFPs with efficient beta-strand photodissociation. &lt;a href=&#34;https://chemrxiv.org/engage/chemrxiv/article-details/63f8e46832cd591f126c248e&#34;&gt;https://chemrxiv.org/engage/chemrxiv/article-details/63f8e46832cd591f126c248e&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;

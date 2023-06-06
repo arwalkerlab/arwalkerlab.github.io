@@ -23,6 +23,29 @@
 <tr>
   <td width="25%">
   <center>
+  <image src="/images/nina_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
+  </center>
+  </td>
+  <td>
+  Postdoctoral Researcher: Nina McCulley <br>
+  <a href="/pdf/nina_cv_2022.pdf">CV</a>
+  </td>
+</tr>
+<tr>
+  <td width="25%">
+  <center>
+  <image src="/images/mark_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
+  </center>
+  </td>
+  <td>
+  Postdoctoral Researcher: Mark A. Hix <br>
+  <a href="/pdf/mark_cv_2022.pdf">CV</a>
+  <a href="https://twitter.com/markahix">Twitter</a>
+  </td>
+</tr>
+<tr>
+  <td width="25%">
+  <center>
   <image src="/images/solomon_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
   </center>
   </td>
@@ -53,47 +76,7 @@
   <a href="/pdf/widana_cv_2021.pdf">CV</a>
   </td>
 </tr>
-<tr>
-  <td width="25%">
-  </td>
-  <td>
-  Undergraduate Researcher: Nathaniel Turner <br>
-  </td>
-</tr>
-<tr>
-  <td width="25%">
-  <center>
-  <image src="/images/nina_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
-  </center>
-  </td>
-  <td>
-  Postdoctoral Researcher: Nina McCulley <br>
-  <a href="/pdf/nina_cv_2022.pdf">CV</a>
-  </td>
-</tr>
-<tr>
-  <td width="25%">
-  <center>
-  <image src="/images/mark_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
-  </center>
-  </td>
-  <td>
-  Postdoctoral Researcher: Mark A. Hix <br>
-  <a href="/pdf/mark_cv_2022.pdf">CV</a>
-  <a href="https://twitter.com/markahix">Twitter</a>
-  </td>
-</tr>
-<tr>
-  <td width="25%">
-  <center>
-  <image src="/images/morgan_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
-  </center>
-  </td>
-  <td>
-  Undergraduate Researcher: Morgan Grougan <br>
-  <a href="/pdf/morgan_cv_2022.pdf">CV</a>
-  </td>
-</tr>
+
 <tr>
 <td width="25%">
   <center>
@@ -114,6 +97,31 @@
   <td>
   Graduate Student: Mfon Victoria Sunday <br>
   <a href="/pdf/victoria_cv_2023.pdf">CV</a>
+  </td>
+</tr>
+<tr>
+  <td width="25%">
+  <center>
+  <image src="/images/morgan_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
+  </center>
+  </td>
+  <td>
+  Undergraduate Researcher: Morgan Grougan <br>
+  <a href="/pdf/morgan_cv_2022.pdf">CV</a>
+  </td>
+</tr>
+<tr>
+<td width="25%">
+  </td>
+  <td>
+  Undergraduate Researcher: John Muller <br>
+  </td>
+</tr>
+<tr>
+  <td width="25%">
+  </td>
+  <td>
+  Undergraduate Researcher: Nathaniel Turner <br>
   </td>
 </tr>
 </table>
