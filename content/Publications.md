@@ -16,7 +16,7 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 htt
 
 #Preprints
 
- - Christina McCulley, Alice R. Walker. Dimer interface destabilization of photodissociative Dronpa driven by asymmetric monomer dynamics. https://chemrxiv.org/engage/chemrxiv/article-details/6478e79be64f843f412a424a 
+ - Christina McCulley and Alice R. Walker. Dimer interface destabilization of photodissociative Dronpa driven by asymmetric monomer dynamics. https://chemrxiv.org/engage/chemrxiv/article-details/6478e79be64f843f412a424a 
 
  - Yasmin Shamsudin, Alice R. Walker, Chey M. Jones, Todd J. Martínez, and Steven G. Boxer. Simulation-guided engineering of split GFPs with efficient beta-strand photodissociation. https://chemrxiv.org/engage/chemrxiv/article-details/63f8e46832cd591f126c248e
 
