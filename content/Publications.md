@@ -1,5 +1,7 @@
 # Publications
 
+16. Joseph Wakpal, Vishaka Pathiranage, Alice R. Walker, and Hien M. Nguyen. Rational design and expedient synthesis of heparan sulfate mimetsics from natural aminoglycosides for structure and activity relationship studies. Angew. Chem. Int. Ed., 2023, e202304325. https://doi.org/10.1002/anie.202304325
+
 15. Whitney S.Y. Ong*,  Ke Ji*,  Vishaka Pathiranage*,  Caden Maydew,  Kiheon Baek,  Rhiza Lyne E. Villones,  Gabriele Meloni,  Alice R. Walker,  and Sheel Dodani. Angew. Chem. Int. Ed. 2023, e202302304. https://doi.org/10.1002/anie.202302304
 
 14. Ashlyn R. Murphy, Mark A. Hix, and Alice R. Walker. Exploring the effects of mutagenesis on FusionRed using excited state QM/MM dynamics and classical force field simulations. ChemBioChem 2023, e202200799. https://doi.org/10.1002/cbic.202200799
