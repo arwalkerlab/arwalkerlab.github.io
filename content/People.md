@@ -51,7 +51,7 @@
   </td>
   <td>
   Graduate Student: Solomon Yamoah Effah <br>
-  <a href="/pdf/solomon_cv_2022.pdf">CV</a>
+  <a href="/pdf/solomon_cv_2023.pdf">CV</a>
   </td>
 </tr>
 <tr>
