@@ -3,13 +3,18 @@
 16. Joseph Wakpal, Vishaka Pathiranage, Alice R. Walker, and Hien M. Nguyen. Rational design and expedient synthesis of heparan sulfate mimetsics from natural aminoglycosides for structure and activity relationship studies. Angew. Chem. Int. Ed., 2023, e202304325. https://doi.org/10.1002/anie.202304325
 
 15. Whitney S.Y. Ong*,  Ke Ji*,  Vishaka Pathiranage*,  Caden Maydew,  Kiheon Baek,  Rhiza Lyne E. Villones,  Gabriele Meloni,  Alice R. Walker,  and Sheel Dodani. Angew. Chem. Int. Ed. 2023, e202302304. https://doi.org/10.1002/anie.202302304
+Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/63a223bab9c5f65de5da502f
 
 14. Ashlyn R. Murphy, Mark A. Hix, and Alice R. Walker. Exploring the effects of mutagenesis on FusionRed using excited state QM/MM dynamics and classical force field simulations. ChemBioChem 2023, e202200799. https://doi.org/10.1002/cbic.202200799
+Featured on the front cover of ChemBioChem and as VIP: https://chemistry-europe.onlinelibrary.wiley.com/doi/epdf/10.1002/cbic.202300300
+Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/63ae991fa53ea645b35c5dac 
 
 13. Solomon Yamoah Effah*, W. K. D. N. Kaushalya*, Mark A. Hix, and Alice R. Walker. Computational investigations of the excited state dynamics and quenching mechanisms of polycyclic aromatic hydrocarbon DNA adducts in solution. Electron. Struct. 2022, 4, 044003. https://doi.org/10.1088/2516-1075/aca4ff
+Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/63127a9f5351a31eefed04dc
 
 12. Alice R. Walker, Boning Wu, Jan Meisner, Michael D. Fayer, and Todd J. Martínez. Proton transfer from a photoacid to a water wire: first principles simulations and fast fluorescence spectroscopy. J. Phys. Chem. B 2021, 125, 45, 12539–12551 https://doi.org/10.1021/acs.jpcb.1c07254
 Featured on supplementary cover. https://pubs.acs.org/toc/jpcbfk/125/45
+Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/61400bf68e38a349cb525743
 
 11. Madison B. Berger, Alice R. Walker, Erik Antonio Vázquez-Montelongo and G. Andrés Cisneros.
 Computational investigations of two iron and a-ketoglutarate-dependent family enzymes: structural
@@ -18,19 +23,15 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 htt
 
 #Preprints
 
+ - Mark A. Hix and Alice R. Walker. AutoParams: An automated web-based tool to generate force field parameters for molecular dynamics simulations. Source code: https://github.com/arwalkerlab/AutoParams
+
  - Mark A. Hix and Alice R. Walker. Adaptive restraints to accelerate geometry optimizations of large biomolecular systems. https://chemrxiv.org/engage/chemrxiv/article-details/6490b93ba2c387fa9a94f607
+Source code: https://github.com/arwalkerlab/TeraChemAdaptiveRestraints/
 
  - Christina H. McCulley and Alice R. Walker. Dimer interface destabilization of photodissociative Dronpa driven by asymmetric monomer dynamics. https://chemrxiv.org/engage/chemrxiv/article-details/6478e79be64f843f412a424a 
 
  - Yasmin Shamsudin, Alice R. Walker, Chey M. Jones, Todd J. Martínez, and Steven G. Boxer. Simulation-guided engineering of split GFPs with efficient beta-strand photodissociation. https://chemrxiv.org/engage/chemrxiv/article-details/63f8e46832cd591f126c248e
 
- - Ashlyn Murphy, Mark A. Hix, and Alice R. Walker. Exploring the effects of mutagenesis on FusionRed using excited state QM/MM dynamics and classical force field simulations. https://chemrxiv.org/engage/chemrxiv/article-details/63ae991fa53ea645b35c5dac
-
- - Whitney S. Y. Ong*, Ke Ji*, Vishaka Pathiranage*, Caden Maydew, Kiheon Baek, Rhiza Lyne E. Villones, Gabriele Meloni, Alice R. Walker, and Sheel S. Dodani. Rational design of the beta-bulge gate in a green fluorescent protein accelerates the kinetics of sulfate sensing. https://chemrxiv.org/engage/chemrxiv/article-details/63a223bab9c5f65de5da502f
-
- - Solomon Yamoah Effah*, W. K. D. N. Kaushalya*, Mark A. Hix, and Alice R. Walker. Computational investigations of the excited state dynamics and quenching mechanisms of polycyclic aromatic hydrocarbon DNA adducts in solution. https://chemrxiv.org/engage/chemrxiv/article-details/63127a9f5351a31eefed04dc
-
- - Alice R. Walker, Boning Wu, Jan Meisner, Michael D. Fayer, and Todd J. Martínez. Proton Transfer from a Photoacid to Water: First Principles Simulations and Fast Fluorescence Spectroscopy. https://chemrxiv.org/engage/chemrxiv/article-details/61400bf68e38a349cb525743
 
 #Prior to faculty appointment:
 
