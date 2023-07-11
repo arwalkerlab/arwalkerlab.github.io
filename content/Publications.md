@@ -23,7 +23,8 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 htt
 
 #Preprints
 
- - Mark A. Hix and Alice R. Walker. AutoParams: An automated web-based tool to generate force field parameters for molecular dynamics simulations. Source code: https://github.com/arwalkerlab/AutoParams
+ - Mark A. Hix and Alice R. Walker. AutoParams: An automated web-based tool to generate force field parameters for molecular dynamics simulations. https://chemrxiv.org/engage/chemrxiv/article-details/64a35d1d9ea64cc167645740 
+Source code: https://github.com/arwalkerlab/AutoParams
 
  - Mark A. Hix and Alice R. Walker. Adaptive restraints to accelerate geometry optimizations of large biomolecular systems. https://chemrxiv.org/engage/chemrxiv/article-details/6490b93ba2c387fa9a94f607
 Source code: https://github.com/arwalkerlab/TeraChemAdaptiveRestraints/
