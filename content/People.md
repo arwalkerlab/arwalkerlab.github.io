@@ -40,6 +40,8 @@
   <td>
   Postdoctoral Researcher: Mark A. Hix <br>
   <a href="/pdf/mark_cv_2022.pdf">CV</a>
+  <a href="https://scholar.google.com/citations?user=2Z6mLZEAAAAJ&hl=en">Google Scholar</a>
+  <a href="https://orcid.org/0000-0003-3371-0116">OrcID</a>
   <a href="https://twitter.com/markahix">Twitter</a>
   </td>
 </tr>
@@ -52,6 +54,7 @@
   <td>
   Graduate Student: Solomon Yamoah Effah <br>
   <a href="/pdf/solomon_cv_2023.pdf">CV</a>
+  <a href="https://orcid.org/0000-0003-1342-8148">OrcID</a>
   </td>
 </tr>
 <tr>
@@ -76,6 +79,7 @@
   <td>
   Graduate Student: Widana Kaushalya <br>
   <a href="/pdf/widana_cv_2021.pdf">CV</a>
+  <a href="https://orcid.org/0000-0002-5351-9952">OrcID</a>
   </td>
 </tr>
 
@@ -88,6 +92,7 @@
   <td>
   Graduate Student: Anita Adams <br>
   <a href="/pdf/annie_cv_2023.pdf">CV</a>
+  
   </td>
 </tr>
 <tr>
@@ -110,6 +115,7 @@
   <td>
   Undergraduate Researcher: Morgan Grougan <br>
   <a href="/pdf/morgan_cv_2022.pdf">CV</a>
+  <a href="https://orcid.org/0009-0007-2446-030X">OrcID</a>
   </td>
 </tr>
 <tr>
