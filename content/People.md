@@ -62,7 +62,9 @@
   </td>
   <td>
   Graduate Student: Vishaka Pathiranage<br>
-  <a href="/pdf/vishaka_cv_2022.pdf">CV</a>
+  <a href="/pdf/vishaka_cv_2023.pdf">CV</a>
+  <a href="https://www.researchgate.net/profile/Vishaka-Pathiranage">ResearchGate</a>
+ <a href="https://orcid.org/0000-0002-0432-8973">OrcID</a>
   </td>
 </tr>
 <tr>
