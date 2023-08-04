@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>ARW</copyright>
-    <lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Buffet Lunch</title>
+      <link>/posts/twentieth_post/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/twentieth_post/</guid>
+      <description>To celebrate the conclusion of our yearly 2-week coding workshop, we celebrated in style at the buffet! We learned some Python, C++ and machine learning before the new semester begins.</description>
+      <content>
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/images/GroupLunchAug2023_2.MP.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;To celebrate the conclusion of our yearly 2-week coding workshop, we celebrated in style at the buffet! We learned some Python, C++ and machine learning before the new semester begins.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Kaushalya&#39;s 2nd year defense</title>
       <link>/posts/nineteenth_post/</link>
