@@ -1,6 +1,6 @@
 # Publications
 
-17. Abigail Cousino, Lanka Wickramasinghe, Widana Kaushalya, Samarage Perera, Habib Baydoun, Alice R. Walker, and Claudio Verani. Studies on monolayer formation and electron transport in Au|LB|Au junctions containing 3d4 MnIII metallosurfactants. J. Phys. Chem. C, accepted. 
+17. Abigail Cousino, Lanka Wickramasinghe, Widana Kaushalya, Samarage Perera, Habib Baydoun, Alice R. Walker, and Claudio Verani. Studies on monolayer formation and electron transport in Au|LB|Au junctions containing 3d4 MnIII metallosurfactants. J. Phys. Chem. C, 2023. https://doi.org/10.1021/acs.jpcc.3c03616
 
 16. Joseph Wakpal, Vishaka Pathiranage, Alice R. Walker, and Hien M. Nguyen. Rational design and expedient synthesis of heparan sulfate mimetics from natural aminoglycosides for structure and activity relationship studies. Angew. Chem. Int. Ed., 2023, e202304325. https://doi.org/10.1002/anie.202304325
 
