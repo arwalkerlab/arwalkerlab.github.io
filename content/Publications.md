@@ -33,14 +33,7 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 htt
 
  - Widana Kaushalya and Alice R. Walker. Simulations of DNA-coordinated light emission vs. intramolecular electron transfer: electron donor-acceptor systems with benzo[a]pyrene derivatives. https://chemrxiv.org/engage/chemrxiv/article-details/64ea410c3fdae147fae2cd1b
 
- - Mark A. Hix and Alice R. Walker. AutoParams: An automated web-based tool to generate force field parameters for molecular dynamics simulations. https://chemrxiv.org/engage/chemrxiv/article-details/64a35d1d9ea64cc167645740 
-Source code: https://github.com/arwalkerlab/AutoParams
-
-
  - Christina H. McCulley and Alice R. Walker. Dimer interface destabilization of photodissociative Dronpa driven by asymmetric monomer dynamics. https://chemrxiv.org/engage/chemrxiv/article-details/6478e79be64f843f412a424a 
-
- - Yasmin Shamsudin, Alice R. Walker, Chey M. Jones, Todd J. Martínez, and Steven G. Boxer. Simulation-guided engineering of split GFPs with efficient beta-strand photodissociation. https://chemrxiv.org/engage/chemrxiv/article-details/63f8e46832cd591f126c248e
-
 
 #Prior to faculty appointment:
 
