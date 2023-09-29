@@ -7,7 +7,66 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>ARW</copyright>
-    <lastBuildDate>Wed, 02 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gopal Symposium and Preview Day</title>
+      <link>/posts/gopal_2023/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/gopal_2023/</guid>
+      <description>Anita created a beautiful poster to present our lab&amp;rsquo;s research, and we had a great time showing it off to the first year graduate students after the yearly Gopal symposium.</description>
+      <content>
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/images/previewday2.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;Anita created a beautiful poster to present our lab&amp;rsquo;s research, and we had a great time showing it off to the first year graduate students after the yearly Gopal symposium.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>ACS San Francisco</title>
+      <link>/posts/acs_sfo_2023/</link>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/acs_sfo_2023/</guid>
+      <description>  The Walker lab was out in full force at ACS San Francisco this year! Mark presented a talk about his automated workflow in the Open Source Symposium, and Alice presented a talk in the Carbohydrate symposium.
+Solomon, Kaushalya and Nina all presented posters on their work in the Comp Poster Session. Congratulations to all!    </description>
+      <content>
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/images/acssfo_mark.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;The Walker lab was out in full force at ACS San Francisco this year! Mark presented a talk about his automated workflow in the Open Source Symposium, and Alice presented a talk in the Carbohydrate symposium.&lt;/p&gt;
+&lt;p&gt;Solomon, Kaushalya and Nina all presented posters on their work in the Comp Poster Session. Congratulations to all!
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/images/acssfo_nina.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/images/acssfo_solomon.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/images/acssfo_kaushie.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Buffet Lunch</title>
       <link>/posts/twentieth_post/</link>
@@ -23,6 +82,24 @@
 
 
 &lt;p&gt;To celebrate the conclusion of our yearly 2-week coding workshop, we celebrated in style at the buffet! We learned some Python, C++ and machine learning before the new semester begins.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>ACS CERM</title>
+      <link>/posts/acs_cerm/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/acs_cerm/</guid>
+      <description>Alice and Vishaka went to the our local regional conference, where Vishaka gave a fantastic talk about her work with sulfate sensing proteins and Alice organized a 2-day computational chemistry symposium.</description>
+      <content>
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/images/cerm2.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;Alice and Vishaka went to the our local regional conference, where Vishaka gave a fantastic talk about her work with sulfate sensing proteins and Alice organized a 2-day computational chemistry symposium.&lt;/p&gt;
 </content>
     </item>
     

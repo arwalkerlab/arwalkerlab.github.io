@@ -7,7 +7,66 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>ARW</copyright>
-    <lastBuildDate>Wed, 02 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gopal Symposium and Preview Day</title>
+      <link>/posts/gopal_2023/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/gopal_2023/</guid>
+      <description>Anita created a beautiful poster to present our lab&amp;rsquo;s research, and we had a great time showing it off to the first year graduate students after the yearly Gopal symposium.</description>
+      <content>
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/images/previewday2.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;Anita created a beautiful poster to present our lab&amp;rsquo;s research, and we had a great time showing it off to the first year graduate students after the yearly Gopal symposium.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>ACS San Francisco</title>
+      <link>/posts/acs_sfo_2023/</link>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/acs_sfo_2023/</guid>
+      <description>  The Walker lab was out in full force at ACS San Francisco this year! Mark presented a talk about his automated workflow in the Open Source Symposium, and Alice presented a talk in the Carbohydrate symposium.
+Solomon, Kaushalya and Nina all presented posters on their work in the Comp Poster Session. Congratulations to all!    </description>
+      <content>
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/images/acssfo_mark.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;The Walker lab was out in full force at ACS San Francisco this year! Mark presented a talk about his automated workflow in the Open Source Symposium, and Alice presented a talk in the Carbohydrate symposium.&lt;/p&gt;
+&lt;p&gt;Solomon, Kaushalya and Nina all presented posters on their work in the Comp Poster Session. Congratulations to all!
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/images/acssfo_nina.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/images/acssfo_solomon.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/images/acssfo_kaushie.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Buffet Lunch</title>
       <link>/posts/twentieth_post/</link>
@@ -23,6 +82,24 @@
 
 
 &lt;p&gt;To celebrate the conclusion of our yearly 2-week coding workshop, we celebrated in style at the buffet! We learned some Python, C++ and machine learning before the new semester begins.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>ACS CERM</title>
+      <link>/posts/acs_cerm/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/acs_cerm/</guid>
+      <description>Alice and Vishaka went to the our local regional conference, where Vishaka gave a fantastic talk about her work with sulfate sensing proteins and Alice organized a 2-day computational chemistry symposium.</description>
+      <content>
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/images/cerm2.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;Alice and Vishaka went to the our local regional conference, where Vishaka gave a fantastic talk about her work with sulfate sensing proteins and Alice organized a 2-day computational chemistry symposium.&lt;/p&gt;
 </content>
     </item>
     
@@ -908,10 +985,19 @@ If you&amp;rsquo;d like to work on excited state simulations of biomolecules, re
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description>Publications  Abigail Cousino, Lanka Wickramasinghe, Widana Kaushalya, Samarage Perera, Habib Baydoun, Alice R. Walker, and Claudio Verani. Studies on monolayer formation and electron transport in Au|LB|Au junctions containing 3d4 MnIII metallosurfactants. J. Phys. Chem. C, 2023. https://doi.org/10.1021/acs.jpcc.3c03616
-  Joseph Wakpal, Vishaka Pathiranage, Alice R. Walker, and Hien M. Nguyen. Rational design and expedient synthesis of heparan sulfate mimetics from natural aminoglycosides for structure and activity relationship studies. Angew. Chem.</description>
+      <description>Publications  Yasmin Shamsudin, Alice R. Walker, Chey M. Jones, Todd J. Martínez, and Steven G. Boxer. Simulation-guided engineering of split GFPs with efficient beta-strand photodissociation. Nat. Comm., accepted. Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/63f8e46832cd591f126c248e
+  Mark A. Hix and Alice R. Walker. AutoParams: An automated web-based tool to generate force field parameters for molecular dynamics simulations. J. Chem. Inf. Model., accepted 2023. https://doi.org/10.1021/acs.jcim.3c01049 Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/64a35d1d9ea64cc167645740 Source code: https://github.com/arwalkerlab/AutoParams
+  Abigail Cousino, Lanka Wickramasinghe, Widana Kaushalya, Samarage Perera, Habib Baydoun, Alice R.</description>
       <content>&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;
-&lt;ol start=&#34;17&#34;&gt;
+&lt;ol start=&#34;19&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Yasmin Shamsudin, Alice R. Walker, Chey M. Jones, Todd J. Martínez, and Steven G. Boxer. Simulation-guided engineering of split GFPs with efficient beta-strand photodissociation. Nat. Comm., accepted. Preprint: &lt;a href=&#34;https://chemrxiv.org/engage/chemrxiv/article-details/63f8e46832cd591f126c248e&#34;&gt;https://chemrxiv.org/engage/chemrxiv/article-details/63f8e46832cd591f126c248e&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mark A. Hix and Alice R. Walker. AutoParams: An automated web-based tool to generate force field parameters for molecular dynamics simulations. J. Chem. Inf. Model., accepted 2023. &lt;a href=&#34;https://doi.org/10.1021/acs.jcim.3c01049&#34;&gt;https://doi.org/10.1021/acs.jcim.3c01049&lt;/a&gt;
+Preprint: &lt;a href=&#34;https://chemrxiv.org/engage/chemrxiv/article-details/64a35d1d9ea64cc167645740&#34;&gt;https://chemrxiv.org/engage/chemrxiv/article-details/64a35d1d9ea64cc167645740&lt;/a&gt;
+Source code: &lt;a href=&#34;https://github.com/arwalkerlab/AutoParams&#34;&gt;https://github.com/arwalkerlab/AutoParams&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Abigail Cousino, Lanka Wickramasinghe, Widana Kaushalya, Samarage Perera, Habib Baydoun, Alice R. Walker, and Claudio Verani. Studies on monolayer formation and electron transport in Au|LB|Au junctions containing 3d4 MnIII metallosurfactants. J. Phys. Chem. C, 2023. &lt;a href=&#34;https://doi.org/10.1021/acs.jpcc.3c03616&#34;&gt;https://doi.org/10.1021/acs.jpcc.3c03616&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
@@ -950,10 +1036,6 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 &lt
 &lt;li&gt;
 &lt;p&gt;Mark A. Hix and Alice R. Walker. AutoParams: An automated web-based tool to generate force field parameters for molecular dynamics simulations. &lt;a href=&#34;https://chemrxiv.org/engage/chemrxiv/article-details/64a35d1d9ea64cc167645740&#34;&gt;https://chemrxiv.org/engage/chemrxiv/article-details/64a35d1d9ea64cc167645740&lt;/a&gt;
 Source code: &lt;a href=&#34;https://github.com/arwalkerlab/AutoParams&#34;&gt;https://github.com/arwalkerlab/AutoParams&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Mark A. Hix and Alice R. Walker. Adaptive restraints to accelerate geometry optimizations of large biomolecular systems. &lt;a href=&#34;https://chemrxiv.org/engage/chemrxiv/article-details/6490b93ba2c387fa9a94f607&#34;&gt;https://chemrxiv.org/engage/chemrxiv/article-details/6490b93ba2c387fa9a94f607&lt;/a&gt;
-Source code: &lt;a href=&#34;https://github.com/arwalkerlab/TeraChemAdaptiveRestraints/&#34;&gt;https://github.com/arwalkerlab/TeraChemAdaptiveRestraints/&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Christina H. McCulley and Alice R. Walker. Dimer interface destabilization of photodissociative Dronpa driven by asymmetric monomer dynamics. &lt;a href=&#34;https://chemrxiv.org/engage/chemrxiv/article-details/6478e79be64f843f412a424a&#34;&gt;https://chemrxiv.org/engage/chemrxiv/article-details/6478e79be64f843f412a424a&lt;/a&gt;&lt;/p&gt;
