@@ -2,7 +2,7 @@
 title = "ACS San Francisco"
 date = "2023-08-25"
 author = "ARW"
-cover = "images/acssfo.jpg"
+cover = "/images/acssfo.jpg"
 description = "End of coding workshop celebration"
 +++
 
