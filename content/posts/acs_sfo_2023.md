@@ -12,7 +12,7 @@ The Walker lab was out in full force at ACS San Francisco this year! Mark presen
 
 
 Solomon, Kaushalya and Nina all presented posters on their work in the Comp Poster Session. Congratulations to all! 
-{{<figure src="/images/acssfo_nina.jpg" position="center" style="border-radius: 6px;" >}}
+{{<figure src="/images/acssfo_nina.PNG" position="center" style="border-radius: 6px;" >}}
 {{<figure src="/images/acssfo_solomon.jpg" position="center" style="border-radius: 6px;" >}}
-{{<figure src="/images/acssfo_kaushie.jpg" position="center" style="border-radius: 6px;" >}}
+{{<figure src="/images/acssfo_kaushie.PNG" position="center" style="border-radius: 6px;" >}}
 
