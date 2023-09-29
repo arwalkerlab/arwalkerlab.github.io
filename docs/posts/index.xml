@@ -7,29 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>ARW</copyright>
-    <lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Gopal Symposium and Preview Day</title>
-      <link>/posts/gopal_2023/</link>
-      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/gopal_2023/</guid>
-      <description>Anita created a beautiful poster to present our lab&amp;rsquo;s research, and we had a great time showing it off to the first year graduate students after the yearly Gopal symposium.</description>
-      <content>
-  &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/previewday2.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
-    
-  &lt;/figure&gt;
-
-
-&lt;p&gt;Anita created a beautiful poster to present our lab&amp;rsquo;s research, and we had a great time showing it off to the first year graduate students after the yearly Gopal symposium.&lt;/p&gt;
-</content>
-    </item>
-    
+    <lastBuildDate>Thu, 31 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ACS San Francisco</title>
       <link>/posts/acs_sfo_2023/</link>
-      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>/posts/acs_sfo_2023/</guid>
       <description>  The Walker lab was out in full force at ACS San Francisco this year! Mark presented a talk about his automated workflow in the Open Source Symposium, and Alice presented a talk in the Carbohydrate symposium.
@@ -64,6 +46,24 @@ Solomon, Kaushalya and Nina all presented posters on their work in the Comp Post
   &lt;/figure&gt;
 
 &lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Gopal Symposium and Preview Day</title>
+      <link>/posts/gopal_2023/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/gopal_2023/</guid>
+      <description>Anita created a beautiful poster to present our lab&amp;rsquo;s research, and we had a great time showing it off to the first year graduate students after the yearly Gopal symposium.</description>
+      <content>
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/images/previewday2.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;Anita created a beautiful poster to present our lab&amp;rsquo;s research, and we had a great time showing it off to the first year graduate students after the yearly Gopal symposium.&lt;/p&gt;
 </content>
     </item>
     

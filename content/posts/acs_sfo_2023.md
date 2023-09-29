@@ -1,9 +1,9 @@
 +++
 title = "ACS San Francisco"
-date = "2023-08-25"
+date = "2023-08-31"
 author = "ARW"
 cover = "/images/acssfo.jpg"
-description = "End of coding workshop celebration"
+description = "ACS San Francisco, Fall 2023"
 +++
 
 {{<figure src="/images/acssfo_mark.jpg" position="center" style="border-radius: 6px;" >}}
