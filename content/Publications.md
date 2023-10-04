@@ -1,6 +1,8 @@
 # Publications
 
-19. Yasmin Shamsudin, Alice R. Walker, Chey M. Jones, Todd J. Martínez, and Steven G. Boxer. Simulation-guided engineering of split GFPs with efficient beta-strand photodissociation. Nat. Comm., accepted. Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/63f8e46832cd591f126c248e
+20. Christina H. McCulley and Alice R. Walker. Dimer interface destabilization of photodissociative Dronpa driven by asymmetric monomer dynamics. J. Phys. Chem. B, accepted 2023. Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/6478e79be64f843f412a424a 
+
+19. Yasmin Shamsudin, Alice R. Walker, Chey M. Jones, Todd J. Martínez, and Steven G. Boxer. Simulation-guided engineering of split GFPs with efficient beta-strand photodissociation. Nat. Comm., accepted 2023. Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/63f8e46832cd591f126c248e
 
 18. Mark A. Hix and Alice R. Walker. AutoParams: An automated web-based tool to generate force field parameters for molecular dynamics simulations. J. Chem. Inf. Model., accepted 2023. https://doi.org/10.1021/acs.jcim.3c01049
 Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/64a35d1d9ea64cc167645740
@@ -33,7 +35,7 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 htt
 
  - Widana Kaushalya and Alice R. Walker. Simulations of DNA-coordinated light emission vs. intramolecular electron transfer: electron donor-acceptor systems with benzo[a]pyrene derivatives. https://chemrxiv.org/engage/chemrxiv/article-details/64ea410c3fdae147fae2cd1b
 
- - Christina H. McCulley and Alice R. Walker. Dimer interface destabilization of photodissociative Dronpa driven by asymmetric monomer dynamics. https://chemrxiv.org/engage/chemrxiv/article-details/6478e79be64f843f412a424a 
+ - 
 
 #Prior to faculty appointment:
 
