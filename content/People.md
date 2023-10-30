@@ -115,7 +115,8 @@
   <td>
   Undergraduate Researcher: Morgan Grougan <br>
   <a href="/pdf/morgan_cv_2022.pdf">CV</a>
-  <a href="https://orcid.org/0009-0007-2446-030X">OrcID</a>
+  <a href="https://orcid.org/0009-0007-2446-030X">OrcID</a><br>
+  MARC Scholar
   </td>
 </tr>
 <tr>
@@ -123,6 +124,7 @@
   </td>
   <td>
   Undergraduate Researcher: John Muller <br>
+  MARC Scholar
   </td>
 </tr>
 <tr>
