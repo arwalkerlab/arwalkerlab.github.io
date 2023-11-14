@@ -35,6 +35,8 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 htt
 
 #Preprints
 
+ - Elisa Pieri, Alice R. Walker, Mingning Zhu, and Todd J. Martínez. Conical intersection accessibility dictates brightness in red fluorescent proteins. https://chemrxiv.org/engage/chemrxiv/article-details/65490d7dc573f893f1ecf20e
+
  - Widana Kaushalya and Alice R. Walker. Simulations of DNA-coordinated light emission vs. intramolecular electron transfer: electron donor-acceptor systems with benzo[a]pyrene derivatives. https://chemrxiv.org/engage/chemrxiv/article-details/64ea410c3fdae147fae2cd1b
 
  - Mark A. Hix and Alice R. Walker. Adaptive restraints to accelerate geometry optimizations of large biomolecular systems. https://chemrxiv.org/engage/chemrxiv/article-details/6490b93ba2c387fa9a94f607 Source code: https://github.com/arwalkerlab/TeraChemAdaptiveRestraints/
