@@ -1,18 +1,18 @@
 # Publications
 
-20. Christina H. McCulley and Alice R. Walker. Dimer interface destabilization of photodissociative Dronpa driven by asymmetric monomer dynamics. J. Phys. Chem. B, accepted 2023. https://doi.org/10.1021/acs.jpcb.3c03798 
+20. Christina H. McCulley and Alice R. Walker. Dimer interface destabilization of photodissociative Dronpa driven by asymmetric monomer dynamics. J. Phys. Chem. B. 2023, 127(43), 9248-9257. https://doi.org/10.1021/acs.jpcb.3c03798 
 Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/6478e79be64f843f412a424a 
 
-19. Yasmin Shamsudin, Alice R. Walker, Chey M. Jones, Todd J. Martínez, and Steven G. Boxer. Simulation-guided engineering of split GFPs with efficient beta-strand photodissociation. Nat. Comm., accepted 2023. 
+19. Yasmin Shamsudin, Alice R. Walker, Chey M. Jones, Todd J. Martínez, and Steven G. Boxer. Simulation-guided engineering of split GFPs with efficient beta-strand photodissociation. Nat. Commun. 2023, 14, 7401. https://doi.org/10.1038/s41467-023-42954-4 
 Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/63f8e46832cd591f126c248e
 
-18. Mark A. Hix and Alice R. Walker. AutoParams: An automated web-based tool to generate force field parameters for molecular dynamics simulations. J. Chem. Inf. Model., accepted 2023. https://doi.org/10.1021/acs.jcim.3c01049
+18. Mark A. Hix and Alice R. Walker. AutoParams: An automated web-based tool to generate force field parameters for molecular dynamics simulations. J. Chem. Inf. Model. 2023, 63, 20, 6293-6301. https://doi.org/10.1021/acs.jcim.3c01049
 Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/64a35d1d9ea64cc167645740
 Source code: https://github.com/arwalkerlab/AutoParams
 
-17. Abigail Cousino, Lanka Wickramasinghe, Widana Kaushalya, Samarage Perera, Habib Baydoun, Alice R. Walker, and Claudio Verani. Studies on monolayer formation and electron transport in Au|LB|Au junctions containing 3d4 MnIII metallosurfactants. J. Phys. Chem. C, 2023. https://doi.org/10.1021/acs.jpcc.3c03616
+17. Abigail Cousino, Lanka Wickramasinghe, Widana Kaushalya, Samarage Perera, Habib Baydoun, Alice R. Walker, and Claudio Verani. Studies on monolayer formation and electron transport in Au|LB|Au junctions containing 3d4 MnIII metallosurfactants. J. Phys. Chem. C 2023, 127, 33, 16654-16667. https://doi.org/10.1021/acs.jpcc.3c03616
 
-16. Joseph Wakpal, Vishaka Pathiranage, Alice R. Walker, and Hien M. Nguyen. Rational design and expedient synthesis of heparan sulfate mimetics from natural aminoglycosides for structure and activity relationship studies. Angew. Chem. Int. Ed., 2023, e202304325. https://doi.org/10.1002/anie.202304325
+16. Joseph Wakpal, Vishaka Pathiranage, Alice R. Walker, and Hien M. Nguyen. Rational design and expedient synthesis of heparan sulfate mimetics from natural aminoglycosides for structure and activity relationship studies. Angew. Chem. Int. Ed. 2023, 62, e202304325. https://doi.org/10.1002/anie.202304325
 
 15. Whitney S.Y. Ong*,  Ke Ji*,  Vishaka Pathiranage*,  Caden Maydew,  Kiheon Baek,  Rhiza Lyne E. Villones,  Gabriele Meloni,  Alice R. Walker,  and Sheel Dodani. Angew. Chem. Int. Ed. 2023, e202302304. https://doi.org/10.1002/anie.202302304
 Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/63a223bab9c5f65de5da502f
