@@ -107,6 +107,17 @@
   </td>
 </tr>
 <tr>
+ <td width="25%">
+  <center>
+  <image src="/images/pramoda_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
+  </center>
+  </td>
+  <td>
+  Graduate Student: Pramoda Gamage <br>
+  <a href="/pdf/pramoda_cv_2023.pdf">CV</a>
+  </td>
+</tr>
+<tr>
   <td width="25%">
   <center>
   <image src="/images/morgan_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
