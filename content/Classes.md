@@ -60,8 +60,8 @@ molview: https://molview.org/
 
 MolSSI: http://education.molssi.org/
 
-Beginner python: https://py.checkio.org/
-                 https://www.learnpython.org/
+Beginner python: https://py.checkio.org/ <br>
+                 https://www.learnpython.org/<br>
 
 Scientific python: https://stanford.edu/~schmit/cme193/lectures.html
 

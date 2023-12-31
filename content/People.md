@@ -142,6 +142,6 @@
 
 #Alumni
 
-Nathaniel Turner UGR 
-Ashlyn Murphy UGR -> Graduate Student at University of California-San Diego
+Nathaniel Turner UGR <br>
+Ashlyn Murphy UGR -> Graduate Student at University of California-San Diego <br>
 
