@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>ARW</copyright>
-    <lastBuildDate>Thu, 31 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome Pramoda!</title>
+      <link>/posts/winterwelcome2023/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/winterwelcome2023/</guid>
+      <description>A big welcome to our new student, Pramoda, as we finish up a full year with lots of accomplishments!</description>
+      <content>&lt;p&gt;A big welcome to our new student, Pramoda, as we finish up a full year with lots of accomplishments!&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>ACS San Francisco</title>
       <link>/posts/acs_sfo_2023/</link>
@@ -833,7 +844,7 @@ If you&amp;rsquo;d like to work on excited state simulations of biomolecules, re
       <guid>/people/</guid>
       <description>People PI: Alice R. Walker CV Google ScholarResearch GateOrcIDTwitterHobbies: knitting, video games, staring at screensPostdoctoral Researcher: Nina McCulley CVPostdoctoral Researcher: Mark A. Hix CVGoogle ScholarOrcIDTwitterGraduate Student: Solomon Yamoah Effah CVOrcIDGraduate Student: Vishaka Pathiranage</description>
       <content>&lt;h1 id=&#34;people&#34;&gt;People&lt;/h1&gt;
-&lt;image src=&#34;/images/GroupPhoto2023_Vishaka.jpg&#34; onmouseover=&#34;image.src=&#39;/images/group_silly.jpg&#39;&#34; onmouseout=&#34;image.src=&#39;/images/group_molecule.jpg&#34; style=&#34;width: 650px&#34;&gt;
+&lt;image src=&#34;/images/GroupPictureWinter2023.jpg&#34; onmouseover=&#34;image.src=&#39;/images/group_silly.jpg&#39;&#34; onmouseout=&#34;image.src=&#39;/images/group_molecule.jpg&#34; style=&#34;width: 650px&#34;&gt;
 &lt;table&gt;
 &lt;tr&gt;
   &lt;td width=&#34;25%&#34;&gt;
@@ -968,16 +979,9 @@ If you&amp;rsquo;d like to work on excited state simulations of biomolecules, re
   MARC Scholar
   &lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;
-  &lt;td width=&#34;25%&#34;&gt;
-  &lt;/td&gt;
-  &lt;td&gt;
-  Undergraduate Researcher: Nathaniel Turner &lt;br&gt;
-  &lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
 &lt;p&gt;#Alumni&lt;/p&gt;
-&lt;p&gt;Ashlyn Murphy UGR -&amp;gt; Graduate Student at University of California-San Diego&lt;/p&gt;
+&lt;p&gt;Nathaniel Turner UGR 
+Ashlyn Murphy UGR -&amp;gt; Graduate Student at University of California-San Diego&lt;/p&gt;
 </content>
     </item>
     

@@ -1,6 +1,6 @@
 # People
 
-<image src="/images/GroupPhoto2023_Vishaka.jpg" onmouseover="image.src='/images/group_silly.jpg'" onmouseout="image.src='/images/group_molecule.jpg" style="width: 650px">
+<image src="/images/GroupPictureWinter2023.jpg" onmouseover="image.src='/images/group_silly.jpg'" onmouseout="image.src='/images/group_molecule.jpg" style="width: 650px">
 
 <table>
 <tr>
@@ -138,16 +138,9 @@
   MARC Scholar
   </td>
 </tr>
-<tr>
-  <td width="25%">
-  </td>
-  <td>
-  Undergraduate Researcher: Nathaniel Turner <br>
-  </td>
-</tr>
-</table>
 
 #Alumni
 
+Nathaniel Turner UGR 
 Ashlyn Murphy UGR -> Graduate Student at University of California-San Diego
 
