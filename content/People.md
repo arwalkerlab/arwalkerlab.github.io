@@ -138,6 +138,7 @@
   MARC Scholar
   </td>
 </tr>
+</table>
 
 #Alumni
 
