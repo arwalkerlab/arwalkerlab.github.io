@@ -2,7 +2,7 @@
 title = "Honors Convocation"
 date = "2024-04-23"
 author = "ARW"
-cover = "images/VishakaTeaching2024.jpg"
+cover = "images/KaushalyaTeaching2024.jpg"
 description = "Honors Convocation 2024"
 +++
 
