@@ -23,17 +23,6 @@
 <tr>
   <td width="25%">
   <center>
-  <image src="/images/nina_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
-  </center>
-  </td>
-  <td>
-  Postdoctoral Researcher: Nina McCulley <br>
-  <a href="/pdf/nina_cv_2022.pdf">CV</a>
-  </td>
-</tr>
-<tr>
-  <td width="25%">
-  <center>
   <image src="/images/mark_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
   </center>
   </td>
@@ -142,6 +131,7 @@
 
 #Alumni
 
+Nina McCulley PD <br>
 Nathaniel Turner UGR <br>
 Ashlyn Murphy UGR -> Graduate Student at University of California-San Diego <br>
 
