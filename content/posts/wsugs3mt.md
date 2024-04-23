@@ -2,7 +2,7 @@
 title = "Wayne State Graduate Symposium"
 date = "2024-02-28"
 author = "ARW"
-cover = "images/GSVishaka3MT2024.jpg"
+cover = "/images/GSVishaka3MT2024.jpg"
 description = "WSU Graduate Symposium: Poster and 3MT"
 +++
 
