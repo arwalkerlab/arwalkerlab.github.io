@@ -107,6 +107,17 @@
   </td>
 </tr>
 <tr>
+ <td width="25%">
+  <center>
+  <image src="/images/janya_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
+  </center> 
+  </td>
+  <td>
+  Graduate Student: Janya Subasinghe <br>
+  <a href="/pdf/janya_cv_2024.pdf">CV</a>
+  </td>
+</tr>
+<tr>
   <td width="25%">
   <center>
   <image src="/images/morgan_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
