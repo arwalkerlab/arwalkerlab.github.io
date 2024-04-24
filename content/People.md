@@ -109,7 +109,7 @@
 <tr>
  <td width="25%">
   <center>
-  <image src="/images/janya_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
+  <image src="/images/janya_profile.jpeg" position="center"  style="border-radius: 4px; width: 200px">
   </center> 
   </td>
   <td>
