@@ -5,9 +5,27 @@
     <link>/</link>
     <description>Recent content on Walker Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <copyright>ARW</copyright>
-    <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rumble Fellowship</title>
+      <link>/posts/rumble2024/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/rumble2024/</guid>
+      <description>Congratulations to Vishaka Pathiranage for her new Rumble Fellowship! It is based on her excellence in research and scholarly presentation, and will support her for the next year.</description>
+      <content>
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/images/VishakaTeaching2024.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;p&gt;Congratulations to Vishaka Pathiranage for her new Rumble Fellowship! It is based on her excellence in research and scholarly presentation, and will support her for the next year.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Honors Convocation</title>
       <link>/posts/teachingawards2024/</link>
@@ -76,7 +94,7 @@
       
       <guid>/posts/wsugs3mt/</guid>
       <description>Vishaka won 3rd place at the University-wide 3 Minute Thesis competition, presenting her work with the ChlorON series for a general audience in less than 3 minutes!
- Victoria presented her work for the first time on anion binding to cgreGFP as a poster!</description>
+Victoria presented her work for the first time on anion binding to cgreGFP as a poster!</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
     &lt;img src=&#34;/images/GSVishaka3MT2024.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
@@ -113,8 +131,8 @@
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>/posts/acs_sfo_2023/</guid>
-      <description>  The Walker lab was out in full force at ACS San Francisco this year! Mark presented a talk about his automated workflow in the Open Source Symposium, and Alice presented a talk in the Carbohydrate symposium.
-Solomon, Kaushalya and Nina all presented posters on their work in the Comp Poster Session. Congratulations to all!    </description>
+      <description> The Walker lab was out in full force at ACS San Francisco this year! Mark presented a talk about his automated workflow in the Open Source Symposium, and Alice presented a talk in the Carbohydrate symposium.
+Solomon, Kaushalya and Nina all presented posters on their work in the Comp Poster Session. Congratulations to all! </description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
     &lt;img src=&#34;/images/acssfo_mark.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
@@ -208,9 +226,8 @@ Solomon, Kaushalya and Nina all presented posters on their work in the Comp Post
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
       
       <guid>/posts/nineteenth_post/</guid>
-      <description>  Congratulations to Kaushalya for passing her second year defense and officially becoming a PhD candidate!
-And with that, all the 2nd years have become PhD candidates! Congratulations to all!
- </description>
+      <description>Congratulations to Kaushalya for passing her second year defense and officially becoming a PhD candidate!
+And with that, all the 2nd years have become PhD candidates! Congratulations to all!</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
     &lt;img src=&#34;/images/KaushieYear2023.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
@@ -273,9 +290,9 @@ And with that, all the 2nd years have become PhD candidates! Congratulations to 
       
       <guid>/posts/sixteenth_post/</guid>
       <description>The Walker lab won a number of awards this year&amp;ndash;congratulations to:
- Anita, for an excellence in teaching award!
- Solomon, for an excellence in teaching award!
- Morgan, for the David and Beverly Rorabacher Research Award, which includes a stipend for summer undergraduate research.</description>
+Anita, for an excellence in teaching award!
+Solomon, for an excellence in teaching award!
+Morgan, for the David and Beverly Rorabacher Research Award, which includes a stipend for summer undergraduate research.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
     &lt;img src=&#34;/images/WSUAwards2023_03.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
@@ -340,7 +357,7 @@ Morgan won a poster award (and a t-shirt).</description>
       
       <guid>/posts/fourteenth_post/</guid>
       <description>The Walker group attended the Spring ACS at Indianapolis in style&amp;ndash;Vishaka presented her first talk at a national conference about her work on sulfate-sensitive fluorescent proteins.
- Alice presented a talk at the COMP Undergraduate Symposium.</description>
+Alice presented a talk at the COMP Undergraduate Symposium.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
     &lt;img src=&#34;/images/ACS2023_03.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
@@ -402,8 +419,7 @@ Morgan won a poster award (and a t-shirt).</description>
       <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>/posts/ninth_post/</guid>
-      <description>Michigan has lots of local cider mills&amp;ndash;we enjoyed some fall foliage, hot cider and doughnuts just in time for Halloween.
- </description>
+      <description>Michigan has lots of local cider mills&amp;ndash;we enjoyed some fall foliage, hot cider and doughnuts just in time for Halloween.</description>
       <content>&lt;p&gt;Michigan has lots of local cider mills&amp;ndash;we enjoyed some fall foliage, hot cider and doughnuts just in time for Halloween.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
@@ -480,8 +496,7 @@ Morgan won a poster award (and a t-shirt).</description>
       
       <guid>/posts/sixth_post/</guid>
       <description>The Walker Group presented two posters at the American Conference on Theoretical Chemistry 2022!
-Dr. Walker served as the session chair for the Thursday Morning talks, and Mark gave a short presentation during the TeraChem Developers Conference on Friday.
-  </description>
+Dr. Walker served as the session chair for the Thursday Morning talks, and Mark gave a short presentation during the TeraChem Developers Conference on Friday.</description>
       <content>&lt;p&gt;The Walker Group presented two posters at the American Conference on Theoretical Chemistry 2022!&lt;br&gt;
 Dr. Walker served as the session chair for the Thursday Morning talks, and Mark gave a short presentation during the TeraChem Developers Conference on Friday.&lt;/p&gt;
 
@@ -507,8 +522,7 @@ Dr. Walker served as the session chair for the Thursday Morning talks, and Mark 
       <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>/posts/fifth_post/</guid>
-      <description>As a quick break in our summer coding workshop, Vishaka made some lovely artwork with the neural style package in torch!
- </description>
+      <description>As a quick break in our summer coding workshop, Vishaka made some lovely artwork with the neural style package in torch!</description>
       <content>&lt;p&gt;As a quick break in our summer coding workshop, Vishaka made some lovely artwork with the neural style package in torch!&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
@@ -569,8 +583,7 @@ Go here and type the molecule name of your choice! Alternatively, the following 
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/posts/first_post/</guid>
-      <description>Coming soon to a university near you, if you live in the Detroit area. :)
- </description>
+      <description>Coming soon to a university near you, if you live in the Detroit area. :)</description>
       <content>&lt;p&gt;Coming soon to a university near you, if you live in the Detroit area. :)&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
@@ -692,14 +705,14 @@ SLAC PULSE Institute
 Stanford, CA 94305
 ll Email: &amp;amp; arwalker@stanford.edu
 Websites: &amp;amp; Google Scholar, ResearchGate
-Education  March 2018 Ph.D. in Physical Chemistry, University of North Texas Dissertation: Computational Simulations of Cancer and Disease-Related Enzymatic Systems using Molecular Dynamics and Combined Quantum Methods September 2013-August 2016 Ph.D. Candidate in Physical Chemistry, Wayne State University May 2011 B.S. in Chemistry with distinction, University of Michigan-Dearborn</description>
+Education March 2018 Ph.D. in Physical Chemistry, University of North Texas Dissertation: Computational Simulations of Cancer and Disease-Related Enzymatic Systems using Molecular Dynamics and Combined Quantum Methods September 2013-August 2016 Ph.D. Candidate in Physical Chemistry, Wayne State University May 2011 B.S. in Chemistry with distinction, University of Michigan-Dearborn</description>
       <content>&lt;p&gt;&lt;strong&gt;Alice R. Walker&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://chemistry.stanford.edu/&#34;&gt;Stanford Chemistry&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://ultrafast.stanford.edu/&#34;&gt;SLAC PULSE Institute&lt;/a&gt;&lt;br&gt;
 333 Campus Dr.&lt;br&gt;
 Stanford, CA 94305&lt;/p&gt;
 &lt;p&gt;ll Email: &amp;amp; &lt;a href=&#34;arwalker@stanford.edu&#34;&gt;arwalker@stanford.edu&lt;/a&gt;&lt;br&gt;
-Websites: &amp;amp; &lt;a href=&#34;https://scholar.google.com/citations?user=2tmkmrkAAAAJ&amp;amp;hl=en&#34;&gt;Google
+Websites: &amp;amp; &lt;a href=&#34;https://scholar.google.com/citations?user=2tmkmrkAAAAJ&amp;hl=en&#34;&gt;Google
 Scholar&lt;/a&gt;,
 &lt;a href=&#34;https://www.researchgate.net/profile/Alice_Walker6&#34;&gt;ResearchGate&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;education&#34; class=&#34;unnumbered&#34;&gt;Education&lt;/h1&gt;
@@ -907,8 +920,8 @@ If you&amp;rsquo;d like to work on excited state simulations of biomolecules, re
       
       <guid>/old/</guid>
       <description>#Wiki
-{{if and (gt .WordCount 100 ) (.Params.toc) }}
-{{.Title}}{{ .TableOfContents }}{{end}}</description>
+{{if and (gt .WordCount 100 ) (.Params.toc) }}
+{{.Title}}{{ .TableOfContents }}{{end}}</description>
       <content>&lt;p&gt;#Wiki&lt;/p&gt;
 &lt;nav id=&#34;Table of Contents&#34;&gt;&lt;ul&gt;&lt;/ul&gt;&lt;/nav&gt;
 &lt;p&gt;{{if and (gt .WordCount 100 ) (.Params.toc) }}&lt;/p&gt;
@@ -930,8 +943,8 @@ If you&amp;rsquo;d like to work on excited state simulations of biomolecules, re
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/people/</guid>
-      <description>People PI: Alice R. Walker CV Google ScholarResearch GateOrcIDTwitterHobbies: knitting, video games, staring at screensPostdoctoral Researcher: Mark A. Hix CVGoogle ScholarOrcIDTwitterGraduate Student: Solomon Yamoah Effah CVOrcIDGraduate Student: Vishaka Pathiranage
-CVResearchGateOrcIDGraduate Student: Widana Kaushalya CVOrcIDGraduate Student: Anita Adams CVGraduate Student: Mfon Victoria Sunday CVGraduate Student: Pramoda Gamage CV Graduate Student: Janya Subasinghe CVUndergraduate Researcher: Morgan Grougan CVOrcID</description>
+      <description>People PI: Alice R. Walker CV Google ScholarResearch GateOrcIDTwitterHobbies: knitting, video games, staring at screensPostdoctoral Researcher: Mark A. Hix CVGoogle ScholarOrcIDTwitterGraduate Student: Solomon Yamoah Effah CVOrcIDGraduate Student: Vishaka Pathiranage
+CVResearchGateOrcIDGraduate Student: Widana Kaushalya CVOrcIDGraduate Student: Anita Adams CVGraduate Student: Mfon Victoria Sunday CVGraduate Student: Pramoda Gamage CVGraduate Student: Janya Subasinghe CVUndergraduate Researcher: Morgan Grougan CVOrcID</description>
       <content>&lt;h1 id=&#34;people&#34;&gt;People&lt;/h1&gt;
 &lt;image src=&#34;/images/GroupPictureWinter2023.jpg&#34; onmouseover=&#34;image.src=&#39;/images/group_silly.jpg&#39;&#34; onmouseout=&#34;image.src=&#39;/images/group_molecule.jpg&#34; style=&#34;width: 650px&#34;&gt;
 &lt;table&gt;
@@ -1093,11 +1106,17 @@ Ashlyn Murphy UGR -&amp;gt; Graduate Student at University of California-San Die
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description>Publications  Christina H. McCulley and Alice R. Walker. Dimer interface destabilization of photodissociative Dronpa driven by asymmetric monomer dynamics. J. Phys. Chem. B. 2023, 127(43), 9248-9257. https://doi.org/10.1021/acs.jpcb.3c03798 Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/6478e79be64f843f412a424a
-  Yasmin Shamsudin, Alice R. Walker, Chey M. Jones, Todd J. Martínez, and Steven G. Boxer. Simulation-guided engineering of split GFPs with efficient beta-strand photodissociation. Nat. Commun. 2023, 14, 7401. https://doi.org/10.1038/s41467-023-42954-4 Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/63f8e46832cd591f126c248e
-  Mark A. Hix and Alice R.</description>
+      <description>Publications Elisa Pieri, Alice R. Walker, Mingning Zhu, and Todd J. Martínez. Conical intersection accessibility dictates brightness in red fluorescent proteins. J. Am. Chem. Soc. 2024, accepted. Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/65490d7dc573f893f1ecf20e
+Gibson Kirui, Widana Kaushalya, S. Sameera Perera, Alice R. Walker, and Cláudio N. Verani. Influence of peripheral and ancillary changes on the electron transport of HS3d5 FeIII metallosurfactants – substituents, chain length, subphase polarity, and junction electrodes. J. Phys. Chem. C. 2024.</description>
       <content>&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;
-&lt;ol start=&#34;20&#34;&gt;
+&lt;ol start=&#34;22&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Elisa Pieri, Alice R. Walker, Mingning Zhu, and Todd J. Martínez. Conical intersection accessibility dictates brightness in red fluorescent proteins. J. Am. Chem. Soc. 2024, accepted. Preprint: &lt;a href=&#34;https://chemrxiv.org/engage/chemrxiv/article-details/65490d7dc573f893f1ecf20e&#34;&gt;https://chemrxiv.org/engage/chemrxiv/article-details/65490d7dc573f893f1ecf20e&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Gibson Kirui, Widana Kaushalya, S. Sameera Perera, Alice R. Walker, and Cláudio N. Verani. Influence of peripheral and ancillary changes on the electron transport of HS3d5 FeIII metallosurfactants – substituents, chain length, subphase polarity, and junction electrodes. J. Phys. Chem. C. 2024. &lt;a href=&#34;https://doi.org/10.1021/acs.jpcc.4c02249&#34;&gt;https://doi.org/10.1021/acs.jpcc.4c02249&lt;/a&gt;
+Featured on cover. &lt;a href=&#34;https://pubs.acs.org/toc/jpccck/126/49&#34;&gt;https://pubs.acs.org/toc/jpccck/126/49&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Christina H. McCulley and Alice R. Walker. Dimer interface destabilization of photodissociative Dronpa driven by asymmetric monomer dynamics. J. Phys. Chem. B. 2023, 127(43), 9248-9257. &lt;a href=&#34;https://doi.org/10.1021/acs.jpcb.3c03798&#34;&gt;https://doi.org/10.1021/acs.jpcb.3c03798&lt;/a&gt;
 Preprint: &lt;a href=&#34;https://chemrxiv.org/engage/chemrxiv/article-details/6478e79be64f843f412a424a&#34;&gt;https://chemrxiv.org/engage/chemrxiv/article-details/6478e79be64f843f412a424a&lt;/a&gt;&lt;/p&gt;
@@ -1112,7 +1131,7 @@ Preprint: &lt;a href=&#34;https://chemrxiv.org/engage/chemrxiv/article-details/6
 Source code: &lt;a href=&#34;https://github.com/arwalkerlab/AutoParams&#34;&gt;https://github.com/arwalkerlab/AutoParams&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Abigail Cousino, Lanka Wickramasinghe, Widana Kaushalya, Samarage Perera, Habib Baydoun, Alice R. Walker, and Claudio Verani. Studies on monolayer formation and electron transport in Au|LB|Au junctions containing 3d4 MnIII metallosurfactants. J. Phys. Chem. C 2023, 127, 33, 16654-16667. &lt;a href=&#34;https://doi.org/10.1021/acs.jpcc.3c03616&#34;&gt;https://doi.org/10.1021/acs.jpcc.3c03616&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Abigail Cousino, Lanka Wickramasinghe, Widana Kaushalya, Samarage Perera, Habib Baydoun, Alice R. Walker, and Cláudio N. Verani. Studies on monolayer formation and electron transport in Au|LB|Au junctions containing 3d4 MnIII metallosurfactants. J. Phys. Chem. C 2023, 127, 33, 16654-16667. &lt;a href=&#34;https://doi.org/10.1021/acs.jpcc.3c03616&#34;&gt;https://doi.org/10.1021/acs.jpcc.3c03616&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Joseph Wakpal, Vishaka Pathiranage, Alice R. Walker, and Hien M. Nguyen. Rational design and expedient synthesis of heparan sulfate mimetics from natural aminoglycosides for structure and activity relationship studies. Angew. Chem. Int. Ed. 2023, 62, e202304325. &lt;a href=&#34;https://doi.org/10.1002/anie.202304325&#34;&gt;https://doi.org/10.1002/anie.202304325&lt;/a&gt;&lt;/p&gt;
@@ -1145,9 +1164,6 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 &lt
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Cuixin Lai, Lina Yang*, Vishaka Pathiranage*, Ruizhao Wang, Fedor V. Subach, Alice R. Walker, and Kiryl D. Piatkevich. Genetically encoded green fluorescent sensor for probing sulfate transport activity of solute carrier family 26 member a2 (Slc26a2) protein.  &lt;a href=&#34;https://doi.org/10.21203/rs.3.rs-3061116/v1&#34;&gt;https://doi.org/10.21203/rs.3.rs-3061116/v1&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Elisa Pieri, Alice R. Walker, Mingning Zhu, and Todd J. Martínez. Conical intersection accessibility dictates brightness in red fluorescent proteins. &lt;a href=&#34;https://chemrxiv.org/engage/chemrxiv/article-details/65490d7dc573f893f1ecf20e&#34;&gt;https://chemrxiv.org/engage/chemrxiv/article-details/65490d7dc573f893f1ecf20e&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Widana Kaushalya and Alice R. Walker. Simulations of DNA-coordinated light emission vs. intramolecular electron transfer: electron donor-acceptor systems with benzo[a]pyrene derivatives. &lt;a href=&#34;https://chemrxiv.org/engage/chemrxiv/article-details/64ea410c3fdae147fae2cd1b&#34;&gt;https://chemrxiv.org/engage/chemrxiv/article-details/64ea410c3fdae147fae2cd1b&lt;/a&gt;&lt;/p&gt;
@@ -1228,7 +1244,7 @@ Aptamers, or short sequences of nucleotides, are easy to synthesize and are high
 
 
 &lt;div style=&#34;text-align: justify&#34;&gt;
-Fluorescent proteins and their derivatives are powerful experimental tools. They can be used directly as fluorescent tags, but also have applications as reversible photoswitches, where the focus is on nonradiative decay pathways that result in a physical change upon excitation with light at various wavelengths. Most protein design for such systems focuses on residues inside the barrel-in this work, we focus on allosteric mutations on the flexible linkers at the edges of the protein barrel to investigate changes propagated to the surface of the protein. This work will combin bioinformatics and direct simulations of the excited state mechanisms of reversible fluorescent proteins to rationally design new and more highly tuned protein photoswitches. 
+Fluorescent proteins and their derivatives are powerful experimental tools. They can be used directly as fluorescent tags, but also have applications as reversible photoswitches, where the focus is on nonradiative decay pathways that result in a physical change upon excitation with light at various wavelengths. Our group applies classical and combined quantum/molecular mechanics methods on the ground and excited state for the rational design of fluorescent proteins (FPs), based on a comprehensive theoretical picture of the relationship between excited state chromophore behavior, protein structure, and environment. Fluorescent proteins are ubiquitous as sensors in biochemical imaging, but the relationship between protein structures and motion, environmental factors such as pH, chromophore excited state behavior, and the actual measured fluorescent signal is still not fully understood. Since the connection between targeted mutations and experimental spectroscopic outcomes is not predictable, designing new FP-based sensors is an ongoing challenge. We are especially interested in specific challenges associated with creating bright, red, monomeric or photodissociative sensors for specific anions of interest, combining theoretical methodology and experimental collaborations where appropriate.  Our work will also give further insight into the connection between atomic and electronic-level details of protein structure and measured spectroscopic signals.  Supported by NSF CHE2338804.
 &lt;/div&gt;
 &lt;br&gt;
 &lt;/br&gt;

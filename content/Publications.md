@@ -1,5 +1,10 @@
 # Publications
 
+22. Elisa Pieri, Alice R. Walker, Mingning Zhu, and Todd J. Martínez. Conical intersection accessibility dictates brightness in red fluorescent proteins. J. Am. Chem. Soc. 2024, accepted. Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/65490d7dc573f893f1ecf20e
+
+21. Gibson Kirui, Widana Kaushalya, S. Sameera Perera, Alice R. Walker, and Cláudio N. Verani. Influence of peripheral and ancillary changes on the electron transport of HS3d5 FeIII metallosurfactants – substituents, chain length, subphase polarity, and junction electrodes. J. Phys. Chem. C. 2024. https://doi.org/10.1021/acs.jpcc.4c02249 
+Featured on cover. https://pubs.acs.org/toc/jpccck/126/49
+
 20. Christina H. McCulley and Alice R. Walker. Dimer interface destabilization of photodissociative Dronpa driven by asymmetric monomer dynamics. J. Phys. Chem. B. 2023, 127(43), 9248-9257. https://doi.org/10.1021/acs.jpcb.3c03798 
 Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/6478e79be64f843f412a424a 
 
@@ -10,7 +15,7 @@ Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/63f8e46832cd591f1
 Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/64a35d1d9ea64cc167645740
 Source code: https://github.com/arwalkerlab/AutoParams
 
-17. Abigail Cousino, Lanka Wickramasinghe, Widana Kaushalya, Samarage Perera, Habib Baydoun, Alice R. Walker, and Claudio Verani. Studies on monolayer formation and electron transport in Au|LB|Au junctions containing 3d4 MnIII metallosurfactants. J. Phys. Chem. C 2023, 127, 33, 16654-16667. https://doi.org/10.1021/acs.jpcc.3c03616
+17. Abigail Cousino, Lanka Wickramasinghe, Widana Kaushalya, Samarage Perera, Habib Baydoun, Alice R. Walker, and Cláudio N. Verani. Studies on monolayer formation and electron transport in Au|LB|Au junctions containing 3d4 MnIII metallosurfactants. J. Phys. Chem. C 2023, 127, 33, 16654-16667. https://doi.org/10.1021/acs.jpcc.3c03616
 
 16. Joseph Wakpal, Vishaka Pathiranage, Alice R. Walker, and Hien M. Nguyen. Rational design and expedient synthesis of heparan sulfate mimetics from natural aminoglycosides for structure and activity relationship studies. Angew. Chem. Int. Ed. 2023, 62, e202304325. https://doi.org/10.1002/anie.202304325
 
@@ -36,8 +41,6 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 htt
 #Preprints
 
  - Cuixin Lai, Lina Yang*, Vishaka Pathiranage*, Ruizhao Wang, Fedor V. Subach, Alice R. Walker, and Kiryl D. Piatkevich. Genetically encoded green fluorescent sensor for probing sulfate transport activity of solute carrier family 26 member a2 (Slc26a2) protein.  https://doi.org/10.21203/rs.3.rs-3061116/v1
-
- - Elisa Pieri, Alice R. Walker, Mingning Zhu, and Todd J. Martínez. Conical intersection accessibility dictates brightness in red fluorescent proteins. https://chemrxiv.org/engage/chemrxiv/article-details/65490d7dc573f893f1ecf20e
 
  - Widana Kaushalya and Alice R. Walker. Simulations of DNA-coordinated light emission vs. intramolecular electron transfer: electron donor-acceptor systems with benzo[a]pyrene derivatives. https://chemrxiv.org/engage/chemrxiv/article-details/64ea410c3fdae147fae2cd1b
 

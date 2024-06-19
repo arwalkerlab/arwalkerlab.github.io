@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/teachingawards2024/</loc>
-    <lastmod>2024-04-23T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/posts/</loc>
-    <lastmod>2024-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/rumble2024/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
+    <lastmod>2024-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/teachingawards2024/</loc>
     <lastmod>2024-04-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/victoria2ndyr/</loc>
@@ -90,34 +93,24 @@
     <lastmod>2021-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/classes/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>/code/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>/cv/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>/jobopenings/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>/old/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>/people/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>/posters/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>/publications/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>/research/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>/wiki/</loc>
-    <priority>0</priority>
   </url><url>
     <loc>/posts/fourth_post/</loc>
   </url><url>
