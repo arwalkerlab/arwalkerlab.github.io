@@ -15,7 +15,7 @@ Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/63f8e46832cd591f1
 Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/64a35d1d9ea64cc167645740
 Source code: https://github.com/arwalkerlab/AutoParams
 
-17. Abigail Cousino, Lanka Wickramasinghe, Widana Kaushalya, Samarage Perera, Habib Baydoun, Alice R. Walker, and Cláudio N. Verani. Studies on monolayer formation and electron transport in Au|LB|Au junctions containing 3d4 MnIII metallosurfactants. J. Phys. Chem. C 2023, 127, 33, 16654-16667. https://doi.org/10.1021/acs.jpcc.3c03616
+17. Abigail Cousino, Lanka D. Wickramasinghe, Widana Kaushalya, S. Sameera Perera, Habib Baydoun, Alice R. Walker, and Cláudio N. Verani. Studies on monolayer formation and electron transport in Au|LB|Au junctions containing 3d4 MnIII metallosurfactants. J. Phys. Chem. C 2023, 127, 33, 16654-16667. https://doi.org/10.1021/acs.jpcc.3c03616
 
 16. Joseph Wakpal, Vishaka Pathiranage, Alice R. Walker, and Hien M. Nguyen. Rational design and expedient synthesis of heparan sulfate mimetics from natural aminoglycosides for structure and activity relationship studies. Angew. Chem. Int. Ed. 2023, 62, e202304325. https://doi.org/10.1002/anie.202304325
 
