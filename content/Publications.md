@@ -1,6 +1,6 @@
 # Publications
 
-22. Elisa Pieri, Alice R. Walker, Mingning Zhu, and Todd J. Martínez. Conical intersection accessibility dictates brightness in red fluorescent proteins. J. Am. Chem. Soc. 2024, accepted. Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/65490d7dc573f893f1ecf20e
+22. Elisa Pieri, Alice R. Walker, Mingning Zhu, and Todd J. Martínez. Conical intersection accessibility dictates brightness in red fluorescent proteins. J. Am. Chem. Soc. 2024. https://doi.org/10.1021/jacs.4c00458. Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/65490d7dc573f893f1ecf20e
 
 21. Gibson Kirui, Widana Kaushalya, S. Sameera Perera, Alice R. Walker, and Cláudio N. Verani. Influence of peripheral and ancillary changes on the electron transport of HS3d5 FeIII metallosurfactants – substituents, chain length, subphase polarity, and junction electrodes. J. Phys. Chem. C. 2024. https://doi.org/10.1021/acs.jpcc.4c02249 
 Featured on cover. https://pubs.acs.org/toc/jpccck/126/49
