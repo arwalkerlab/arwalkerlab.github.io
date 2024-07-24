@@ -40,11 +40,19 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 htt
 
 #Preprints
 
+ - Cheng Chen*, Vishaka Pathiranage*, Whitney S. Ong, Sheel Dodani, Alice R. Walker, Chong Fang. A twisted chromophore that powers a fluorescent protein chloride sensor. https://chemrxiv.org/engage/chemrxiv/article-details/669ce9ee5101a2ffa8388287
+
  - Cuixin Lai, Lina Yang*, Vishaka Pathiranage*, Ruizhao Wang, Fedor V. Subach, Alice R. Walker, and Kiryl D. Piatkevich. Genetically encoded green fluorescent sensor for probing sulfate transport activity of solute carrier family 26 member a2 (Slc26a2) protein.  https://doi.org/10.21203/rs.3.rs-3061116/v1
 
  - Widana Kaushalya and Alice R. Walker. Simulations of DNA-coordinated light emission vs. intramolecular electron transfer: electron donor-acceptor systems with benzo[a]pyrene derivatives. https://chemrxiv.org/engage/chemrxiv/article-details/64ea410c3fdae147fae2cd1b
 
  - Mark A. Hix and Alice R. Walker. Adaptive restraints to accelerate geometry optimizations of large biomolecular systems. https://chemrxiv.org/engage/chemrxiv/article-details/6490b93ba2c387fa9a94f607 Source code: https://github.com/arwalkerlab/TeraChemAdaptiveRestraints/
+
+#Press
+
+Introducing: Ulrich J. Lorenz, Radoslav I. Enchev, Clare F. Megarity, Helen Ginn, Patrick Rabe, Alice R. Walker, and Kartik Ayyer: Structure https://www.cell.com/structure/fulltext/S0969-2126%2824%2900134-5 
+
+NSF Career: https://research.wayne.edu/news/nsf-career-grant-supports-wayne-state-fluorescent-protein-study-student-lab-opportunities-62872
 
 #Prior to faculty appointment:
 

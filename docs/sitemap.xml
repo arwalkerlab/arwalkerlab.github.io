@@ -93,24 +93,34 @@
     <lastmod>2021-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/classes/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>/code/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>/cv/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>/jobopenings/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>/old/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>/people/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>/posters/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>/publications/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>/research/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>/wiki/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>/posts/fourth_post/</loc>
   </url><url>
