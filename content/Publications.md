@@ -1,5 +1,7 @@
 # Publications
 
+23. Cuixin Lai, Lina Yang, Vishaka Pathiranage, Ruizhao Wang, Fedor Subach, Alice R. Walker, and Kiryl Piatkevich. Genetically encoded green fluorescent sensor for probing sulfate transport activity of solute carrier family 26 member a2 (Slc26a2) protein. Nat. Comm. Biol., accepted. Preprint: https://doi.org/10.21203/rs.3.rs-3061116/v1
+
 22. Elisa Pieri, Alice R. Walker, Mingning Zhu, and Todd J. Martínez. Conical intersection accessibility dictates brightness in red fluorescent proteins. J. Am. Chem. Soc. 2024. https://doi.org/10.1021/jacs.4c00458. Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/65490d7dc573f893f1ecf20e
 
 21. Gibson Kirui, Widana Kaushalya, S. Sameera Perera, Alice R. Walker, and Cláudio N. Verani. Influence of peripheral and ancillary changes on the electron transport of HS3d5 FeIII metallosurfactants – substituents, chain length, subphase polarity, and junction electrodes. J. Phys. Chem. C. 2024. https://doi.org/10.1021/acs.jpcc.4c02249 
@@ -41,8 +43,6 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 htt
 #Preprints
 
  - Cheng Chen*, Vishaka Pathiranage*, Whitney S. Ong, Sheel Dodani, Alice R. Walker, Chong Fang. A twisted chromophore that powers a fluorescent protein chloride sensor. https://chemrxiv.org/engage/chemrxiv/article-details/669ce9ee5101a2ffa8388287
-
- - Cuixin Lai, Lina Yang*, Vishaka Pathiranage*, Ruizhao Wang, Fedor V. Subach, Alice R. Walker, and Kiryl D. Piatkevich. Genetically encoded green fluorescent sensor for probing sulfate transport activity of solute carrier family 26 member a2 (Slc26a2) protein.  https://doi.org/10.21203/rs.3.rs-3061116/v1
 
  - Widana Kaushalya and Alice R. Walker. Simulations of DNA-coordinated light emission vs. intramolecular electron transfer: electron donor-acceptor systems with benzo[a]pyrene derivatives. https://chemrxiv.org/engage/chemrxiv/article-details/64ea410c3fdae147fae2cd1b
 

@@ -5,7 +5,7 @@
     <link>/</link>
     <description>Recent content on Walker Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <copyright>ARW</copyright>
     <lastBuildDate>Thu, 23 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -94,7 +94,7 @@
       
       <guid>/posts/wsugs3mt/</guid>
       <description>Vishaka won 3rd place at the University-wide 3 Minute Thesis competition, presenting her work with the ChlorON series for a general audience in less than 3 minutes!
- Victoria presented her work for the first time on anion binding to cgreGFP as a poster!</description>
+Victoria presented her work for the first time on anion binding to cgreGFP as a poster!</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
     &lt;img src=&#34;/images/GSVishaka3MT2024.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
@@ -131,8 +131,8 @@
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>/posts/acs_sfo_2023/</guid>
-      <description>  The Walker lab was out in full force at ACS San Francisco this year! Mark presented a talk about his automated workflow in the Open Source Symposium, and Alice presented a talk in the Carbohydrate symposium.
-Solomon, Kaushalya and Nina all presented posters on their work in the Comp Poster Session. Congratulations to all!    </description>
+      <description> The Walker lab was out in full force at ACS San Francisco this year! Mark presented a talk about his automated workflow in the Open Source Symposium, and Alice presented a talk in the Carbohydrate symposium.
+Solomon, Kaushalya and Nina all presented posters on their work in the Comp Poster Session. Congratulations to all! </description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
     &lt;img src=&#34;/images/acssfo_mark.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
@@ -226,9 +226,8 @@ Solomon, Kaushalya and Nina all presented posters on their work in the Comp Post
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
       
       <guid>/posts/nineteenth_post/</guid>
-      <description>  Congratulations to Kaushalya for passing her second year defense and officially becoming a PhD candidate!
-And with that, all the 2nd years have become PhD candidates! Congratulations to all!
- </description>
+      <description>Congratulations to Kaushalya for passing her second year defense and officially becoming a PhD candidate!
+And with that, all the 2nd years have become PhD candidates! Congratulations to all!</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
     &lt;img src=&#34;/images/KaushieYear2023.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
@@ -291,9 +290,9 @@ And with that, all the 2nd years have become PhD candidates! Congratulations to 
       
       <guid>/posts/sixteenth_post/</guid>
       <description>The Walker lab won a number of awards this year&amp;ndash;congratulations to:
- Anita, for an excellence in teaching award!
- Solomon, for an excellence in teaching award!
- Morgan, for the David and Beverly Rorabacher Research Award, which includes a stipend for summer undergraduate research.</description>
+Anita, for an excellence in teaching award!
+Solomon, for an excellence in teaching award!
+Morgan, for the David and Beverly Rorabacher Research Award, which includes a stipend for summer undergraduate research.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
     &lt;img src=&#34;/images/WSUAwards2023_03.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
@@ -358,7 +357,7 @@ Morgan won a poster award (and a t-shirt).</description>
       
       <guid>/posts/fourteenth_post/</guid>
       <description>The Walker group attended the Spring ACS at Indianapolis in style&amp;ndash;Vishaka presented her first talk at a national conference about her work on sulfate-sensitive fluorescent proteins.
- Alice presented a talk at the COMP Undergraduate Symposium.</description>
+Alice presented a talk at the COMP Undergraduate Symposium.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
     &lt;img src=&#34;/images/ACS2023_03.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
@@ -420,8 +419,7 @@ Morgan won a poster award (and a t-shirt).</description>
       <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>/posts/ninth_post/</guid>
-      <description>Michigan has lots of local cider mills&amp;ndash;we enjoyed some fall foliage, hot cider and doughnuts just in time for Halloween.
- </description>
+      <description>Michigan has lots of local cider mills&amp;ndash;we enjoyed some fall foliage, hot cider and doughnuts just in time for Halloween.</description>
       <content>&lt;p&gt;Michigan has lots of local cider mills&amp;ndash;we enjoyed some fall foliage, hot cider and doughnuts just in time for Halloween.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
@@ -498,8 +496,7 @@ Morgan won a poster award (and a t-shirt).</description>
       
       <guid>/posts/sixth_post/</guid>
       <description>The Walker Group presented two posters at the American Conference on Theoretical Chemistry 2022!
-Dr. Walker served as the session chair for the Thursday Morning talks, and Mark gave a short presentation during the TeraChem Developers Conference on Friday.
-  </description>
+Dr. Walker served as the session chair for the Thursday Morning talks, and Mark gave a short presentation during the TeraChem Developers Conference on Friday.</description>
       <content>&lt;p&gt;The Walker Group presented two posters at the American Conference on Theoretical Chemistry 2022!&lt;br&gt;
 Dr. Walker served as the session chair for the Thursday Morning talks, and Mark gave a short presentation during the TeraChem Developers Conference on Friday.&lt;/p&gt;
 
@@ -525,8 +522,7 @@ Dr. Walker served as the session chair for the Thursday Morning talks, and Mark 
       <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>/posts/fifth_post/</guid>
-      <description>As a quick break in our summer coding workshop, Vishaka made some lovely artwork with the neural style package in torch!
- </description>
+      <description>As a quick break in our summer coding workshop, Vishaka made some lovely artwork with the neural style package in torch!</description>
       <content>&lt;p&gt;As a quick break in our summer coding workshop, Vishaka made some lovely artwork with the neural style package in torch!&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
@@ -587,8 +583,7 @@ Go here and type the molecule name of your choice! Alternatively, the following 
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/posts/first_post/</guid>
-      <description>Coming soon to a university near you, if you live in the Detroit area. :)
- </description>
+      <description>Coming soon to a university near you, if you live in the Detroit area. :)</description>
       <content>&lt;p&gt;Coming soon to a university near you, if you live in the Detroit area. :)&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
@@ -710,14 +705,14 @@ SLAC PULSE Institute
 Stanford, CA 94305
 ll Email: &amp;amp; arwalker@stanford.edu
 Websites: &amp;amp; Google Scholar, ResearchGate
-Education  March 2018 Ph.D. in Physical Chemistry, University of North Texas Dissertation: Computational Simulations of Cancer and Disease-Related Enzymatic Systems using Molecular Dynamics and Combined Quantum Methods September 2013-August 2016 Ph.D. Candidate in Physical Chemistry, Wayne State University May 2011 B.S. in Chemistry with distinction, University of Michigan-Dearborn</description>
+Education March 2018 Ph.D. in Physical Chemistry, University of North Texas Dissertation: Computational Simulations of Cancer and Disease-Related Enzymatic Systems using Molecular Dynamics and Combined Quantum Methods September 2013-August 2016 Ph.D. Candidate in Physical Chemistry, Wayne State University May 2011 B.S. in Chemistry with distinction, University of Michigan-Dearborn</description>
       <content>&lt;p&gt;&lt;strong&gt;Alice R. Walker&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://chemistry.stanford.edu/&#34;&gt;Stanford Chemistry&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://ultrafast.stanford.edu/&#34;&gt;SLAC PULSE Institute&lt;/a&gt;&lt;br&gt;
 333 Campus Dr.&lt;br&gt;
 Stanford, CA 94305&lt;/p&gt;
 &lt;p&gt;ll Email: &amp;amp; &lt;a href=&#34;arwalker@stanford.edu&#34;&gt;arwalker@stanford.edu&lt;/a&gt;&lt;br&gt;
-Websites: &amp;amp; &lt;a href=&#34;https://scholar.google.com/citations?user=2tmkmrkAAAAJ&amp;amp;hl=en&#34;&gt;Google
+Websites: &amp;amp; &lt;a href=&#34;https://scholar.google.com/citations?user=2tmkmrkAAAAJ&amp;hl=en&#34;&gt;Google
 Scholar&lt;/a&gt;,
 &lt;a href=&#34;https://www.researchgate.net/profile/Alice_Walker6&#34;&gt;ResearchGate&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;education&#34; class=&#34;unnumbered&#34;&gt;Education&lt;/h1&gt;
@@ -910,10 +905,10 @@ Facilitating the mentorship wing of the Martínez lab diversity outreach initiat
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/jobopenings/</guid>
-      <description>Job Openings We are not currently hiring for postdoctoral positions and are full on undergraduate research positions, but watch this space! Applicants interested in pursuing external support are welcome. PhD students interested in research opportunities are also very welcome.
+      <description>Job Openings We are not currently hiring for any positions, but watch this space! Applicants interested in pursuing external support are welcome.
 If you&amp;rsquo;d like to work on excited state simulations of biomolecules, relevant method development, and or the development of new machine learning models, please contact arwalker[at]wayne[dot]edu for further information.</description>
       <content>&lt;h1 id=&#34;job-openings&#34;&gt;Job Openings&lt;/h1&gt;
-&lt;p&gt;We are not currently hiring for postdoctoral positions and are full on undergraduate research positions, but watch this space! Applicants interested in pursuing external support are welcome. PhD students interested in research opportunities are also very welcome.&lt;/p&gt;
+&lt;p&gt;We are not currently hiring for any positions, but watch this space! Applicants interested in pursuing external support are welcome.&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;d like to work on excited state simulations of biomolecules, relevant method development, and or the development of new machine learning models, please contact arwalker[at]wayne[dot]edu for further information.&lt;/p&gt;
 </content>
     </item>
@@ -925,8 +920,8 @@ If you&amp;rsquo;d like to work on excited state simulations of biomolecules, re
       
       <guid>/old/</guid>
       <description>#Wiki
-{{if and (gt .WordCount 100 ) (.Params.toc) }}
-{{.Title}}{{ .TableOfContents }}{{end}}</description>
+{{if and (gt .WordCount 100 ) (.Params.toc) }}
+{{.Title}}{{ .TableOfContents }}{{end}}</description>
       <content>&lt;p&gt;#Wiki&lt;/p&gt;
 &lt;nav id=&#34;Table of Contents&#34;&gt;&lt;ul&gt;&lt;/ul&gt;&lt;/nav&gt;
 &lt;p&gt;{{if and (gt .WordCount 100 ) (.Params.toc) }}&lt;/p&gt;
@@ -948,8 +943,8 @@ If you&amp;rsquo;d like to work on excited state simulations of biomolecules, re
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/people/</guid>
-      <description>People PI: Alice R. Walker CV Google ScholarResearch GateOrcIDTwitterHobbies: knitting, video games, staring at screensPostdoctoral Researcher: Mark A. Hix CVGoogle ScholarOrcIDTwitterGraduate Student: Solomon Yamoah Effah CVOrcIDGraduate Student: Vishaka Pathiranage
-CVResearchGateOrcIDGraduate Student: Widana Kaushalya CVOrcIDGraduate Student: Anita Adams CVGraduate Student: Mfon Victoria Sunday CVGraduate Student: Pramoda Gamage CV Graduate Student: Janya Subasinghe CVUndergraduate Researcher: Morgan Grougan CVOrcID</description>
+      <description>People PI: Alice R. Walker CV Google ScholarResearch GateOrcIDTwitterHobbies: knitting, video games, staring at screensPostdoctoral Researcher: Mark A. Hix CVGoogle ScholarOrcIDTwitterGraduate Student: Solomon Yamoah Effah CVOrcIDGraduate Student: Vishaka Pathiranage
+CVResearchGateOrcIDGraduate Student: Widana Kaushalya CVOrcIDGraduate Student: Anita Adams CVGraduate Student: Mfon Victoria Sunday CVGraduate Student: Pramoda Gamage CVGraduate Student: Janya Subasinghe CVUndergraduate Researcher: Morgan Grougan CVOrcID</description>
       <content>&lt;h1 id=&#34;people&#34;&gt;People&lt;/h1&gt;
 &lt;image src=&#34;/images/GroupPictureWinter2023.jpg&#34; onmouseover=&#34;image.src=&#39;/images/group_silly.jpg&#39;&#34; onmouseout=&#34;image.src=&#39;/images/group_molecule.jpg&#34; style=&#34;width: 650px&#34;&gt;
 &lt;table&gt;
@@ -1111,10 +1106,13 @@ Ashlyn Murphy UGR -&amp;gt; Graduate Student at University of California-San Die
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description>Publications  Elisa Pieri, Alice R. Walker, Mingning Zhu, and Todd J. Martínez. Conical intersection accessibility dictates brightness in red fluorescent proteins. J. Am. Chem. Soc. 2024. https://doi.org/10.1021/jacs.4c00458. Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/65490d7dc573f893f1ecf20e
-  Gibson Kirui, Widana Kaushalya, S. Sameera Perera, Alice R. Walker, and Cláudio N. Verani. Influence of peripheral and ancillary changes on the electron transport of HS3d5 FeIII metallosurfactants – substituents, chain length, subphase polarity, and junction electrodes. J. Phys.</description>
+      <description>Publications Cuixin Lai, Lina Yang, Vishaka Pathiranage, Ruizhao Wang, Fedor Subach, Alice R. Walker, and Kiryl Piatkevich. Genetically encoded green fluorescent sensor for probing sulfate transport activity of solute carrier family 26 member a2 (Slc26a2) protein. Nat. Comm. Biol., accepted. Preprint: https://doi.org/10.21203/rs.3.rs-3061116/v1
+Elisa Pieri, Alice R. Walker, Mingning Zhu, and Todd J. Martínez. Conical intersection accessibility dictates brightness in red fluorescent proteins. J. Am. Chem. Soc. 2024. https://doi.org/10.1021/jacs.4c00458. Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/65490d7dc573f893f1ecf20e</description>
       <content>&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;
-&lt;ol start=&#34;22&#34;&gt;
+&lt;ol start=&#34;23&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Cuixin Lai, Lina Yang, Vishaka Pathiranage, Ruizhao Wang, Fedor Subach, Alice R. Walker, and Kiryl Piatkevich. Genetically encoded green fluorescent sensor for probing sulfate transport activity of solute carrier family 26 member a2 (Slc26a2) protein. Nat. Comm. Biol., accepted. Preprint: &lt;a href=&#34;https://doi.org/10.21203/rs.3.rs-3061116/v1&#34;&gt;https://doi.org/10.21203/rs.3.rs-3061116/v1&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Elisa Pieri, Alice R. Walker, Mingning Zhu, and Todd J. Martínez. Conical intersection accessibility dictates brightness in red fluorescent proteins. J. Am. Chem. Soc. 2024. &lt;a href=&#34;https://doi.org/10.1021/jacs.4c00458&#34;&gt;https://doi.org/10.1021/jacs.4c00458&lt;/a&gt;. Preprint: &lt;a href=&#34;https://chemrxiv.org/engage/chemrxiv/article-details/65490d7dc573f893f1ecf20e&#34;&gt;https://chemrxiv.org/engage/chemrxiv/article-details/65490d7dc573f893f1ecf20e&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
@@ -1169,9 +1167,6 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 &lt
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Cheng Chen*, Vishaka Pathiranage*, Whitney S. Ong, Sheel Dodani, Alice R. Walker, Chong Fang. A twisted chromophore that powers a fluorescent protein chloride sensor. &lt;a href=&#34;https://chemrxiv.org/engage/chemrxiv/article-details/669ce9ee5101a2ffa8388287&#34;&gt;https://chemrxiv.org/engage/chemrxiv/article-details/669ce9ee5101a2ffa8388287&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Cuixin Lai, Lina Yang*, Vishaka Pathiranage*, Ruizhao Wang, Fedor V. Subach, Alice R. Walker, and Kiryl D. Piatkevich. Genetically encoded green fluorescent sensor for probing sulfate transport activity of solute carrier family 26 member a2 (Slc26a2) protein.  &lt;a href=&#34;https://doi.org/10.21203/rs.3.rs-3061116/v1&#34;&gt;https://doi.org/10.21203/rs.3.rs-3061116/v1&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Widana Kaushalya and Alice R. Walker. Simulations of DNA-coordinated light emission vs. intramolecular electron transfer: electron donor-acceptor systems with benzo[a]pyrene derivatives. &lt;a href=&#34;https://chemrxiv.org/engage/chemrxiv/article-details/64ea410c3fdae147fae2cd1b&#34;&gt;https://chemrxiv.org/engage/chemrxiv/article-details/64ea410c3fdae147fae2cd1b&lt;/a&gt;&lt;/p&gt;
@@ -1237,7 +1232,7 @@ nine cancer-associated variants in human DNA polymerase κ. Chemical Research in
   &lt;img src=&#34;/images/fluorescentnucleotides.png&#34;  class=&#34;left&#34;  style=&#34;float:left; width: 60%; padding: 10px 20px 10px 0px&#34;  /&gt;
 
 
-&lt;div style=&#34;text-align: justify&#34;&gt;Theoretical chemistry provides avenues of testing large numbers of compounds and hypotheses in a systematic and inexpensive way, and also allows us to uncover principles for further design. One direction the Walker group will take is a bottom-up approach to designing new fluorescent biomolecules that absorb and emit brightly in the red part of the spectrum in order to image deep tissue. We will investigate a set of fluorescent synthetic nucleobases using quantum chemistry and molecular dynamics, and create a large data set that can be used for machine learning and design of new bases with desired properties, including shifting wavelengths to be more red and fluorescence quantum yield to be higher. These will then be tested in series, working up to large aptamer drugs like IL6SOMAmer, as pictured, in solution and bound to protein targets. Efficiently performing these calculations and interpreting such a dataset will require the development of new methodologies and approaches, particularly since fluorescence occurs on the nanosecond timescale.&lt;/div&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;Theoretical chemistry provides avenues of testing large numbers of compounds and hypotheses in a systematic and inexpensive way, and also allows us to uncover principles for further design. We work to design and understand complex biomolecular scaffolds for drug design, including designing new fluorescent biomolecules and sugar-based drug targets with multiscale modeling and machine learning. Supported by R35GM154949.&lt;/div&gt;
 
   &lt;img src=&#34;/images/aptamer.png&#34;  class=&#34;left&#34;  style=&#34;float:right; width: 40%; padding: 10px 0px 10px 20px&#34;  /&gt;
 
@@ -1245,17 +1240,17 @@ nine cancer-associated variants in human DNA polymerase κ. Chemical Research in
 &lt;br&gt;
 &lt;br&gt;
 &lt;div style=&#34;text-align: justify&#34;&gt;
-Aptamers, or short sequences of nucleotides, are easy to synthesize and are highly specific to their targets. By mutating specific parts of existing tight-binding aptamer drugs, we can potentially predict functionalization locations and effects of adding fluorescent synthetic nucleotides to various points in existing aptamer drugs, allowing for potential control and improved interpretation of experimental signals. Interleukin-6 is a protein implicated in cancer metastasis and inflammation, and provides an initial test system. We are also interested in Mango, an existing fluorescent aptamer that binds to biotin.  
+Aptamers, or short sequences of nucleotides, are easy to synthesize and are highly specific to their targets. By modifying specific parts of existing tight-binding aptamer drugs, we can potentially predict functionalization locations and effects of adding fluorescent synthetic nucleotides to various points in existing aptamer drugs, allowing for potential control and improved interpretation of experimental signals. 
 &lt;/div&gt;
 &lt;br&gt;
 &lt;/br&gt;
-&lt;h1 id=&#34;reversible-photoswitchable-protein-design&#34;&gt;Reversible Photoswitchable Protein Design&lt;/h1&gt;
+&lt;h1 id=&#34;fluorescent-protein-design&#34;&gt;Fluorescent Protein Design&lt;/h1&gt;
 
   &lt;img src=&#34;/images/gfp_project.png&#34;  class=&#34;left&#34;  style=&#34;float:left; width: 60%; padding: 10px 20px 10px 0px&#34;  /&gt;
 
 
 &lt;div style=&#34;text-align: justify&#34;&gt;
-Fluorescent proteins and their derivatives are powerful experimental tools. They can be used directly as fluorescent tags, but also have applications as reversible photoswitches, where the focus is on nonradiative decay pathways that result in a physical change upon excitation with light at various wavelengths. Our group applies classical and combined quantum/molecular mechanics methods on the ground and excited state for the rational design of fluorescent proteins (FPs), based on a comprehensive theoretical picture of the relationship between excited state chromophore behavior, protein structure, and environment. Fluorescent proteins are ubiquitous as sensors in biochemical imaging, but the relationship between protein structures and motion, environmental factors such as pH, chromophore excited state behavior, and the actual measured fluorescent signal is still not fully understood. Since the connection between targeted mutations and experimental spectroscopic outcomes is not predictable, designing new FP-based sensors is an ongoing challenge. We are especially interested in specific challenges associated with creating bright, red, monomeric or photodissociative sensors for specific anions of interest, combining theoretical methodology and experimental collaborations where appropriate.  Our work will also give further insight into the connection between atomic and electronic-level details of protein structure and measured spectroscopic signals.  Supported by NSF CHE2338804.
+Fluorescent proteins and their derivatives are powerful experimental tools. Our group applies classical and combined quantum/molecular mechanics methods on the ground and excited state for the rational design of fluorescent proteins (FPs), based on a comprehensive theoretical picture of the relationship between excited state chromophore behavior, protein structure, and environment. Fluorescent proteins are ubiquitous as sensors in biochemical imaging, but the relationship between protein structures and motion, environmental factors such as pH, chromophore excited state behavior, and the actual measured fluorescent signal is still not fully understood. Since the connection between targeted mutations and experimental spectroscopic outcomes is not predictable, designing new FP-based sensors is an ongoing challenge. We are especially interested in specific challenges associated with creating bright, red, monomeric or photodissociative sensors for specific anions of interest, combining theoretical methodology and experimental collaborations.  Our work will also give further insight into the connection between atomic and electronic-level details of protein structure and measured spectroscopic signals.  Supported by NSF CHE2338804.
 &lt;/div&gt;
 &lt;br&gt;
 &lt;/br&gt;
@@ -1264,7 +1259,7 @@ Fluorescent proteins and their derivatives are powerful experimental tools. They
   &lt;img src=&#34;/images/rnapol2.png&#34;  class=&#34;left&#34;  style=&#34;float:right; width: 40%; padding: 10px 0px 10px 20px&#34;  /&gt;
 
 
-&lt;div style=&#34;text-align: justify&#34;&gt;Another direction will be to investigate the effects of protein environment on fluorescence. Many experiments use fluorescent tags to investigate protein dynamics. This direction of the Walker group will involve investigating large protein systems with their fluorescent tags attached, both to compare fluorescent emission wavelengths and brightness to experimental quantities and to potentially design custom tags with new properties. As the tags become close to each other, energy transfers from Tag 1 to Tag 2, resulting in an immediate shift in emission wavelength. This can be used to compare the motions of proteins simulated on the computer with the motions obtained in experiment, while also providing greater detail on what is happening on the atomic level for even very large systems. &lt;/div&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;Many experiments use fluorescent tags to investigate protein dynamics. We investigate large protein systems with their fluorescent tags attached, both to compare fluorescent emission wavelengths and brightness to experimental quantities and to potentially design custom tags with new properties. As the tags become close to each other, energy transfers from Tag 1 to Tag 2, resulting in an immediate shift in emission wavelength. This can be used to compare the motions of proteins simulated on the computer with the motions obtained in experiment, while also providing greater detail on what is happening on the atomic level for even very large systems. &lt;/div&gt;
 &lt;!---
 To view these molecules in augmented reality on your phone, visit:
 https://stanford.edu/~sukolsak/ar

@@ -5,7 +5,7 @@
     <link>/posts/</link>
     <description>Recent content in Posts on Walker Lab</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <copyright>ARW</copyright>
     <lastBuildDate>Thu, 23 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -94,7 +94,7 @@
       
       <guid>/posts/wsugs3mt/</guid>
       <description>Vishaka won 3rd place at the University-wide 3 Minute Thesis competition, presenting her work with the ChlorON series for a general audience in less than 3 minutes!
- Victoria presented her work for the first time on anion binding to cgreGFP as a poster!</description>
+Victoria presented her work for the first time on anion binding to cgreGFP as a poster!</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
     &lt;img src=&#34;/images/GSVishaka3MT2024.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
@@ -131,8 +131,8 @@
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>/posts/acs_sfo_2023/</guid>
-      <description>  The Walker lab was out in full force at ACS San Francisco this year! Mark presented a talk about his automated workflow in the Open Source Symposium, and Alice presented a talk in the Carbohydrate symposium.
-Solomon, Kaushalya and Nina all presented posters on their work in the Comp Poster Session. Congratulations to all!    </description>
+      <description> The Walker lab was out in full force at ACS San Francisco this year! Mark presented a talk about his automated workflow in the Open Source Symposium, and Alice presented a talk in the Carbohydrate symposium.
+Solomon, Kaushalya and Nina all presented posters on their work in the Comp Poster Session. Congratulations to all! </description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
     &lt;img src=&#34;/images/acssfo_mark.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
@@ -226,9 +226,8 @@ Solomon, Kaushalya and Nina all presented posters on their work in the Comp Post
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
       
       <guid>/posts/nineteenth_post/</guid>
-      <description>  Congratulations to Kaushalya for passing her second year defense and officially becoming a PhD candidate!
-And with that, all the 2nd years have become PhD candidates! Congratulations to all!
- </description>
+      <description>Congratulations to Kaushalya for passing her second year defense and officially becoming a PhD candidate!
+And with that, all the 2nd years have become PhD candidates! Congratulations to all!</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
     &lt;img src=&#34;/images/KaushieYear2023.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
@@ -291,9 +290,9 @@ And with that, all the 2nd years have become PhD candidates! Congratulations to 
       
       <guid>/posts/sixteenth_post/</guid>
       <description>The Walker lab won a number of awards this year&amp;ndash;congratulations to:
- Anita, for an excellence in teaching award!
- Solomon, for an excellence in teaching award!
- Morgan, for the David and Beverly Rorabacher Research Award, which includes a stipend for summer undergraduate research.</description>
+Anita, for an excellence in teaching award!
+Solomon, for an excellence in teaching award!
+Morgan, for the David and Beverly Rorabacher Research Award, which includes a stipend for summer undergraduate research.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
     &lt;img src=&#34;/images/WSUAwards2023_03.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
@@ -358,7 +357,7 @@ Morgan won a poster award (and a t-shirt).</description>
       
       <guid>/posts/fourteenth_post/</guid>
       <description>The Walker group attended the Spring ACS at Indianapolis in style&amp;ndash;Vishaka presented her first talk at a national conference about her work on sulfate-sensitive fluorescent proteins.
- Alice presented a talk at the COMP Undergraduate Symposium.</description>
+Alice presented a talk at the COMP Undergraduate Symposium.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
     &lt;img src=&#34;/images/ACS2023_03.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
@@ -420,8 +419,7 @@ Morgan won a poster award (and a t-shirt).</description>
       <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>/posts/ninth_post/</guid>
-      <description>Michigan has lots of local cider mills&amp;ndash;we enjoyed some fall foliage, hot cider and doughnuts just in time for Halloween.
- </description>
+      <description>Michigan has lots of local cider mills&amp;ndash;we enjoyed some fall foliage, hot cider and doughnuts just in time for Halloween.</description>
       <content>&lt;p&gt;Michigan has lots of local cider mills&amp;ndash;we enjoyed some fall foliage, hot cider and doughnuts just in time for Halloween.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
@@ -498,8 +496,7 @@ Morgan won a poster award (and a t-shirt).</description>
       
       <guid>/posts/sixth_post/</guid>
       <description>The Walker Group presented two posters at the American Conference on Theoretical Chemistry 2022!
-Dr. Walker served as the session chair for the Thursday Morning talks, and Mark gave a short presentation during the TeraChem Developers Conference on Friday.
-  </description>
+Dr. Walker served as the session chair for the Thursday Morning talks, and Mark gave a short presentation during the TeraChem Developers Conference on Friday.</description>
       <content>&lt;p&gt;The Walker Group presented two posters at the American Conference on Theoretical Chemistry 2022!&lt;br&gt;
 Dr. Walker served as the session chair for the Thursday Morning talks, and Mark gave a short presentation during the TeraChem Developers Conference on Friday.&lt;/p&gt;
 
@@ -525,8 +522,7 @@ Dr. Walker served as the session chair for the Thursday Morning talks, and Mark 
       <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>/posts/fifth_post/</guid>
-      <description>As a quick break in our summer coding workshop, Vishaka made some lovely artwork with the neural style package in torch!
- </description>
+      <description>As a quick break in our summer coding workshop, Vishaka made some lovely artwork with the neural style package in torch!</description>
       <content>&lt;p&gt;As a quick break in our summer coding workshop, Vishaka made some lovely artwork with the neural style package in torch!&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
@@ -587,8 +583,7 @@ Go here and type the molecule name of your choice! Alternatively, the following 
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>/posts/first_post/</guid>
-      <description>Coming soon to a university near you, if you live in the Detroit area. :)
- </description>
+      <description>Coming soon to a university near you, if you live in the Detroit area. :)</description>
       <content>&lt;p&gt;Coming soon to a university near you, if you live in the Detroit area. :)&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;

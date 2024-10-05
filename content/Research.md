@@ -8,7 +8,7 @@
 
 {{<image src="/images/fluorescentnucleotides.png" style="float:left; width: 60%; padding: 10px 20px 10px 0px">}}
 
-<div style="text-align: justify">Theoretical chemistry provides avenues of testing large numbers of compounds and hypotheses in a systematic and inexpensive way, and also allows us to uncover principles for further design. One direction the Walker group will take is a bottom-up approach to designing new fluorescent biomolecules that absorb and emit brightly in the red part of the spectrum in order to image deep tissue. We will investigate a set of fluorescent synthetic nucleobases using quantum chemistry and molecular dynamics, and create a large data set that can be used for machine learning and design of new bases with desired properties, including shifting wavelengths to be more red and fluorescence quantum yield to be higher. These will then be tested in series, working up to large aptamer drugs like IL6SOMAmer, as pictured, in solution and bound to protein targets. Efficiently performing these calculations and interpreting such a dataset will require the development of new methodologies and approaches, particularly since fluorescence occurs on the nanosecond timescale.</div>
+<div style="text-align: justify">Theoretical chemistry provides avenues of testing large numbers of compounds and hypotheses in a systematic and inexpensive way, and also allows us to uncover principles for further design. We work to design and understand complex biomolecular scaffolds for drug design, including designing new fluorescent biomolecules and sugar-based drug targets with multiscale modeling and machine learning. Supported by R35GM154949.</div>
 
 {{<image src="/images/aptamer.png" style="float:right; width: 40%; padding: 10px 0px 10px 20px">}}
 
@@ -16,18 +16,18 @@
 <br>
 
 <div style="text-align: justify">
-Aptamers, or short sequences of nucleotides, are easy to synthesize and are highly specific to their targets. By mutating specific parts of existing tight-binding aptamer drugs, we can potentially predict functionalization locations and effects of adding fluorescent synthetic nucleotides to various points in existing aptamer drugs, allowing for potential control and improved interpretation of experimental signals. Interleukin-6 is a protein implicated in cancer metastasis and inflammation, and provides an initial test system. We are also interested in Mango, an existing fluorescent aptamer that binds to biotin.  
+Aptamers, or short sequences of nucleotides, are easy to synthesize and are highly specific to their targets. By modifying specific parts of existing tight-binding aptamer drugs, we can potentially predict functionalization locations and effects of adding fluorescent synthetic nucleotides to various points in existing aptamer drugs, allowing for potential control and improved interpretation of experimental signals. 
 </div>
 
 <br>
 </br>
 
-# Reversible Photoswitchable Protein Design
+# Fluorescent Protein Design
 
 {{<image src="/images/gfp_project.png" style="float:left; width: 60%; padding: 10px 20px 10px 0px">}}
 
 <div style="text-align: justify">
-Fluorescent proteins and their derivatives are powerful experimental tools. They can be used directly as fluorescent tags, but also have applications as reversible photoswitches, where the focus is on nonradiative decay pathways that result in a physical change upon excitation with light at various wavelengths. Our group applies classical and combined quantum/molecular mechanics methods on the ground and excited state for the rational design of fluorescent proteins (FPs), based on a comprehensive theoretical picture of the relationship between excited state chromophore behavior, protein structure, and environment. Fluorescent proteins are ubiquitous as sensors in biochemical imaging, but the relationship between protein structures and motion, environmental factors such as pH, chromophore excited state behavior, and the actual measured fluorescent signal is still not fully understood. Since the connection between targeted mutations and experimental spectroscopic outcomes is not predictable, designing new FP-based sensors is an ongoing challenge. We are especially interested in specific challenges associated with creating bright, red, monomeric or photodissociative sensors for specific anions of interest, combining theoretical methodology and experimental collaborations where appropriate.  Our work will also give further insight into the connection between atomic and electronic-level details of protein structure and measured spectroscopic signals.  Supported by NSF CHE2338804.
+Fluorescent proteins and their derivatives are powerful experimental tools. Our group applies classical and combined quantum/molecular mechanics methods on the ground and excited state for the rational design of fluorescent proteins (FPs), based on a comprehensive theoretical picture of the relationship between excited state chromophore behavior, protein structure, and environment. Fluorescent proteins are ubiquitous as sensors in biochemical imaging, but the relationship between protein structures and motion, environmental factors such as pH, chromophore excited state behavior, and the actual measured fluorescent signal is still not fully understood. Since the connection between targeted mutations and experimental spectroscopic outcomes is not predictable, designing new FP-based sensors is an ongoing challenge. We are especially interested in specific challenges associated with creating bright, red, monomeric or photodissociative sensors for specific anions of interest, combining theoretical methodology and experimental collaborations.  Our work will also give further insight into the connection between atomic and electronic-level details of protein structure and measured spectroscopic signals.  Supported by NSF CHE2338804.
 </div>
 
 <br>
@@ -37,7 +37,7 @@ Fluorescent proteins and their derivatives are powerful experimental tools. They
 
 {{<image src="/images/rnapol2.png" style="float:right; width: 40%; padding: 10px 0px 10px 20px">}}
 
-<div style="text-align: justify">Another direction will be to investigate the effects of protein environment on fluorescence. Many experiments use fluorescent tags to investigate protein dynamics. This direction of the Walker group will involve investigating large protein systems with their fluorescent tags attached, both to compare fluorescent emission wavelengths and brightness to experimental quantities and to potentially design custom tags with new properties. As the tags become close to each other, energy transfers from Tag 1 to Tag 2, resulting in an immediate shift in emission wavelength. This can be used to compare the motions of proteins simulated on the computer with the motions obtained in experiment, while also providing greater detail on what is happening on the atomic level for even very large systems. </div>
+<div style="text-align: justify">Many experiments use fluorescent tags to investigate protein dynamics. We investigate large protein systems with their fluorescent tags attached, both to compare fluorescent emission wavelengths and brightness to experimental quantities and to potentially design custom tags with new properties. As the tags become close to each other, energy transfers from Tag 1 to Tag 2, resulting in an immediate shift in emission wavelength. This can be used to compare the motions of proteins simulated on the computer with the motions obtained in experiment, while also providing greater detail on what is happening on the atomic level for even very large systems. </div>
 <!---
 To view these molecules in augmented reality on your phone, visit:
 https://stanford.edu/~sukolsak/ar
