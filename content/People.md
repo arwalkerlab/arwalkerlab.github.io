@@ -131,14 +131,6 @@
   </td>
 </tr>
 <tr>
-<td width="25%">
-  </td>
-  <td>
-  Undergraduate Researcher: John Muller <br>
-  MARC Scholar
-  </td>
-</tr>
-</table>
 
 #Alumni
 

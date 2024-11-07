@@ -99,7 +99,11 @@ Jupyter notebook: https://jupyter.org/
 -------------------------------------------------------------------------------
 # Classes
 
-Fall: Structure and Function of Biomolecules (5600/7600)
+Fall: N/A
 
 Winter: Computational Chemistry (6440/7440)
+
+Previously taught:
+
+Structure and Function of Biomolecules (5600/7600)
 

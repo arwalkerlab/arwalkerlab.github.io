@@ -1,6 +1,6 @@
 # Publications
 
-23. Cuixin Lai, Lina Yang, Vishaka Pathiranage, Ruizhao Wang, Fedor Subach, Alice R. Walker, and Kiryl Piatkevich. Genetically encoded green fluorescent sensor for probing sulfate transport activity of solute carrier family 26 member a2 (Slc26a2) protein. Nat. Comm. Biol., accepted. Preprint: https://doi.org/10.21203/rs.3.rs-3061116/v1
+23. Cuixin Lai, Lina Yang, Vishaka Pathiranage, Ruizhao Wang, Fedor Subach, Alice R. Walker, and Kiryl Piatkevich. Genetically encoded green fluorescent sensor for probing sulfate transport activity of solute carrier family 26 member a2 (Slc26a2) protein. Commun. Biol., 7, 1375 (2024). https://doi.org/10.1038/s42003-024-07020-9. Preprint: https://doi.org/10.21203/rs.3.rs-3061116/v1
 
 22. Elisa Pieri, Alice R. Walker, Mingning Zhu, and Todd J. Martínez. Conical intersection accessibility dictates brightness in red fluorescent proteins. J. Am. Chem. Soc. 2024. https://doi.org/10.1021/jacs.4c00458. Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/65490d7dc573f893f1ecf20e
 
@@ -53,6 +53,8 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 htt
 Introducing: Ulrich J. Lorenz, Radoslav I. Enchev, Clare F. Megarity, Helen Ginn, Patrick Rabe, Alice R. Walker, and Kartik Ayyer: Structure https://www.cell.com/structure/fulltext/S0969-2126%2824%2900134-5 
 
 NSF Career: https://research.wayne.edu/news/nsf-career-grant-supports-wayne-state-fluorescent-protein-study-student-lab-opportunities-62872
+
+NIH R35: https://research.wayne.edu/news/ai-computer-models-may-make-development-of-new-drugs-easier-and-more-cost-effective-64764
 
 #Prior to faculty appointment:
 
