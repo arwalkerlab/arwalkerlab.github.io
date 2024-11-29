@@ -15,7 +15,7 @@
   <a href="https://scholar.google.com/citations?user=2tmkmrkAAAAJ&hl=en">Google Scholar</a>
   <a href="https://www.researchgate.net/profile/Alice-Walker-12">Research Gate</a>
   <a href="https://orcid.org/0000-0002-8617-3425">OrcID</a>
-  <a href="https://twitter.com/arwalker_on_gpu">Twitter</a>
+  <a href="https://bsky.app/profile/arwalker.bsky.social">BlueSky</a>
   <br>
   Hobbies: knitting, video games, staring at screens
   </td>
@@ -31,7 +31,7 @@
   <a href="/pdf/mark_cv_2022.pdf">CV</a>
   <a href="https://scholar.google.com/citations?user=2Z6mLZEAAAAJ&hl=en">Google Scholar</a>
   <a href="https://orcid.org/0000-0003-3371-0116">OrcID</a>
-  <a href="https://twitter.com/markahix">Twitter</a>
+  <a href="https://bsky.app/profile/markahix.bsky.social">BlueSky</a>
   </td>
 </tr>
 <tr>
@@ -134,7 +134,7 @@
 
 #Alumni
 
+John Muller UGR <br>
 Nina McCulley PD <br>
 Nathaniel Turner UGR <br>
 Ashlyn Murphy UGR -> Graduate Student at University of California-San Diego <br>
-

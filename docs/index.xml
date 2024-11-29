@@ -52,6 +52,31 @@
     </item>
     
     <item>
+      <title>MARC Poster Session</title>
+      <link>/posts/marc2024/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/marc2024/</guid>
+      <description>Morgan and John presented their research at the MARC symposium demonstrating their progress to the University and their families.</description>
+      <content>&lt;p&gt;
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/images/MorganPosterMARC2024.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;/images/JohnPosterMARC2024.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    
+  &lt;/figure&gt;
+
+&lt;/p&gt;
+&lt;p&gt;Morgan and John presented their research at the MARC symposium demonstrating their progress to the University and their families.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>Victoria&#39;s 2nd year defense</title>
       <link>/posts/victoria2ndyr/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
@@ -945,7 +970,7 @@ If you&amp;rsquo;d like to work on excited state simulations of biomolecules, re
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/people/</guid>
-      <description>People PI: Alice R. Walker CV Google ScholarResearch GateOrcIDTwitterHobbies: knitting, video games, staring at screensPostdoctoral Researcher: Mark A. Hix CVGoogle ScholarOrcIDTwitterGraduate Student: Solomon Yamoah Effah CVOrcIDGraduate Student: Vishaka Pathiranage
+      <description>People PI: Alice R. Walker CV Google ScholarResearch GateOrcIDBlueSkyHobbies: knitting, video games, staring at screensPostdoctoral Researcher: Mark A. Hix CVGoogle ScholarOrcIDBlueSkyGraduate Student: Solomon Yamoah Effah CVOrcIDGraduate Student: Vishaka Pathiranage
 CVResearchGateOrcIDGraduate Student: Widana Kaushalya CVOrcIDGraduate Student: Anita Adams CVGraduate Student: Mfon Victoria Sunday CVGraduate Student: Pramoda Gamage CVGraduate Student: Janya Subasinghe CVUndergraduate Researcher: Morgan Grougan CVOrcID</description>
       <content>&lt;h1 id=&#34;people&#34;&gt;People&lt;/h1&gt;
 &lt;image src=&#34;/images/GroupPictureWinter2023.jpg&#34; onmouseover=&#34;image.src=&#39;/images/group_silly.jpg&#39;&#34; onmouseout=&#34;image.src=&#39;/images/group_molecule.jpg&#34; style=&#34;width: 650px&#34;&gt;
@@ -962,7 +987,7 @@ CVResearchGateOrcIDGraduate Student: Widana Kaushalya CVOrcIDGraduate Stude
   &lt;a href=&#34;https://scholar.google.com/citations?user=2tmkmrkAAAAJ&amp;hl=en&#34;&gt;Google Scholar&lt;/a&gt;
   &lt;a href=&#34;https://www.researchgate.net/profile/Alice-Walker-12&#34;&gt;Research Gate&lt;/a&gt;
   &lt;a href=&#34;https://orcid.org/0000-0002-8617-3425&#34;&gt;OrcID&lt;/a&gt;
-  &lt;a href=&#34;https://twitter.com/arwalker_on_gpu&#34;&gt;Twitter&lt;/a&gt;
+  &lt;a href=&#34;https://bsky.app/profile/arwalker.bsky.social&#34;&gt;BlueSky&lt;/a&gt;
   &lt;br&gt;
   Hobbies: knitting, video games, staring at screens
   &lt;/td&gt;
@@ -978,7 +1003,7 @@ CVResearchGateOrcIDGraduate Student: Widana Kaushalya CVOrcIDGraduate Stude
   &lt;a href=&#34;/pdf/mark_cv_2022.pdf&#34;&gt;CV&lt;/a&gt;
   &lt;a href=&#34;https://scholar.google.com/citations?user=2Z6mLZEAAAAJ&amp;hl=en&#34;&gt;Google Scholar&lt;/a&gt;
   &lt;a href=&#34;https://orcid.org/0000-0003-3371-0116&#34;&gt;OrcID&lt;/a&gt;
-  &lt;a href=&#34;https://twitter.com/markahix&#34;&gt;Twitter&lt;/a&gt;
+  &lt;a href=&#34;https://bsky.app/profile/markahix.bsky.social&#34;&gt;BlueSky&lt;/a&gt;
   &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1077,7 +1102,8 @@ CVResearchGateOrcIDGraduate Student: Widana Kaushalya CVOrcIDGraduate Stude
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;p&gt;#Alumni&lt;/p&gt;
-&lt;p&gt;Nina McCulley PD &lt;br&gt;
+&lt;p&gt;John Muller UGR &lt;br&gt;
+Nina McCulley PD &lt;br&gt;
 Nathaniel Turner UGR &lt;br&gt;
 Ashlyn Murphy UGR -&amp;gt; Graduate Student at University of California-San Diego &lt;br&gt;&lt;/p&gt;
 </content>
