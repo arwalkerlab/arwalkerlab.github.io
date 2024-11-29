@@ -131,10 +131,11 @@
   </td>
 </tr>
 <tr>
-
+<tr>
 #Alumni
 
 John Muller UGR <br>
 Nina McCulley PD <br>
 Nathaniel Turner UGR <br>
 Ashlyn Murphy UGR -> Graduate Student at University of California-San Diego <br>
+</tr>
