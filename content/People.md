@@ -131,7 +131,6 @@
   </td>
 </tr>
 <tr>
-<tr>
 #Alumni
 
 John Muller UGR <br>
