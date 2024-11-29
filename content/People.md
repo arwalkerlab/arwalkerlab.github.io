@@ -2,6 +2,8 @@
 
 <image src="/images/GroupPictureWinter2023.jpg" onmouseover="image.src='/images/group_silly.jpg'" onmouseout="image.src='/images/group_molecule.jpg" style="width: 650px">
 
+<br>
+
 <table>
 <tr>
   <td width="25%">
@@ -138,3 +140,4 @@ Nina McCulley PD <br>
 Nathaniel Turner UGR <br>
 Ashlyn Murphy UGR -> Graduate Student at University of California-San Diego <br>
 </tr>
+</table>
