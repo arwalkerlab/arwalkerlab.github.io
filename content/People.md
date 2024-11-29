@@ -135,8 +135,6 @@
 <tr>
 <td>
 #Alumni
-</td>
-<td>
 John Muller UGR <br>
 Nina McCulley PD <br>
 Nathaniel Turner UGR <br>
