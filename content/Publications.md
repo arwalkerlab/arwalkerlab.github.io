@@ -42,6 +42,8 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 htt
 
 #Preprints
 
+ - Solomon Yamoah Effah, Mark A. Hix, and Alice R. Walker. Computational design of synthetic fluorescent nucleotides: tuning electron transfer and fluorescence competition with functionalization location of perylene tag. https://chemrxiv.org/engage/chemrxiv/article-details/674a29525a82cea2fa71f45e
+
  - Cheng Chen*, Vishaka Pathiranage*, Whitney S. Ong, Sheel Dodani, Alice R. Walker, Chong Fang. A twisted chromophore that powers a fluorescent protein chloride sensor. https://chemrxiv.org/engage/chemrxiv/article-details/669ce9ee5101a2ffa8388287
 
  - Widana Kaushalya and Alice R. Walker. Simulations of DNA-coordinated light emission vs. intramolecular electron transfer: electron donor-acceptor systems with benzo[a]pyrene derivatives. https://chemrxiv.org/engage/chemrxiv/article-details/64ea410c3fdae147fae2cd1b
