@@ -42,6 +42,8 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 htt
 
 #Preprints
 
+ - Lina Yang, Vishaka Pathiranage, Shihao Zhou, Xiaoting Sun, Hanbin Zhang, Cuixin Lai, Chenglei Gu, Fedor V. Subach, Alice R. Walker, and Kiryl D. Piatkevich. Genetically encoded red fluorescent indicators for imaging intracellular and extracellular potassium ions. https://www.biorxiv.org/content/10.1101/2024.12.20.629597v1
+
  - Solomon Yamoah Effah, Mark A. Hix, and Alice R. Walker. Computational design of synthetic fluorescent nucleotides: tuning electron transfer and fluorescence competition with functionalization location of perylene tag. https://chemrxiv.org/engage/chemrxiv/article-details/674a29525a82cea2fa71f45e
 
  - Cheng Chen*, Vishaka Pathiranage*, Whitney S. Ong, Sheel Dodani, Alice R. Walker, Chong Fang. A twisted chromophore that powers a fluorescent protein chloride sensor. https://chemrxiv.org/engage/chemrxiv/article-details/669ce9ee5101a2ffa8388287
