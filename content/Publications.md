@@ -1,6 +1,6 @@
 # Publications
 
-24.  Solomon Yamoah Effah, Mark A. Hix, and Alice R. Walker. Strategic design of fluorescent perylene-modified nucleic acid monomers: position-, phosphorylation-, and linker-dependent control of electron transfer. J. Chem. Inf. Model., accepted (2025). Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/674a29525a82cea2fa71f45e
+24.  Solomon Yamoah Effah, Mark A. Hix, and Alice R. Walker. Strategic design of fluorescent perylene-modified nucleic acid monomers: position-, phosphorylation-, and linker-dependent control of electron transfer. J. Chem. Inf. Model., Special issue: Editing DNA and RNA through computation. DOI: 10.1021/acs.jcim.4c02223 Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/674a29525a82cea2fa71f45e
 
 23. Cuixin Lai, Lina Yang, Vishaka Pathiranage, Ruizhao Wang, Fedor Subach, Alice R. Walker, and Kiryl Piatkevich. Genetically encoded green fluorescent sensor for probing sulfate transport activity of solute carrier family 26 member a2 (Slc26a2) protein. Commun. Biol., 7, 1375 (2024). https://doi.org/10.1038/s42003-024-07020-9. Preprint: https://doi.org/10.21203/rs.3.rs-3061116/v1
 
