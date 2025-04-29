@@ -133,6 +133,17 @@
   </td>
 </tr>
 <tr>
+  <td width="25%">
+  <center>
+  <image src="/images/seb_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
+  </center>
+  </td>
+  <td>
+  Honorary Member: Sebastien Hebert <br>
+  <a href="/pdf/morgan_cv_2022.pdf">LinkedIn</a>
+  </td>
+</tr>
+<tr>
 <td>
 #Alumni
 </td>

@@ -1,5 +1,9 @@
 # Publications
 
+26. Mark A. Hix and Alice R. Walker. Adaptive restraints to accelerate geometry optimizations of large biomolecular systems. J. Comp. Chem., accepted 2025. Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/6490b93ba2c387fa9a94f607 Source code: https://github.com/arwalkerlab/TeraChemAdaptiveRestraints/
+
+25. Mark A. Hix, A. G. Pramoda Sahankumari, Ashok S. Bhagwat, and Alice R. Walker. DNA hairpin base-flipping dynamics drives APOBEC3A recognition and selectivity. Phys. Chem. Chem. Phys., accepted 2025. 
+
 24.  Solomon Yamoah Effah, Mark A. Hix, and Alice R. Walker. Strategic design of fluorescent perylene-modified nucleic acid monomers: position-, phosphorylation-, and linker-dependent control of electron transfer. J. Chem. Inf. Model., Special issue: Editing DNA and RNA through computation. DOI: 10.1021/acs.jcim.4c02223 Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/674a29525a82cea2fa71f45e
 
 23. Cuixin Lai, Lina Yang, Vishaka Pathiranage, Ruizhao Wang, Fedor Subach, Alice R. Walker, and Kiryl Piatkevich. Genetically encoded green fluorescent sensor for probing sulfate transport activity of solute carrier family 26 member a2 (Slc26a2) protein. Commun. Biol., 7, 1375 (2024). https://doi.org/10.1038/s42003-024-07020-9. Preprint: https://doi.org/10.21203/rs.3.rs-3061116/v1
@@ -23,7 +27,7 @@ Source code: https://github.com/arwalkerlab/AutoParams
 
 16. Joseph Wakpal, Vishaka Pathiranage, Alice R. Walker, and Hien M. Nguyen. Rational design and expedient synthesis of heparan sulfate mimetics from natural aminoglycosides for structure and activity relationship studies. Angew. Chem. Int. Ed. 2023, 62, e202304325. https://doi.org/10.1002/anie.202304325
 
-15. Whitney S.Y. Ong*,  Ke Ji*,  Vishaka Pathiranage*,  Caden Maydew,  Kiheon Baek,  Rhiza Lyne E. Villones,  Gabriele Meloni,  Alice R. Walker,  and Sheel Dodani. Angew. Chem. Int. Ed. 2023, e202302304. https://doi.org/10.1002/anie.202302304
+15. Whitney S.Y. Ong*,  Ke Ji*,  Vishaka Pathiranage*,  Caden Maydew,  Kiheon Baek,  Rhiza Lyne E. Villones,  Gabriele Meloni,  Alice R. Walker,  and Sheel Dodani. Rational design of the β-Bulge Gate in a green fluorescent protein accelerates the kinetics of sulfate sensing. Angew. Chem. Int. Ed. 2023, e202302304. https://doi.org/10.1002/anie.202302304
 Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/63a223bab9c5f65de5da502f
 
 14. Ashlyn R. Murphy, Mark A. Hix, and Alice R. Walker. Exploring the effects of mutagenesis on FusionRed using excited state QM/MM dynamics and classical force field simulations. ChemBioChem 2023, e202200799. https://doi.org/10.1002/cbic.202200799
@@ -52,7 +56,6 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 htt
 
  - Widana Kaushalya and Alice R. Walker. Simulations of DNA-coordinated light emission vs. intramolecular electron transfer: electron donor-acceptor systems with benzo[a]pyrene derivatives. https://chemrxiv.org/engage/chemrxiv/article-details/64ea410c3fdae147fae2cd1b
 
- - Mark A. Hix and Alice R. Walker. Adaptive restraints to accelerate geometry optimizations of large biomolecular systems. https://chemrxiv.org/engage/chemrxiv/article-details/6490b93ba2c387fa9a94f607 Source code: https://github.com/arwalkerlab/TeraChemAdaptiveRestraints/
 
 #Press
 
