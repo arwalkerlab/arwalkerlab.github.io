@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Walker Group"
 theme = "terminal"
-pagerSize = 6
+paginate = 6
 
 [markup.goldmark.renderer]
   unsafe=true
@@ -10,7 +10,7 @@ pagerSize = 6
 [params]
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  dir = "/posts"
+  dir = "content/posts"
   contentTypeName = "News"
 
   # ["orange", "blue", "red", "green", "pink"]
@@ -42,8 +42,15 @@ pagerSize = 6
   # it's set to `true` by default
   # oneHeadingSize = false
 
+[params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = "arwalker_on_gpu"
+  site = "https://twitter.com/arwalker_on_gpu"
+
 [languages]
-  [languages.en.params]
+  [languages.en]
     languageName = "English"
     title = "Walker Lab"
     subtitle = "Excited states and fluorescence in biomolecules"
@@ -60,28 +67,28 @@ pagerSize = 6
       logoText = "Walker Lab"
       logoHomeLink = "/posts"
 
-    [languages.en.params.menu]
-      [[languages.en.params.menu.main]]
+    [languages.en.menu]
+      [[languages.en.menu.main]]
         identifier = "research"
         name = "0:Research"
         url = "/Research"
-      [[languages.en.params.menu.main]]
+      [[languages.en.menu.main]]
         identifier = "people"
         name = "1:People"
         url = "/People"
-      [[languages.en.params.menu.main]]
+      [[languages.en.menu.main]]
         identifier = "publications"
         name = "2:Publications"
         url = "/Publications"
-      [[languages.en.params.menu.main]]
+      [[languages.en.menu.main]]
         identifier = "class"
         name = "4:Teaching"
         url = "/Classes"
-      [[languages.en.params.menu.main]]
+      [[languages.en.menu.main]]
         identifier = "jobs"
         name = "3:Job Openings"
         url = "/JobOpenings"
-      [[languages.en.params.menu.main]]
+      [[languages.en.menu.main]]
         identifier = "wiki"
         name = "5:Wiki"
         url = "/Wiki"
