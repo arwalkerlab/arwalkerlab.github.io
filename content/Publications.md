@@ -1,6 +1,6 @@
 # Publications
 
-26. Mark A. Hix and Alice R. Walker. Adaptive restraints to accelerate geometry optimizations of large biomolecular systems. J. Comp. Chem., accepted 2025. Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/6490b93ba2c387fa9a94f607 Source code: https://github.com/arwalkerlab/TeraChemAdaptiveRestraints/
+26. Mark A. Hix and Alice R. Walker. Adaptive restraints to accelerate geometry optimizations of large biomolecular systems.  J Comput Chem, 46: e70127. https://doi.org/10.1002/jcc.70127 . Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/6490b93ba2c387fa9a94f607 Source code: https://github.com/arwalkerlab/TeraChemAdaptiveRestraints/
 
 25. Mark A. Hix, A. G. Pramoda Sahankumari, Ashok S. Bhagwat, and Alice R. Walker. DNA hairpin base-flipping dynamics drives APOBEC3A recognition and selectivity. Phys. Chem. Chem. Phys., accepted 2025. 
 
@@ -47,6 +47,8 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 htt
 
 
 #Preprints
+
+ - Anita Houston Adams and Alice R. Walker. Simulations of solvent effects on excited state dynamics of p-DAPA, a red single benzene-based fluorophore. https://chemrxiv.org/engage/chemrxiv/article-details/6819253d50018ac7c58b8678
 
  - Cheng Chen, Jiawei Liu, Ivan M. Myasnyanko, Daniil I. Rudik, Anita H. Adams, Alice R. Walker, Mikhail S. Baranov, and Chong Fang. Meta effect enables redder and larger Stokes shift chromophores by enhanced aromaticity reversal. https://chemrxiv.org/engage/chemrxiv/article-details/67bda1fffa469535b9dad3c4
 
