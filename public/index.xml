@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Walker Group</title>
+    <title>Walker Lab</title>
     <link>/</link>
-    <description>Recent content on Walker Group</description>
+    <description>Recent content on Walker Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <copyright>ARW</copyright>
     <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vishaka&#39;s 4th Year talk</title>
@@ -1334,12 +1335,12 @@ Facilitating the mentorship wing of the Martínez lab diversity outreach initiat
 &lt;tr&gt;
   &lt;td width=&#34;25%&#34;&gt;
   &lt;center&gt;
-  &lt;image src=&#34;/images/seb_profile.jpg&#34; position=&#34;center&#34;  style=&#34;border-radius: 4px; width: 200px&#34;&gt;
+  &lt;image src=&#34;/images/seb_profile.png&#34; position=&#34;center&#34;  style=&#34;border-radius: 4px; width: 200px&#34;&gt;
   &lt;/center&gt;
   &lt;/td&gt;
   &lt;td&gt;
   Honorary Member: Sebastien Hebert &lt;br&gt;
-  &lt;a href=&#34;/pdf/morgan_cv_2022.pdf&#34;&gt;LinkedIn&lt;/a&gt;
+  &lt;a href=&#34;https://www.linkedin.com/in/sebastien-hebert-074215132/&#34;&gt;LinkedIn&lt;/a&gt;
   &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1486,12 +1487,12 @@ Ashlyn Murphy UGR -&gt; Graduate Student at University of California-San Diego &
 &lt;tr&gt;
   &lt;td width=&#34;25%&#34;&gt;
   &lt;center&gt;
-  &lt;image src=&#34;/images/seb_profile.jpg&#34; position=&#34;center&#34;  style=&#34;border-radius: 4px; width: 200px&#34;&gt;
+  &lt;image src=&#34;/images/seb_profile.png&#34; position=&#34;center&#34;  style=&#34;border-radius: 4px; width: 200px&#34;&gt;
   &lt;/center&gt;
   &lt;/td&gt;
   &lt;td&gt;
   Honorary Member: Sebastien Hebert &lt;br&gt;
-  &lt;a href=&#34;/pdf/morgan_cv_2022.pdf&#34;&gt;LinkedIn&lt;/a&gt;
+  &lt;a href=&#34;https://www.linkedin.com/in/sebastien-hebert-074215132/&#34;&gt;LinkedIn&lt;/a&gt;
   &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1529,17 +1530,14 @@ Ashlyn Murphy UGR -&gt; Graduate Student at University of California-San Diego &
       <description>&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;
 &lt;ol start=&#34;26&#34;&gt;
 &lt;li&gt;
-&lt;p&gt;Mark A. Hix and Alice R. Walker. Adaptive restraints to accelerate geometry optimizations of large biomolecular systems. J. Comp. Chem., accepted 2025. Preprint: &lt;a href=&#34;https://chemrxiv.org/engage/chemrxiv/article-details/6490b93ba2c387fa9a94f607&#34;&gt;https://chemrxiv.org/engage/chemrxiv/article-details/6490b93ba2c387fa9a94f607&lt;/a&gt; Source code: &lt;a href=&#34;https://github.com/arwalkerlab/TeraChemAdaptiveRestraints/&#34;&gt;https://github.com/arwalkerlab/TeraChemAdaptiveRestraints/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mark A. Hix and Alice R. Walker. Adaptive restraints to accelerate geometry optimizations of large biomolecular systems.  J Comput Chem, 46: e70127. &lt;a href=&#34;https://doi.org/10.1002/jcc.70127&#34;&gt;https://doi.org/10.1002/jcc.70127&lt;/a&gt; . Preprint: &lt;a href=&#34;https://chemrxiv.org/engage/chemrxiv/article-details/6490b93ba2c387fa9a94f607&#34;&gt;https://chemrxiv.org/engage/chemrxiv/article-details/6490b93ba2c387fa9a94f607&lt;/a&gt; Source code: &lt;a href=&#34;https://github.com/arwalkerlab/TeraChemAdaptiveRestraints/&#34;&gt;https://github.com/arwalkerlab/TeraChemAdaptiveRestraints/&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Mark A. Hix, A. G. Pramoda Sahankumari, Ashok S. Bhagwat, and Alice R. Walker. DNA hairpin base-flipping dynamics drives APOBEC3A recognition and selectivity. Phys. Chem. Chem. Phys., accepted 2025.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Solomon Yamoah Effah, Mark A. Hix, and Alice R. Walker. Strategic design of fluorescent perylene-modified nucleic acid monomers: position-, phosphorylation-, and linker-dependent control of electron transfer. J. Chem. Inf. Model., Special issue: Editing DNA and RNA through computation. DOI: 10.1021/acs.jcim.4c02223 Preprint: &lt;a href=&#34;https://chemrxiv.org/engage/chemrxiv/article-details/674a29525a82cea2fa71f45e&#34;&gt;https://chemrxiv.org/engage/chemrxiv/article-details/674a29525a82cea2fa71f45e&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;Mark A. Hix, A. G. Pramoda Sahankumari, Ashok S. Bhagwat, and Alice R. Walker. DNA hairpin base-flipping dynamics drives APOBEC3A recognition and selectivity. Phys. Chem. Chem. Phys., accepted 2025.&lt;/p&gt;</description>
       <content>&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;
 &lt;ol start=&#34;26&#34;&gt;
 &lt;li&gt;
-&lt;p&gt;Mark A. Hix and Alice R. Walker. Adaptive restraints to accelerate geometry optimizations of large biomolecular systems. J. Comp. Chem., accepted 2025. Preprint: &lt;a href=&#34;https://chemrxiv.org/engage/chemrxiv/article-details/6490b93ba2c387fa9a94f607&#34;&gt;https://chemrxiv.org/engage/chemrxiv/article-details/6490b93ba2c387fa9a94f607&lt;/a&gt; Source code: &lt;a href=&#34;https://github.com/arwalkerlab/TeraChemAdaptiveRestraints/&#34;&gt;https://github.com/arwalkerlab/TeraChemAdaptiveRestraints/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mark A. Hix and Alice R. Walker. Adaptive restraints to accelerate geometry optimizations of large biomolecular systems.  J Comput Chem, 46: e70127. &lt;a href=&#34;https://doi.org/10.1002/jcc.70127&#34;&gt;https://doi.org/10.1002/jcc.70127&lt;/a&gt; . Preprint: &lt;a href=&#34;https://chemrxiv.org/engage/chemrxiv/article-details/6490b93ba2c387fa9a94f607&#34;&gt;https://chemrxiv.org/engage/chemrxiv/article-details/6490b93ba2c387fa9a94f607&lt;/a&gt; Source code: &lt;a href=&#34;https://github.com/arwalkerlab/TeraChemAdaptiveRestraints/&#34;&gt;https://github.com/arwalkerlab/TeraChemAdaptiveRestraints/&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Mark A. Hix, A. G. Pramoda Sahankumari, Ashok S. Bhagwat, and Alice R. Walker. DNA hairpin base-flipping dynamics drives APOBEC3A recognition and selectivity. Phys. Chem. Chem. Phys., accepted 2025.&lt;/p&gt;
@@ -1602,6 +1600,9 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 &lt
 &lt;/ol&gt;
 &lt;p&gt;#Preprints&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Anita Houston Adams and Alice R. Walker. Simulations of solvent effects on excited state dynamics of p-DAPA, a red single benzene-based fluorophore. &lt;a href=&#34;https://chemrxiv.org/engage/chemrxiv/article-details/6819253d50018ac7c58b8678&#34;&gt;https://chemrxiv.org/engage/chemrxiv/article-details/6819253d50018ac7c58b8678&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Cheng Chen, Jiawei Liu, Ivan M. Myasnyanko, Daniil I. Rudik, Anita H. Adams, Alice R. Walker, Mikhail S. Baranov, and Chong Fang. Meta effect enables redder and larger Stokes shift chromophores by enhanced aromaticity reversal. &lt;a href=&#34;https://chemrxiv.org/engage/chemrxiv/article-details/67bda1fffa469535b9dad3c4&#34;&gt;https://chemrxiv.org/engage/chemrxiv/article-details/67bda1fffa469535b9dad3c4&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
