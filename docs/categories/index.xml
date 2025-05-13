@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Walker Lab</title>
+    <title>Categories on Walker Group</title>
     <link>https://www.walkerlab.org/categories/</link>
-    <description>Recent content in Categories on Walker Lab</description>
+    <description>Recent content in Categories on Walker Group</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>ARW</copyright><atom:link href="https://www.walkerlab.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://www.walkerlab.org/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -10,7 +10,7 @@ paginate = 6
 [params]
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  dir = "_content/posts"
+  dir = "content/posts/"
   contentTypeName = "News"
 
   # ["orange", "blue", "red", "green", "pink"]
@@ -42,15 +42,8 @@ paginate = 6
   # it's set to `true` by default
   # oneHeadingSize = false
 
-[params.twitter]
-  # set Twitter handles for Twitter cards
-  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
-  # do not include @
-  creator = "arwalker_on_gpu"
-  site = "https://twitter.com/arwalker_on_gpu"
-
 [languages]
-  [languages.en]
+  [languages.en.params]
     languageName = "English"
     title = "Walker Lab"
     subtitle = "Excited states and fluorescence in biomolecules"
