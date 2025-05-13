@@ -13,7 +13,7 @@
   </td>
   <td>
   PI: Alice R. Walker <br>
-  <a href="/pdf/alicerwalker_cv_2022.pdf">CV</a> 
+  <a href="/pdf/alicerwalker_cv_2025.pdf">CV</a> 
   <a href="https://scholar.google.com/citations?user=2tmkmrkAAAAJ&hl=en">Google Scholar</a>
   <a href="https://www.researchgate.net/profile/Alice-Walker-12">Research Gate</a>
   <a href="https://orcid.org/0000-0002-8617-3425">OrcID</a>
@@ -117,6 +117,17 @@
   <td>
   Graduate Student: Janya Subasinghe <br>
   <a href="/pdf/janya_cv_2024.pdf">CV</a>
+  </td>
+</tr>
+<tr>
+ <td width="25%">
+  <center>
+  <image src="/images/dylan_profile.jpeg" position="center"  style="border-radius: 4px; width: 200px">
+  </center>
+  </td>
+  <td>
+  Graduate Student: Dylan Yost-Slinker <br>
+  <a href="/pdf/dylan_cv_2025.pdf">CV</a>
   </td>
 </tr>
 <tr>
