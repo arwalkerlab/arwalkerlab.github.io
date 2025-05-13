@@ -48,7 +48,7 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 htt
 
 #Preprints
 
- - M. F. Grougan, Mark A. Hix, and \underline{Alice R. Walker}. Librarian of Alexandria: An extensible LLM-based chemical data extraction pipeline. https://chemrxiv.org/engage/chemrxiv/article-details/68168c3c50018ac7c54cff43
+ - Morgan Grougan, Mark A. Hix, and Alice R. Walker. Librarian of Alexandria: An extensible LLM-based chemical data extraction pipeline. https://chemrxiv.org/engage/chemrxiv/article-details/68168c3c50018ac7c54cff43
 
  - Anita Houston Adams and Alice R. Walker. Simulations of solvent effects on excited state dynamics of p-DAPA, a red single benzene-based fluorophore. https://chemrxiv.org/engage/chemrxiv/article-details/6819253d50018ac7c58b8678
 
