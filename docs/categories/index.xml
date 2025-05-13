@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Walker Lab</title>
-    <link>/categories/</link>
+    <link>https://www.walkerlab.org/categories/</link>
     <description>Recent content in Categories on Walker Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>ARW</copyright><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>ARW</copyright><atom:link href="https://www.walkerlab.org/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

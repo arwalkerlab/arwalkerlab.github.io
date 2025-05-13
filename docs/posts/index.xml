@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Walker Lab</title>
-    <link>/posts/</link>
+    <link>https://www.walkerlab.org/posts/</link>
     <description>Recent content in Posts on Walker Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>ARW</copyright>
-    <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.walkerlab.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vishaka&#39;s 4th Year talk</title>
-      <link>/posts/vishaka4th2024/</link>
+      <link>https://www.walkerlab.org/posts/vishaka4th2024/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>/posts/vishaka4th2024/</guid>
+      <guid>https://www.walkerlab.org/posts/vishaka4th2024/</guid>
       <description>Congratulations to Vishaka for the successful completion of her 4th year talk, first from the lab!</description>
       <content>&lt;p&gt;Congratulations to Vishaka for the successful completion of her 4th year talk, first from the lab!&lt;/p&gt;
 </content>
@@ -21,14 +21,14 @@
     
     <item>
       <title>Rumble Fellowship</title>
-      <link>/posts/rumble2024/</link>
+      <link>https://www.walkerlab.org/posts/rumble2024/</link>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>/posts/rumble2024/</guid>
+      <guid>https://www.walkerlab.org/posts/rumble2024/</guid>
       <description>Congratulations to Vishaka Pathiranage for her new Rumble Fellowship! It is based on her excellence in research and scholarly presentation, and will support her for the next year.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/VishakaTeaching2024.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/VishakaTeaching2024.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -39,21 +39,21 @@
     
     <item>
       <title>Honors Convocation</title>
-      <link>/posts/teachingawards2024/</link>
+      <link>https://www.walkerlab.org/posts/teachingawards2024/</link>
       <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>/posts/teachingawards2024/</guid>
+      <guid>https://www.walkerlab.org/posts/teachingawards2024/</guid>
       <description>Congratulations to Widana Kaushalya and Vishaka Pathiranage for their Departmental Citation for Excellence in Teaching Awards!</description>
       <content>&lt;p&gt;
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/KaushieTeaching2024.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/KaushieTeaching2024.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/VishakaTeaching2024.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/VishakaTeaching2024.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -64,21 +64,21 @@
     
     <item>
       <title>MARC Poster Session</title>
-      <link>/posts/marc2024/</link>
+      <link>https://www.walkerlab.org/posts/marc2024/</link>
       <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>/posts/marc2024/</guid>
+      <guid>https://www.walkerlab.org/posts/marc2024/</guid>
       <description>Morgan and John presented their research at the MARC symposium demonstrating their progress to the University and their families.</description>
       <content>&lt;p&gt;
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/MorganPosterMARC2024.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/MorganPosterMARC2024.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/JohnPosterMARC2024.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/JohnPosterMARC2024.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -89,14 +89,14 @@
     
     <item>
       <title>Victoria&#39;s 2nd year defense</title>
-      <link>/posts/victoria2ndyr/</link>
+      <link>https://www.walkerlab.org/posts/victoria2ndyr/</link>
       <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>/posts/victoria2ndyr/</guid>
+      <guid>https://www.walkerlab.org/posts/victoria2ndyr/</guid>
       <description>Congratulations to Victoria for passing her second year defense and officially becoming a PhD candidate!</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/GroupVictoria2024.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/GroupVictoria2024.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -107,14 +107,14 @@
     
     <item>
       <title>Anita&#39;s 2nd year defense</title>
-      <link>/posts/anita2ndyr/</link>
+      <link>https://www.walkerlab.org/posts/anita2ndyr/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>/posts/anita2ndyr/</guid>
+      <guid>https://www.walkerlab.org/posts/anita2ndyr/</guid>
       <description>Congratulations to Anita for passing her second year defense and officially becoming a PhD candidate!</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/GroupAnita2024.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/GroupAnita2024.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -125,15 +125,15 @@
     
     <item>
       <title>Wayne State Graduate Symposium</title>
-      <link>/posts/wsugs3mt/</link>
+      <link>https://www.walkerlab.org/posts/wsugs3mt/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>/posts/wsugs3mt/</guid>
+      <guid>https://www.walkerlab.org/posts/wsugs3mt/</guid>
       <description>Vishaka won 3rd place at the University-wide 3 Minute Thesis competition, presenting her work with the ChlorON series for a general audience in less than 3 minutes!
 Victoria presented her work for the first time on anion binding to cgreGFP as a poster!</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/GSVishaka3MT2024.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/GSVishaka3MT2024.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -141,7 +141,7 @@ Victoria presented her work for the first time on anion binding to cgreGFP as a 
 &lt;p&gt;Vishaka won 3rd place at the University-wide 3 Minute Thesis competition, presenting her work with the ChlorON series for a general audience in less than 3 minutes!&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/GSVictoriaPoster2024.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/GSVictoriaPoster2024.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -152,10 +152,10 @@ Victoria presented her work for the first time on anion binding to cgreGFP as a 
     
     <item>
       <title>Welcome Pramoda!</title>
-      <link>/posts/winterwelcome2023/</link>
+      <link>https://www.walkerlab.org/posts/winterwelcome2023/</link>
       <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/winterwelcome2023/</guid>
+      <guid>https://www.walkerlab.org/posts/winterwelcome2023/</guid>
       <description>A big welcome to our new student, Pramoda, as we finish up a full year with lots of accomplishments!</description>
       <content>&lt;p&gt;A big welcome to our new student, Pramoda, as we finish up a full year with lots of accomplishments!&lt;/p&gt;
 </content>
@@ -163,15 +163,15 @@ Victoria presented her work for the first time on anion binding to cgreGFP as a 
     
     <item>
       <title>ACS San Francisco</title>
-      <link>/posts/acs_sfo_2023/</link>
+      <link>https://www.walkerlab.org/posts/acs_sfo_2023/</link>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/acs_sfo_2023/</guid>
+      <guid>https://www.walkerlab.org/posts/acs_sfo_2023/</guid>
       <description> The Walker lab was out in full force at ACS San Francisco this year! Mark presented a talk about his automated workflow in the Open Source Symposium, and Alice presented a talk in the Carbohydrate symposium.
 Solomon, Kaushalya and Nina all presented posters on their work in the Comp Poster Session. Congratulations to all! </description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/acssfo_mark.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/acssfo_mark.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -180,21 +180,21 @@ Solomon, Kaushalya and Nina all presented posters on their work in the Comp Post
 &lt;p&gt;Solomon, Kaushalya and Nina all presented posters on their work in the Comp Poster Session. Congratulations to all!
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/acssfo_nina.PNG&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/acssfo_nina.PNG&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/acssfo_solomon.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/acssfo_solomon.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/acssfo_kaushie.PNG&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/acssfo_kaushie.PNG&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -204,14 +204,14 @@ Solomon, Kaushalya and Nina all presented posters on their work in the Comp Post
     
     <item>
       <title>Gopal Symposium and Preview Day</title>
-      <link>/posts/gopal_2023/</link>
+      <link>https://www.walkerlab.org/posts/gopal_2023/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/gopal_2023/</guid>
+      <guid>https://www.walkerlab.org/posts/gopal_2023/</guid>
       <description>Anita created a beautiful poster to present our lab&amp;rsquo;s research, and we had a great time showing it off to the first year graduate students after the yearly Gopal symposium.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/previewday2.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/previewday2.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -222,14 +222,14 @@ Solomon, Kaushalya and Nina all presented posters on their work in the Comp Post
     
     <item>
       <title>Buffet Lunch</title>
-      <link>/posts/twentieth_post/</link>
+      <link>https://www.walkerlab.org/posts/twentieth_post/</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/twentieth_post/</guid>
+      <guid>https://www.walkerlab.org/posts/twentieth_post/</guid>
       <description>To celebrate the conclusion of our yearly 2-week coding workshop, we celebrated in style at the buffet! We learned some Python, C++ and machine learning before the new semester begins.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/GroupLunchAug2023_2.MP.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/GroupLunchAug2023_2.MP.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -240,14 +240,14 @@ Solomon, Kaushalya and Nina all presented posters on their work in the Comp Post
     
     <item>
       <title>ACS CERM</title>
-      <link>/posts/acs_cerm/</link>
+      <link>https://www.walkerlab.org/posts/acs_cerm/</link>
       <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/acs_cerm/</guid>
+      <guid>https://www.walkerlab.org/posts/acs_cerm/</guid>
       <description>Alice and Vishaka went to the our local regional conference, where Vishaka gave a fantastic talk about her work with sulfate sensing proteins and Alice organized a 2-day computational chemistry symposium.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/cerm2.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/cerm2.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -258,15 +258,15 @@ Solomon, Kaushalya and Nina all presented posters on their work in the Comp Post
     
     <item>
       <title>Kaushalya&#39;s 2nd year defense</title>
-      <link>/posts/nineteenth_post/</link>
+      <link>https://www.walkerlab.org/posts/nineteenth_post/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/nineteenth_post/</guid>
+      <guid>https://www.walkerlab.org/posts/nineteenth_post/</guid>
       <description>Congratulations to Kaushalya for passing her second year defense and officially becoming a PhD candidate!
 And with that, all the 2nd years have become PhD candidates! Congratulations to all!</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/KaushieYear2023.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/KaushieYear2023.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -275,7 +275,7 @@ And with that, all the 2nd years have become PhD candidates! Congratulations to 
 &lt;p&gt;And with that, all the 2nd years have become PhD candidates! Congratulations to all!&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/2ndYears2023.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/2ndYears2023.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -285,14 +285,14 @@ And with that, all the 2nd years have become PhD candidates! Congratulations to 
     
     <item>
       <title>Solomon&#39;s 2nd year defense</title>
-      <link>/posts/eighteenth_post/</link>
+      <link>https://www.walkerlab.org/posts/eighteenth_post/</link>
       <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/eighteenth_post/</guid>
+      <guid>https://www.walkerlab.org/posts/eighteenth_post/</guid>
       <description>Congratulations to Solomon for passing his second year defense and officially becoming a PhD candidate!</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/GroupPhoto2023_Solomon.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/GroupPhoto2023_Solomon.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -303,14 +303,14 @@ And with that, all the 2nd years have become PhD candidates! Congratulations to 
     
     <item>
       <title>Vishaka&#39;s 2nd year defense</title>
-      <link>/posts/seventeenth_post/</link>
+      <link>https://www.walkerlab.org/posts/seventeenth_post/</link>
       <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/seventeenth_post/</guid>
+      <guid>https://www.walkerlab.org/posts/seventeenth_post/</guid>
       <description>Congratulations to Vishaka for passing her second year defense and officially becoming a PhD candidate! She is the very first student in the lab to reach this important milestone, with more to come.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/GroupPhoto2023_Vishaka.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/GroupPhoto2023_Vishaka.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -321,17 +321,17 @@ And with that, all the 2nd years have become PhD candidates! Congratulations to 
     
     <item>
       <title>Wayne State Award Ceremonies</title>
-      <link>/posts/sixteenth_post/</link>
+      <link>https://www.walkerlab.org/posts/sixteenth_post/</link>
       <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/sixteenth_post/</guid>
+      <guid>https://www.walkerlab.org/posts/sixteenth_post/</guid>
       <description>The Walker lab won a number of awards this year&amp;ndash;congratulations to:
 Anita, for an excellence in teaching award!
 Solomon, for an excellence in teaching award!
 Morgan, for the David and Beverly Rorabacher Research Award, which includes a stipend for summer undergraduate research.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/WSUAwards2023_03.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/WSUAwards2023_03.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -339,7 +339,7 @@ Morgan, for the David and Beverly Rorabacher Research Award, which includes a st
 &lt;p&gt;The Walker lab won a number of awards this year&amp;ndash;congratulations to:&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/AnitaAward2023.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/AnitaAward2023.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -347,7 +347,7 @@ Morgan, for the David and Beverly Rorabacher Research Award, which includes a st
 &lt;p&gt;Anita, for an excellence in teaching award!&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/SolomonAward2023.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/SolomonAward2023.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -355,7 +355,7 @@ Morgan, for the David and Beverly Rorabacher Research Award, which includes a st
 &lt;p&gt;Solomon, for an excellence in teaching award!&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/MorganAward2023.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/MorganAward2023.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -366,16 +366,16 @@ Morgan, for the David and Beverly Rorabacher Research Award, which includes a st
     
     <item>
       <title>Undergraduate Research Symposium</title>
-      <link>/posts/fifteenth_post/</link>
+      <link>https://www.walkerlab.org/posts/fifteenth_post/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/fifteenth_post/</guid>
+      <guid>https://www.walkerlab.org/posts/fifteenth_post/</guid>
       <description>Congratulations to Morgan on his first undergraduate research symposium at Wayne State, where he presented a poster and made a fantastic video to promote his work:
 https://clas.wayne.edu/ugr/symposium/comprehensive-extraction-chemical-data
 Morgan won a poster award (and a t-shirt).</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/UGSMorgan2023.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/UGSMorgan2023.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -388,15 +388,15 @@ Morgan won a poster award (and a t-shirt).</description>
     
     <item>
       <title>ACS 2023</title>
-      <link>/posts/fourteenth_post/</link>
+      <link>https://www.walkerlab.org/posts/fourteenth_post/</link>
       <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>/posts/fourteenth_post/</guid>
+      <guid>https://www.walkerlab.org/posts/fourteenth_post/</guid>
       <description>The Walker group attended the Spring ACS at Indianapolis in style&amp;ndash;Vishaka presented her first talk at a national conference about her work on sulfate-sensitive fluorescent proteins.
 Alice presented a talk at the COMP Undergraduate Symposium.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/ACS2023_03.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/ACS2023_03.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -404,7 +404,7 @@ Alice presented a talk at the COMP Undergraduate Symposium.</description>
 &lt;p&gt;The Walker group attended the Spring ACS at Indianapolis in style&amp;ndash;Vishaka presented her first talk at a national conference about her work on sulfate-sensitive fluorescent proteins.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/ACS2023_02.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/ACS2023_02.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -415,14 +415,14 @@ Alice presented a talk at the COMP Undergraduate Symposium.</description>
     
     <item>
       <title>New group members</title>
-      <link>/posts/thirteenth_post/</link>
+      <link>https://www.walkerlab.org/posts/thirteenth_post/</link>
       <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/thirteenth_post/</guid>
+      <guid>https://www.walkerlab.org/posts/thirteenth_post/</guid>
       <description>We had a group lunch to welcome two new students to the lab&amp;ndash;Victoria and Anita. Welcome!</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/GroupLunchDec162022.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/GroupLunchDec162022.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -433,14 +433,14 @@ Alice presented a talk at the COMP Undergraduate Symposium.</description>
     
     <item>
       <title>Fun with Blender</title>
-      <link>/posts/tenth_post/</link>
+      <link>https://www.walkerlab.org/posts/tenth_post/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/tenth_post/</guid>
+      <guid>https://www.walkerlab.org/posts/tenth_post/</guid>
       <description>Mark&amp;rsquo;s been working on making accurate Blender-ified orbital animations&amp;ndash;next stop, glowing excited state orbitals with accurate dynamics and oscillator strengths!</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/BlenderOrbitalMovie.gif&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/BlenderOrbitalMovie.gif&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -451,15 +451,15 @@ Alice presented a talk at the COMP Undergraduate Symposium.</description>
     
     <item>
       <title>Cider Mill</title>
-      <link>/posts/ninth_post/</link>
+      <link>https://www.walkerlab.org/posts/ninth_post/</link>
       <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/ninth_post/</guid>
+      <guid>https://www.walkerlab.org/posts/ninth_post/</guid>
       <description>Michigan has lots of local cider mills&amp;ndash;we enjoyed some fall foliage, hot cider and doughnuts just in time for Halloween.</description>
       <content>&lt;p&gt;Michigan has lots of local cider mills&amp;ndash;we enjoyed some fall foliage, hot cider and doughnuts just in time for Halloween.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/Group20221030_leaves.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/Group20221030_leaves.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -469,14 +469,14 @@ Alice presented a talk at the COMP Undergraduate Symposium.</description>
     
     <item>
       <title>WSU Graduate Research Symposium 2022</title>
-      <link>/posts/twelfth_post/</link>
+      <link>https://www.walkerlab.org/posts/twelfth_post/</link>
       <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/twelfth_post/</guid>
+      <guid>https://www.walkerlab.org/posts/twelfth_post/</guid>
       <description>Solomon was awarded a talk presentation at this year&amp;rsquo;s Graduate Research Symposium at Wayne State, and did a fantastic job presenting his newly published work on perylene.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/SolomonWSUGRC.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/SolomonWSUGRC.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -487,10 +487,10 @@ Alice presented a talk at the COMP Undergraduate Symposium.</description>
     
     <item>
       <title>Trip to DIA</title>
-      <link>/posts/eighth_post/</link>
+      <link>https://www.walkerlab.org/posts/eighth_post/</link>
       <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/eighth_post/</guid>
+      <guid>https://www.walkerlab.org/posts/eighth_post/</guid>
       <description>Group outing to the Detroit Institute of Art, enjoying the beautiful works inside and out.</description>
       <content>&lt;p&gt;Group outing to the Detroit Institute of Art, enjoying the beautiful works inside and out.&lt;/p&gt;
 </content>
@@ -498,10 +498,10 @@ Alice presented a talk at the COMP Undergraduate Symposium.</description>
     
     <item>
       <title>Group Lunch September 2022</title>
-      <link>/posts/seventh_post/</link>
+      <link>https://www.walkerlab.org/posts/seventh_post/</link>
       <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/seventh_post/</guid>
+      <guid>https://www.walkerlab.org/posts/seventh_post/</guid>
       <description>We went out to celebrate Nina&amp;rsquo;s birthday and enjoy some local scenery.</description>
       <content>&lt;p&gt;We went out to celebrate Nina&amp;rsquo;s birthday and enjoy some local scenery.&lt;/p&gt;
 </content>
@@ -509,14 +509,14 @@ Alice presented a talk at the COMP Undergraduate Symposium.</description>
     
     <item>
       <title>ACS Fall 2022</title>
-      <link>/posts/eleventh_post/</link>
+      <link>https://www.walkerlab.org/posts/eleventh_post/</link>
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/eleventh_post/</guid>
+      <guid>https://www.walkerlab.org/posts/eleventh_post/</guid>
       <description>The Walker lab was well represented this year at Fall ACS. Kaushalya presented her work on the excited state dynamics of benzo[a]pyrene as a poster in the Comp session, and Alice presented the lab research as an invited talk for the Schlegel symposium.</description>
       <content>
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/ACSFall2022.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/ACSFall2022.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -527,24 +527,24 @@ Alice presented a talk at the COMP Undergraduate Symposium.</description>
     
     <item>
       <title>ACTC 2022 in Lake Tahoe!</title>
-      <link>/posts/sixth_post/</link>
+      <link>https://www.walkerlab.org/posts/sixth_post/</link>
       <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/sixth_post/</guid>
+      <guid>https://www.walkerlab.org/posts/sixth_post/</guid>
       <description>The Walker Group presented two posters at the American Conference on Theoretical Chemistry 2022!
 Dr. Walker served as the session chair for the Thursday Morning talks, and Mark gave a short presentation during the TeraChem Developers Conference on Friday.</description>
       <content>&lt;p&gt;The Walker Group presented two posters at the American Conference on Theoretical Chemistry 2022!&lt;br&gt;
 Dr. Walker served as the session chair for the Thursday Morning talks, and Mark gave a short presentation during the TeraChem Developers Conference on Friday.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/ACTC2022_Alice_Poster.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/ACTC2022_Alice_Poster.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
 
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/ACTC2022_Mark_Poster.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/ACTC2022_Mark_Poster.jpg&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -554,15 +554,15 @@ Dr. Walker served as the session chair for the Thursday Morning talks, and Mark 
     
     <item>
       <title>Fun with neural network image processing</title>
-      <link>/posts/fifth_post/</link>
+      <link>https://www.walkerlab.org/posts/fifth_post/</link>
       <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/posts/fifth_post/</guid>
+      <guid>https://www.walkerlab.org/posts/fifth_post/</guid>
       <description>As a quick break in our summer coding workshop, Vishaka made some lovely artwork with the neural style package in torch!</description>
       <content>&lt;p&gt;As a quick break in our summer coding workshop, Vishaka made some lovely artwork with the neural style package in torch!&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/mNeon_neuralstyle.png&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/mNeon_neuralstyle.png&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -572,10 +572,10 @@ Dr. Walker served as the session chair for the Thursday Morning talks, and Mark 
     
     <item>
       <title>Cover article!</title>
-      <link>/posts/third_post/</link>
+      <link>https://www.walkerlab.org/posts/third_post/</link>
       <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/third_post/</guid>
+      <guid>https://www.walkerlab.org/posts/third_post/</guid>
       <description>An article from my postdoctoral research was recently featured as a supplemental cover to J. Phys Chem B!
 Check it out here!</description>
       <content>&lt;p&gt;An article from my postdoctoral research was recently featured as a supplemental cover to J. Phys Chem B!&lt;/p&gt;
@@ -585,29 +585,29 @@ Check it out here!</description>
     
     <item>
       <title>3D proteins in real life!</title>
-      <link>/posts/second_post/</link>
+      <link>https://www.walkerlab.org/posts/second_post/</link>
       <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/second_post/</guid>
+      <guid>https://www.walkerlab.org/posts/second_post/</guid>
       <description>If you have a mobile phone, you can play with some WalkerLab proteins in real life, courtesy of Sukolsak Sakshuwong and Umberto Raucci.
 Go here and type the molecule name of your choice! Alternatively, the following QR codes will display specific proteins relevant to our proposed research. Open up your mobile phone camera app and hover it over the following images; it will ask if you would like to follow a link to display the image interactively on your phone.</description>
       <content>&lt;p&gt;If you have a mobile phone, you can play with some WalkerLab proteins in real life, courtesy of &lt;a href=&#34;https://sukolsak.com&#34;&gt;Sukolsak Sakshuwong&lt;/a&gt; and &lt;a href=&#34;https://orcid.org/0000-0002-8219-224X&#34;&gt;Umberto Raucci&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Go &lt;a href=&#34;https://stanford.edu/~sukolsak/ar/&#34;&gt;here&lt;/a&gt; and type the molecule name of your choice! Alternatively, the following QR codes will display specific proteins relevant to our proposed research. Open up your mobile phone camera app and hover it over the following images; it will ask if you would like to follow a link to display the image interactively on your phone. You can move it around and see it on your desk!&lt;/p&gt;
 &lt;p&gt;Note that Google Pixel phone support for augmented reality is somewhat questionable. The AR is the most well integrated with iPhones.&lt;/p&gt;
 &lt;p&gt;Interleukin6 aptamer: 
-  &lt;img src=&#34;/images/IL6SQR.png&#34;  class=&#34;left&#34;  style=&#34;width: 50%&#34;  /&gt;
+  &lt;img src=&#34;https://www.walkerlab.org/images/IL6SQR.png&#34;  class=&#34;left&#34;  style=&#34;width: 50%&#34;  /&gt;
 
 &lt;/p&gt;
 &lt;br&gt;
 &lt;br&gt;
 &lt;p&gt;Reversible GFP: 
-  &lt;img src=&#34;/images/rsEGFP2QR.png&#34;  class=&#34;left&#34;  style=&#34;width: 50%&#34;  /&gt;
+  &lt;img src=&#34;https://www.walkerlab.org/images/rsEGFP2QR.png&#34;  class=&#34;left&#34;  style=&#34;width: 50%&#34;  /&gt;
 
 &lt;/p&gt;
 &lt;br&gt;
 &lt;br&gt;
 &lt;p&gt;RNA Polymerase II: 
-  &lt;img src=&#34;/images/3HOYQR.png&#34;  class=&#34;left&#34;  style=&#34;width: 50%&#34;  /&gt;
+  &lt;img src=&#34;https://www.walkerlab.org/images/3HOYQR.png&#34;  class=&#34;left&#34;  style=&#34;width: 50%&#34;  /&gt;
 
 &lt;/p&gt;
 </content>
@@ -615,15 +615,15 @@ Go here and type the molecule name of your choice! Alternatively, the following 
     
     <item>
       <title>Let&#39;s go WalkerLab</title>
-      <link>/posts/first_post/</link>
+      <link>https://www.walkerlab.org/posts/first_post/</link>
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/first_post/</guid>
+      <guid>https://www.walkerlab.org/posts/first_post/</guid>
       <description>Coming soon to a university near you, if you live in the Detroit area. :)</description>
       <content>&lt;p&gt;Coming soon to a university near you, if you live in the Detroit area. :)&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;/images/rnapol2.png&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
+    &lt;img src=&#34;https://www.walkerlab.org/images/rnapol2.png&#34;   style=&#34;border-radius: 6px;&#34;  /&gt;
     
   &lt;/figure&gt;
 
@@ -633,10 +633,10 @@ Go here and type the molecule name of your choice! Alternatively, the following 
     
     <item>
       <title>ACS Spring 2022</title>
-      <link>/posts/fourth_post/</link>
+      <link>https://www.walkerlab.org/posts/fourth_post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/fourth_post/</guid>
+      <guid>https://www.walkerlab.org/posts/fourth_post/</guid>
       <description>Ashlyn Murphy did an amazing job presenting her undergraduate research at ACS San Diego this month. First conference presentation from the lab!</description>
       <content>&lt;p&gt;Ashlyn Murphy did an amazing job presenting her undergraduate research at ACS San Diego this month. First conference presentation from the lab!&lt;/p&gt;
 </content>

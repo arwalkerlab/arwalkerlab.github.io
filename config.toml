@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://www.walkerlab.org/"
 languageCode = "en-us"
 title = "Walker Group"
 theme = "terminal"
@@ -10,7 +10,7 @@ paginate = 6
 [params]
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  dir = "content/posts"
+  dir = "_content/posts"
   contentTypeName = "News"
 
   # ["orange", "blue", "red", "green", "pink"]
