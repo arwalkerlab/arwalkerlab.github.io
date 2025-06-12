@@ -3,7 +3,7 @@
 27. Michael Hotor, Joseph Wakpal, Solomon Y. Effah, Nur-E Alom, Alice R. Walker*, and Hien M.
 Nguyen*. Could hydrophobicity of sulfated pseudo-trisaccharides derived from repurposing
 aminoglycoside tobramycin modulate the enzymatic activity of heparanase? J. Med.
-Chem.. Article ASAP, 2025. https://doi.org/10.1021/acs.jmedchem.5c00611
+Chem. Article ASAP, 2025. https://doi.org/10.1021/acs.jmedchem.5c00611
 
 26. Mark A. Hix, A. G. Pramoda Sahankumari, Ashok S. Bhagwat, and Alice R. Walker. DNA hairpin base-flipping dynamics drives APOBEC3A recognition and selectivity. Phys. Chem. Chem. Phys., 27:11551–11557, 2025. https://doi.org/10.1039/D5CP00321K 
 
