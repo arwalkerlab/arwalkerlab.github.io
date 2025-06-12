@@ -1,8 +1,13 @@
 # Publications
 
-26. Mark A. Hix, A. G. Pramoda Sahankumari, Ashok S. Bhagwat, and Alice R. Walker. DNA hairpin base-flipping dynamics drives APOBEC3A recognition and selectivity. Phys. Chem. Chem. Phys., accepted 2025.
+27. Michael Hotor, Joseph Wakpal, Solomon Y. Effah, Nur-E Alom, Alice R. Walker*, and Hien M.
+Nguyen*. Could hydrophobicity of sulfated pseudo-trisaccharides derived from repurposing
+aminoglycoside tobramycin modulate the enzymatic activity of heparanase? J. Med.
+Chem.. Article ASAP, 2025. https://doi.org/10.1021/acs.jmedchem.5c00611
 
-25. Mark A. Hix and Alice R. Walker. Adaptive restraints to accelerate geometry optimizations of large biomolecular systems.  J. Comput. Chem., 46: e70127. https://doi.org/10.1002/jcc.70127 . Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/6490b93ba2c387fa9a94f607 Source code: https://github.com/arwalkerlab/TeraChemAdaptiveRestraints/
+26. Mark A. Hix, A. G. Pramoda Sahankumari, Ashok S. Bhagwat, and Alice R. Walker. DNA hairpin base-flipping dynamics drives APOBEC3A recognition and selectivity. Phys. Chem. Chem. Phys., 27:11551–11557, 2025. https://doi.org/10.1039/D5CP00321K 
+
+25. Mark A. Hix and Alice R. Walker. Adaptive restraints to accelerate geometry optimizations of large biomolecular systems.  J. Comput. Chem., 46(12):e70127, 2025. https://doi.org/10.1002/jcc.70127 . Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/6490b93ba2c387fa9a94f607 Source code: https://github.com/arwalkerlab/TeraChemAdaptiveRestraints/
 
 24.  Solomon Yamoah Effah, Mark A. Hix, and Alice R. Walker. Strategic design of fluorescent perylene-modified nucleic acid monomers: position-, phosphorylation-, and linker-dependent control of electron transfer. J. Chem. Inf. Model., Special issue: Editing DNA and RNA through computation. DOI: 10.1021/acs.jcim.4c02223 Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/674a29525a82cea2fa71f45e
 
