@@ -1,6 +1,6 @@
 +++
 title = "WSU Graduate Research Symposium"
-date = "2025-3-5"
+date = "2025-03-05"
 author = "ARW"
 cover = "/images/JanyaWSUGRS2025.jpg"
 description = "WSU GRS"

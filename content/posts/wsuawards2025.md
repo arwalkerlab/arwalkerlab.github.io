@@ -1,6 +1,6 @@
 +++
 title = "Chemistry Department Awards"
-date = "2024-4-21"
+date = "2025-04-21"
 author = "ARW"
 cover = "/images/WSUAwards2025.jpg"
 description = "Chemistry Department Awards 2025"

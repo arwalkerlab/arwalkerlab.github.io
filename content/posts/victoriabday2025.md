@@ -2,7 +2,7 @@
 title = "Victoria's Birthday"
 date = "2025-06-25"
 author = "ARW"
-cover = "/images/victoriasbday.jpg"
+cover = "/images/victoriabday.jpg"
 description = "Victoria's Birthday"
 +++
 
