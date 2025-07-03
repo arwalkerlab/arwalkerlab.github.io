@@ -1,6 +1,6 @@
 # People
 
-<image src="/images/GroupPictureWinter2023.jpg" onmouseover="image.src='/images/group_silly.jpg'" onmouseout="image.src='/images/group_molecule.jpg" style="width: 650px">
+<image src="/images/GroupPicture2025.jpg" onmouseover="image.src='/images/group_silly.jpg'" onmouseout="image.src='/images/group_molecule.jpg" style="width: 650px">
 
 <br>
 
