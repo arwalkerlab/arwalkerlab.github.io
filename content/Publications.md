@@ -1,13 +1,13 @@
 # Publications
 
-29. Cheng Chen*, Vishaka Pathiranage*, Whitney S. Ong, Sheel Dodani, Alice R. Walker, Chong Fang. A twisted chromophore that powers a fluorescent protein chloride sensor. Proc. Natl. Acad. Sci. Accepted, 2025. Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/669ce9ee5101a2ffa8388287 
+29. Cheng Chen*, Vishaka Pathiranage*, Whitney S. Ong, Sheel Dodani, Alice R. Walker, Chong Fang. A twisted chromophore that powers a fluorescent protein chloride sensor. Proc. Natl. Acad. Sci. U.S.A. 122 (32) e2508094122, 2025. https://doi.org/10.1073/pnas.2508094122 Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/669ce9ee5101a2ffa8388287 
 
-28. Hawau Abdulsalam, Mark A. Hix, Livia Philip, Kartikey Singh, Alice R. Walker, and Hien Nguyen. From docking and molecular dynamics to experimental discovery: exploring the hydrophobic landscapes of heparanase to design potent inhibitors. J. Chem. Inf. Model. Accepted, 2025. https://doi.org/10.1021/acs.jcim.5c00371
+28. Hawau Abdulsalam, Mark A. Hix, Livia Philip, Kartikey Singh, Alice R. Walker, and Hien Nguyen. From docking and molecular dynamics to experimental discovery: exploring the hydrophobic landscapes of heparanase to design potent inhibitors. J. Chem. Inf. Model. 65 (13), 6899-6912, 2025.  https://doi.org/10.1021/acs.jcim.5c00371
 
 27. Michael Hotor, Joseph Wakpal, Solomon Y. Effah, Nur-E Alom, Alice R. Walker*, and Hien M.
 Nguyen*. Could hydrophobicity of sulfated pseudo-trisaccharides derived from repurposing
 aminoglycoside tobramycin modulate the enzymatic activity of heparanase? J. Med.
-Chem. Article ASAP, 2025. https://doi.org/10.1021/acs.jmedchem.5c00611
+Chem. 68 (12), 12708-12732, 2025. https://doi.org/10.1021/acs.jmedchem.5c00611
 
 26. Mark A. Hix, A. G. Pramoda Sahankumari, Ashok S. Bhagwat, and Alice R. Walker. DNA hairpin base-flipping dynamics drives APOBEC3A recognition and selectivity. Phys. Chem. Chem. Phys., 27:11551–11557, 2025. https://doi.org/10.1039/D5CP00321K 
 
