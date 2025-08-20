@@ -1,11 +1,13 @@
 # Publications
 
+30. Lina Yang, Vishaka Pathiranage, Shihao Zhou, Xiaoting Sun, Hanbin Zhang, Cuixin Lai, Chenglei Gu, Fedor V. Subach, Alice R. Walker, and Kiryl D. Piatkevich. Genetically encoded red fluorescent indicators for imaging intracellular and extracellular potassium ions. PLOS Biology, accepted 2025. Preprint: https://www.biorxiv.org/content/10.1101/2024.12.20.629597v1
+
 29. Cheng Chen*, Vishaka Pathiranage*, Whitney S. Ong, Sheel Dodani, Alice R. Walker, Chong Fang. A twisted chromophore that powers a fluorescent protein chloride sensor. Proc. Natl. Acad. Sci. U.S.A. 122 (32) e2508094122, 2025. https://doi.org/10.1073/pnas.2508094122 Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/669ce9ee5101a2ffa8388287 
 
 28. Hawau Abdulsalam, Mark A. Hix, Livia Philip, Kartikey Singh, Alice R. Walker, and Hien Nguyen. From docking and molecular dynamics to experimental discovery: exploring the hydrophobic landscapes of heparanase to design potent inhibitors. J. Chem. Inf. Model. 65 (13), 6899-6912, 2025.  https://doi.org/10.1021/acs.jcim.5c00371
 
-27. Michael Hotor, Joseph Wakpal, Solomon Y. Effah, Nur-E Alom, Alice R. Walker*, and Hien M.
-Nguyen*. Could hydrophobicity of sulfated pseudo-trisaccharides derived from repurposing
+27. Michael Hotor, Joseph Wakpal, Solomon Y. Effah, Nur-E Alom, Alice R. Walker, and Hien M.
+Nguyen. Could hydrophobicity of sulfated pseudo-trisaccharides derived from repurposing
 aminoglycoside tobramycin modulate the enzymatic activity of heparanase? J. Med.
 Chem. 68 (12), 12708-12732, 2025. https://doi.org/10.1021/acs.jmedchem.5c00611
 
@@ -62,8 +64,6 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 htt
  - Anita Houston Adams and Alice R. Walker. Simulations of solvent effects on excited state dynamics of p-DAPA, a red single benzene-based fluorophore. https://chemrxiv.org/engage/chemrxiv/article-details/6819253d50018ac7c58b8678
 
  - Cheng Chen, Jiawei Liu, Ivan M. Myasnyanko, Daniil I. Rudik, Anita H. Adams, Alice R. Walker, Mikhail S. Baranov, and Chong Fang. Meta effect enables redder and larger Stokes shift chromophores by enhanced aromaticity reversal. https://chemrxiv.org/engage/chemrxiv/article-details/67bda1fffa469535b9dad3c4
-
- - Lina Yang, Vishaka Pathiranage, Shihao Zhou, Xiaoting Sun, Hanbin Zhang, Cuixin Lai, Chenglei Gu, Fedor V. Subach, Alice R. Walker, and Kiryl D. Piatkevich. Genetically encoded red fluorescent indicators for imaging intracellular and extracellular potassium ions. https://www.biorxiv.org/content/10.1101/2024.12.20.629597v1
 
  - Widana Kaushalya and Alice R. Walker. Simulations of DNA-coordinated light emission vs. intramolecular electron transfer: electron donor-acceptor systems with benzo[a]pyrene derivatives. https://chemrxiv.org/engage/chemrxiv/article-details/64ea410c3fdae147fae2cd1b
 
