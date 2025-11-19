@@ -1,6 +1,6 @@
 # Publications
 
-30. Lina Yang, Vishaka Pathiranage, Shihao Zhou, Xiaoting Sun, Hanbin Zhang, Cuixin Lai, Chenglei Gu, Fedor V. Subach, Alice R. Walker, and Kiryl D. Piatkevich. Genetically encoded red fluorescent indicators for imaging intracellular and extracellular potassium ions. PLOS Biology, accepted 2025. Preprint: https://www.biorxiv.org/content/10.1101/2024.12.20.629597v1
+30. Lina Yang, Vishaka Pathiranage, Shihao Zhou, Xiaoting Sun, Hanbin Zhang, Cuixin Lai, Chenglei Gu, Fedor V. Subach, Alice R. Walker, and Kiryl D. Piatkevich.  Sensitive red fluorescent indicators for real-time visualization of potassium ion dynamics in vivo. PLOS Biology 23(9): e3002993, 2025. https://doi.org/10.1371/journal.pbio.3002993 Preprint: https://www.biorxiv.org/content/10.1101/2024.12.20.629597v1
 
 29. Cheng Chen*, Vishaka Pathiranage*, Whitney S. Ong, Sheel Dodani, Alice R. Walker, Chong Fang. A twisted chromophore that powers a fluorescent protein chloride sensor. Proc. Natl. Acad. Sci. U.S.A. 122 (32) e2508094122, 2025. https://doi.org/10.1073/pnas.2508094122 Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/669ce9ee5101a2ffa8388287 
 
@@ -58,6 +58,8 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 htt
 
 
 #Preprints
+
+ - Jiusheng Lin, Oksana Gerlits, Daniel W. Kneller, Kevin L. Weiss, Leighton Coates, Mark A. Hix, Solomon Y. Effah, Audrey Kovalevsky, Alice R. Walker, and Mark A. Wilson. Environmental contributions to proton sharing in protein low-berrier hydrogen bonds. https://www.biorxiv.org/content/10.1101/2025.11.05.686872v1
 
  - Morgan Grougan, Mark A. Hix, and Alice R. Walker. Librarian of Alexandria: An extensible LLM-based chemical data extraction pipeline. https://chemrxiv.org/engage/chemrxiv/article-details/68168c3c50018ac7c54cff43
 
