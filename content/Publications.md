@@ -6,8 +6,7 @@
 
 28. Hawau Abdulsalam, Mark A. Hix, Livia Philip, Kartikey Singh, Alice R. Walker, and Hien Nguyen. From docking and molecular dynamics to experimental discovery: exploring the hydrophobic landscapes of heparanase to design potent inhibitors. J. Chem. Inf. Model. 65 (13), 6899-6912, 2025.  https://doi.org/10.1021/acs.jcim.5c00371
 
-27. Michael Hotor, Joseph Wakpal, Solomon Y. Effah, Nur-E Alom, Alice R. Walker, and Hien M.
-Nguyen. Could hydrophobicity of sulfated pseudo-trisaccharides derived from repurposing
+27. Michael Hotor, Joseph Wakpal, Solomon Y. Effah, Nur-E Alom, Alice R. Walker, and Hien M. Nguyen. Could hydrophobicity of sulfated pseudo-trisaccharides derived from repurposing
 aminoglycoside tobramycin modulate the enzymatic activity of heparanase? J. Med.
 Chem. 68 (12), 12708-12732, 2025. https://doi.org/10.1021/acs.jmedchem.5c00611
 
@@ -58,6 +57,8 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 htt
 
 
 #Preprints
+
+ - Mfon V. Sunday, Ke Ji, Derik A. Adams, Weicheng Peng, Sheel C. Dodani, and Alice R. Walker. Physical mechanisms of an unconventional green fluorescent protein indicator for chloride. https://chemrxiv.org/engage/chemrxiv/article-details/691de51def936fb4a26d2b58
 
  - Jiusheng Lin, Oksana Gerlits, Daniel W. Kneller, Kevin L. Weiss, Leighton Coates, Mark A. Hix, Solomon Y. Effah, Audrey Kovalevsky, Alice R. Walker, and Mark A. Wilson. Environmental contributions to proton sharing in protein low-berrier hydrogen bonds. https://www.biorxiv.org/content/10.1101/2025.11.05.686872v1
 
