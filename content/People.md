@@ -131,6 +131,17 @@
   </td>
 </tr>
 <tr>
+ <td width="25%">
+  <center>
+  <image src="/images/profile_sandeepa.jpeg" position="center"  style="border-radius: 4px; width: 200px">
+  </center>
+  </td>
+  <td>
+  Graduate Student: Sandeepa Fernando <br>
+  <a href="https://orcid.org/0009-0008-0162-4882">OrcID</a>
+  </td>
+</tr>
+<tr>
   <td width="25%">
   <center>
   <image src="/images/morgan_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
