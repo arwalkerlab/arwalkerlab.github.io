@@ -37,7 +37,7 @@ Source code: https://github.com/arwalkerlab/AutoParams
 
 16. Joseph Wakpal, Vishaka Pathiranage, Alice R. Walker, and Hien M. Nguyen. Rational design and expedient synthesis of heparan sulfate mimetics from natural aminoglycosides for structure and activity relationship studies. Angew. Chem. Int. Ed. 2023, 62, e202304325. https://doi.org/10.1002/anie.202304325
 
-15. Whitney S.Y. Ong*,  Ke Ji*,  Vishaka Pathiranage*,  Caden Maydew,  Kiheon Baek,  Rhiza Lyne E. Villones,  Gabriele Meloni,  Alice R. Walker,  and Sheel Dodani. Rational design of the β-Bulge Gate in a green fluorescent protein accelerates the kinetics of sulfate sensing. Angew. Chem. Int. Ed. 2023, e202302304. https://doi.org/10.1002/anie.202302304
+15. Whitney S.Y. Ong*,  Ke Ji*,  Vishaka Pathiranage*,  Caden Maydew,  Kiheon Baek,  Rhiza Lyne E. Villones,  Gabriele Meloni,  Alice R. Walker,  and Sheel C. Dodani. Rational design of the β-Bulge Gate in a green fluorescent protein accelerates the kinetics of sulfate sensing. Angew. Chem. Int. Ed. 2023, e202302304. https://doi.org/10.1002/anie.202302304
 Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/63a223bab9c5f65de5da502f
 
 14. Ashlyn R. Murphy, Mark A. Hix, and Alice R. Walker. Exploring the effects of mutagenesis on FusionRed using excited state QM/MM dynamics and classical force field simulations. ChemBioChem 2023, e202200799. https://doi.org/10.1002/cbic.202200799
@@ -57,6 +57,9 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 htt
 
 
 #Preprints
+
+ - Premashis Manna, Mark A. Hix, Srijit Mukherjee, Alice R. Walker, and Ralph Jimenez. Dark-state mediated photobleaching in mCherry-based red fluorescent proteins.
+https://www.biorxiv.org/content/10.64898/2026.01.21.700914v1
 
  - Mfon V. Sunday, Ke Ji, Derik A. Adams, Weicheng Peng, Sheel C. Dodani, and Alice R. Walker. Physical mechanisms of an unconventional green fluorescent protein indicator for chloride. https://chemrxiv.org/engage/chemrxiv/article-details/691de51def936fb4a26d2b58
 
