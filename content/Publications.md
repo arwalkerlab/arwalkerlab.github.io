@@ -2,7 +2,7 @@
 
 32. Jiusheng Lin, Oksana Gerlits, Daniel W. Kneller, Kevin L. Weiss, Leighton Coates, Mark A. Hix, Solomon Y. Effah, Audrey Kovalevsky, Alice R. Walker, and Mark A. Wilson. Environmental contributions to proton sharing in protein low-berrier hydrogen bonds. Biochem., accepted 2025.  https://doi.org/10.1021/acs.biochem.5c00762 Preprint: https://www.biorxiv.org/content/10.1101/2025.11.05.686872v1
 
-31.  Mfon V. Sunday*, Ke Ji*, Derik A. Adams, Weicheng Peng, Sheel C. Dodani*, and \underline{Alice R. Walker}.* Physical mechanisms of an unconventional non-canonical green fluorescent protein indicator for chloride. J. Phys. Chem. B, accepted 2026.  DOI: 10.1021/acs.jpcb.5c08244
+31.  Mfon V. Sunday*, Ke Ji*, Derik A. Adams, Weicheng Peng, Sheel C. Dodani, and Alice R. Walker. Physical mechanisms of an unconventional non-canonical green fluorescent protein indicator for chloride. J. Phys. Chem. B, accepted 2026.  DOI: 10.1021/acs.jpcb.5c08244
  Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/691de51def936fb4a26d2b58 
 
 30. Lina Yang, Vishaka Pathiranage, Shihao Zhou, Xiaoting Sun, Hanbin Zhang, Cuixin Lai, Chenglei Gu, Fedor V. Subach, Alice R. Walker, and Kiryl D. Piatkevich.  Sensitive red fluorescent indicators for real-time visualization of potassium ion dynamics in vivo. PLOS Biology 23(9): e3002993, 2025. https://doi.org/10.1371/journal.pbio.3002993 Preprint: https://www.biorxiv.org/content/10.1101/2024.12.20.629597v1
