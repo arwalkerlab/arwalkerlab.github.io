@@ -51,19 +51,6 @@
 <tr>
   <td width="25%">
   <center>
-  <image src="/images/vishaka_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
-  </center>
-  </td>
-  <td>
-  Graduate Student: Vishaka Pathiranage<br>
-  <a href="/pdf/vishaka_cv_2023.pdf">CV</a>
-  <a href="https://www.researchgate.net/profile/Vishaka-Pathiranage">ResearchGate</a>
- <a href="https://orcid.org/0000-0002-0432-8973">OrcID</a>
-  </td>
-</tr>
-<tr>
-  <td width="25%">
-  <center>
   <image src="/images/widana_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
   </center>
   </td>
@@ -170,10 +157,9 @@
 #Alumni
 </td>
 <td>
-John Muller UGR <br>
+John Muller BS <br>
 Nina McCulley PD <br>
-Nathaniel Turner UGR <br>
-Ashlyn Murphy UGR -> Graduate Student at University of California-San Diego <br>
-</td>
-</tr>
-</table>
+Nathaniel Turner BS <br>
+Ashlyn Murphy BS -> Graduate Student at University of California-San Diego <br>
+Vishaka Pathiranage PhD <a href="https://orcid.org/0000-0002-0432-8973">OrcID</a> -> HHMI Janelia Postdoc with Tebo Lab<br>
+
