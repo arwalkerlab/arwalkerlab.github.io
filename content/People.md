@@ -157,6 +157,7 @@
 #Alumni
 </td>
 <td>
+</tr>
 John Muller BS <br>
 Nina McCulley PD <br>
 Nathaniel Turner BS <br>

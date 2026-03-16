@@ -75,6 +75,7 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 htt
 
  - Widana Kaushalya and Alice R. Walker. Simulations of DNA-coordinated light emission vs. intramolecular electron transfer: electron donor-acceptor systems with benzo[a]pyrene derivatives. https://chemrxiv.org/engage/chemrxiv/article-details/64ea410c3fdae147fae2cd1b
 
+ - Jasmine Tutol, Vishaka Pathiranage, Alice R. Walker, and Sheel C. Dodani. An all-optical approach to probe chloride transport with a bright ChlorON. https://www.biorxiv.org/content/10.64898/2026.03.09.710669v1
 
 #Press
 
