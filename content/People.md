@@ -152,15 +152,18 @@
   <a href="https://www.linkedin.com/in/sebastien-hebert-074215132/">LinkedIn</a>
   </td>
 </tr>
+</table>
+<table>
 <tr>
 <td>
 #Alumni
 </td>
 <td>
-</tr>
 John Muller BS <br>
 Nina McCulley PD <br>
 Nathaniel Turner BS <br>
 Ashlyn Murphy BS -> Graduate Student at University of California-San Diego <br>
 Vishaka Pathiranage PhD <a href="https://orcid.org/0000-0002-0432-8973">OrcID</a> -> HHMI Janelia Postdoc with Tebo Lab<br>
-
+</td>
+</tr>
+</table>

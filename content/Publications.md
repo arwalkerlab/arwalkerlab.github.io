@@ -2,7 +2,7 @@
 
 33. Premashis Manna, Mark A. Hix, Srijit Mukherjee, Alice R. Walker, and Ralph Jimenez. Dark-state me-
 diated photobleaching in mCherry-based red fluorescent proteins. J. Phys. Chem. Lett.,
-accepted 2026. Preprint: https://www.biorxiv.org/content/10.64898/2026.01.21.700914v1
+accepted 2026. https://pubs.acs.org/doi/10.1021/acs.jpclett.5c04106 Preprint: https://www.biorxiv.org/content/10.64898/2026.01.21.700914v1
 
 32. Jiusheng Lin, Oksana Gerlits, Daniel W. Kneller, Kevin L. Weiss, Leighton Coates, Mark A. Hix, Solomon Y. Effah, Audrey Kovalevsky, Alice R. Walker, and Mark A. Wilson. Environmental contributions to proton sharing in protein low-berrier hydrogen bonds. Biochem., accepted 2025.  https://doi.org/10.1021/acs.biochem.5c00762 Preprint: https://www.biorxiv.org/content/10.1101/2025.11.05.686872v1
 
