@@ -1,6 +1,6 @@
 # Publications
 
-34. Andrea L. Batchev, Widana Kaushalya, Chashitha Padukka, Alice R. Walker, and Matthew J. Allen. Cyclen tetetra-amide ligands as a privileged class of ligands for studying second-sphere coordination environments. Chem. Eur. J., accepted 2026. 
+34. Andrea L. Batchev, Widana Kaushalya, Chashitha Padukka, Janya Subasinghe, Alice R. Walker, and Matthew J. Allen. Cyclen tetetra-amide ligands as a privileged class of ligands for studying second-sphere coordination environments. Chem. Eur. J., accepted 2026. 
 
 33. Premashis Manna, Mark A. Hix, Srijit Mukherjee, Alice R. Walker, and Ralph Jimenez. Dark-state mediated photobleaching in mCherry-based red fluorescent proteins. J. Phys. Chem. Lett., 17(12):3596-3604, 2026. https://pubs.acs.org/doi/10.1021/acs.jpclett.5c04106 Preprint: https://www.biorxiv.org/content/10.64898/2026.01.21.700914v1
 
