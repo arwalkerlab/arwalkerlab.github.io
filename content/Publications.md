@@ -1,6 +1,8 @@
 # Publications
 
-34. Andrea L. Batchev, Widana Kaushalya, Chashitha Padukka, Janya Subasinghe, Alice R. Walker, and Matthew J. Allen. Cyclen tetetra-amide ligands as a privileged class of ligands for studying second-sphere coordination environments. Chem. Eur. J., accepted 2026. 
+35. Morgan Grougan, Janya Subasinghe, Mark A. Hix, and Alice R. Walker. Librarian of Alexandria: An extensible LLM-based chemical data extraction pipeline. J. Chem. Inf. Model., accepted 2026. https://doi.org/10.1021/acs.jcim.6c00374 Github: https://github.com/arwalkerlab/LoA-Stable Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/68168c3c50018ac7c54cff43
+
+34. Andrea L. Batchev, Widana Kaushalya, Chashitha Padukka, Janya Subasinghe, Alice R. Walker, and Matthew J. Allen. Cyclen tetra-amide ligands as a privileged class of ligands for studying second-sphere coordination environments. Chem. Eur. J., e71136, 2026.  https://doi.org/10.1002/chem.71136 
 
 33. Premashis Manna, Mark A. Hix, Srijit Mukherjee, Alice R. Walker, and Ralph Jimenez. Dark-state mediated photobleaching in mCherry-based red fluorescent proteins. J. Phys. Chem. Lett., 17(12):3596-3604, 2026. https://pubs.acs.org/doi/10.1021/acs.jpclett.5c04106 Preprint: https://www.biorxiv.org/content/10.64898/2026.01.21.700914v1
 
@@ -67,8 +69,6 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 htt
 
 #Preprints
  
-- Morgan Grougan, Mark A. Hix, and Alice R. Walker. Librarian of Alexandria: An extensible LLM-based chemical data extraction pipeline. https://chemrxiv.org/engage/chemrxiv/article-details/68168c3c50018ac7c54cff43
-
  - Anita Houston Adams and Alice R. Walker. Simulations of solvent effects on excited state dynamics of p-DAPA, a red single benzene-based fluorophore. https://chemrxiv.org/engage/chemrxiv/article-details/6819253d50018ac7c58b8678
 
  - Cheng Chen, Jiawei Liu, Ivan M. Myasnyanko, Daniil I. Rudik, Anita H. Adams, Alice R. Walker, Mikhail S. Baranov, and Chong Fang. Meta effect enables redder and larger Stokes shift chromophores by enhanced aromaticity reversal. https://chemrxiv.org/engage/chemrxiv/article-details/67bda1fffa469535b9dad3c4
