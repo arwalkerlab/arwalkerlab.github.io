@@ -1,5 +1,7 @@
 # Publications
 
+36. Anita Houston Adams, Mark A. Hix, and Alice R. Walker. Simulations of solvent effects on excited state dynamics of p-DAPA, a red single benzene-based fluorophore. J. Chem. Phys, accepted 2026. Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/6819253d50018ac7c58b8678
+
 35. Morgan Grougan, Janya Subasinghe, Mark A. Hix, and Alice R. Walker. Librarian of Alexandria: An extensible LLM-based chemical data extraction pipeline. J. Chem. Inf. Model., accepted 2026. https://doi.org/10.1021/acs.jcim.6c00374 Github: https://github.com/arwalkerlab/LoA-Stable Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/68168c3c50018ac7c54cff43
 
 34. Andrea L. Batchev, Widana Kaushalya, Chashitha Padukka, Janya Subasinghe, Alice R. Walker, and Matthew J. Allen. Cyclen tetra-amide ligands as a privileged class of ligands for studying second-sphere coordination environments. Chem. Eur. J., e71136, 2026.  https://doi.org/10.1002/chem.71136 
@@ -69,13 +71,13 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 htt
 
 #Preprints
  
- - Anita Houston Adams and Alice R. Walker. Simulations of solvent effects on excited state dynamics of p-DAPA, a red single benzene-based fluorophore. https://chemrxiv.org/engage/chemrxiv/article-details/6819253d50018ac7c58b8678
-
  - Cheng Chen, Jiawei Liu, Ivan M. Myasnyanko, Daniil I. Rudik, Anita H. Adams, Alice R. Walker, Mikhail S. Baranov, and Chong Fang. Meta effect enables redder and larger Stokes shift chromophores by enhanced aromaticity reversal. https://chemrxiv.org/engage/chemrxiv/article-details/67bda1fffa469535b9dad3c4
 
  - Widana Kaushalya and Alice R. Walker. Simulations of DNA-coordinated light emission vs. intramolecular electron transfer: electron donor-acceptor systems with benzo[a]pyrene derivatives. https://chemrxiv.org/engage/chemrxiv/article-details/64ea410c3fdae147fae2cd1b
 
  - Jasmine Tutol, Vishaka Pathiranage, Alice R. Walker, and Sheel C. Dodani. An all-optical approach to probe chloride transport with a bright ChlorON. https://www.biorxiv.org/content/10.64898/2026.03.09.710669v1
+
+ - Anita H. Adams and Alice R. Walker. Excited state QM/MM simulations of far red fluorescent proteins show diverging electronic and physical structure correlated with red shifts. Preprint: https://chemrxiv.org/doi/full/10.26434/chemrxiv.15004889/v1
 
 #Press
 
