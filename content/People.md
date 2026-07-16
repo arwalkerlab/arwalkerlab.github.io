@@ -114,7 +114,7 @@
   </td>
   <td>
   Graduate Student: Dylan Yost-Slinker <br>
-  <a href="/pdf/dylan_cv_2025.pdf">CV</a>
+  <a href="/pdf/dylan_cv_2026.pdf">CV</a>
   </td>
 </tr>
 <tr>
