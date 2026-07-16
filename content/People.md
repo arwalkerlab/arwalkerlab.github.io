@@ -126,6 +126,7 @@
   <td>
   Graduate Student: Sandeepa Fernando <br>
   <a href="https://orcid.org/0009-0008-0162-4882">OrcID</a>
+  <a href="pdf/Sandeepa_cv_2026.pdf">CV</a>
   </td>
 </tr>
 <tr>
