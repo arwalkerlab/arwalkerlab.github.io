@@ -13,7 +13,7 @@
   </td>
   <td>
   PI: Alice R. Walker <br>
-  <a href="/pdf/arw_cv.pdf">CV</a> 
+  <a href="/pdf/alicerwalker_cv_2025.pdf">CV</a> 
   <a href="https://scholar.google.com/citations?user=2tmkmrkAAAAJ&hl=en">Google Scholar</a>
   <a href="https://www.researchgate.net/profile/Alice-Walker-12">Research Gate</a>
   <a href="https://orcid.org/0000-0002-8617-3425">OrcID</a>
@@ -114,7 +114,7 @@
   </td>
   <td>
   Graduate Student: Dylan Yost-Slinker <br>
-  <a href="/pdf/dylan_cv_2025.pdf">CV</a>
+  <a href="/pdf/dylan_cv_2026.pdf">CV</a>
   </td>
 </tr>
 <tr>
@@ -126,6 +126,7 @@
   <td>
   Graduate Student: Sandeepa Fernando <br>
   <a href="https://orcid.org/0009-0008-0162-4882">OrcID</a>
+  <a href="pdf/Sandeepa_cv_2026.pdf">CV</a>
   </td>
 </tr>
 <tr>
