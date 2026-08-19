@@ -135,10 +135,21 @@
   </center>
   </td>
   <td>
-  Undergraduate Researcher: Morgan Grougan <br>
+  Graduate Student: Morgan Grougan <br>
   <a href="/pdf/morgan_cv_2022.pdf">CV</a>
   <a href="https://orcid.org/0009-0007-2446-030X">OrcID</a><br>
   MARC Scholar
+  </td>
+</tr>
+<tr>
+  <td width="25%">
+  <center>
+ []
+  </center>
+  </td>
+  <td>
+  Undergraduate Researcher: Daichi Matsuba <br>
+  CV
   </td>
 </tr>
 <tr>

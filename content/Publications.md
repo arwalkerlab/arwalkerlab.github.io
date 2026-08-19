@@ -1,8 +1,12 @@
 # Publications
 
-36. Anita Houston Adams, Mark A. Hix, and Alice R. Walker. Simulations of solvent effects on excited state dynamics of p-DAPA, a red single benzene-based fluorophore. J. Chem. Phys, accepted 2026. Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/6819253d50018ac7c58b8678
+36. Anita Houston Adams, Mark A. Hix, and Alice R. Walker. Simulations of solvent effects on excited state
+dynamics of P-DAPA, a red single benzene-based fluorophore. The Journal of Chemical Physics, 165(2):024303,
+07 2026.  https://doi.org/10.1063/5.0325042
 
-35. Morgan Grougan, Janya Subasinghe, Mark A. Hix, and Alice R. Walker. Librarian of Alexandria: An extensible LLM-based chemical data extraction pipeline. J. Chem. Inf. Model., accepted 2026. https://doi.org/10.1021/acs.jcim.6c00374 Github: https://github.com/arwalkerlab/LoA-Stable Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/68168c3c50018ac7c54cff43
+35. Morgan Grougan, Janya Subasinghe, Mark A. Hix, and Alice R. Walker. Librarian of Alexandria: A modular
+chemical data extraction pipeline to compare LLM performance. Journal of Chemical Information and
+Modeling, 66(12):6921–6932, 2026.  https://doi.org/10.1021/acs.jcim.6c00374 Github: https://github.com/arwalkerlab/LoA-Stable Preprint: https://chemrxiv.org/engage/chemrxiv/article-details/68168c3c50018ac7c54cff43
 
 34. Andrea L. Batchev, Widana Kaushalya, Chashitha Padukka, Janya Subasinghe, Alice R. Walker, and Matthew J. Allen. Cyclen tetra-amide ligands as a privileged class of ligands for studying second-sphere coordination environments. Chem. Eur. J., e71136, 2026.  https://doi.org/10.1002/chem.71136 
 
