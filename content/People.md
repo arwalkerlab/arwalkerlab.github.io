@@ -144,12 +144,12 @@
 <tr>
   <td width="25%">
   <center>
- []
+  <image src="/images/daichi_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
   </center>
   </td>
   <td>
   Undergraduate Researcher: Daichi Matsuba <br>
-  CV
+  <a href="/pdf/daichi_cv.pdf">CV</a>
   </td>
 </tr>
 <tr>
