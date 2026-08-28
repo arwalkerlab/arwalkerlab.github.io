@@ -144,7 +144,7 @@
 <tr>
   <td width="25%">
   <center>
-  <image src="/images/daichi_profile.jpg" position="center"  style="border-radius: 4px; width: 200px">
+  <image src="/images/daichi_profile.png" position="center"  style="border-radius: 4px; width: 200px">
   </center>
   </td>
   <td>
