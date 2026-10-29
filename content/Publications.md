@@ -81,7 +81,9 @@ and electronic level insights. Phys. Chem. Chem. Phys. 2021, 23, 22227-22240 htt
 
  - Jasmine Tutol, Vishaka Pathiranage, Alice R. Walker, and Sheel C. Dodani. An all-optical approach to probe chloride transport with a bright ChlorON. https://www.biorxiv.org/content/10.64898/2026.03.09.710669v1
 
- - Anita H. Adams and Alice R. Walker. Excited state QM/MM simulations of far red fluorescent proteins show diverging electronic and physical structure correlated with red shifts. Preprint: https://chemrxiv.org/doi/full/10.26434/chemrxiv.15004889/v1
+ - Anita Houston Adams and Alice R. Walker. Excited state QM/MM simulations of far red fluorescent proteins show diverging electronic and physical structure correlated with red shifts. Preprint: https://chemrxiv.org/doi/full/10.26434/chemrxiv.15004889/v1
+
+ - Shivam Chaubey, Srijit Mukherjee, Anita Houston Adams, Alice R. Walker, Melonnie L. M. Furgason, Heman Kumar Ramiya Ramesh Babu, Irimpan I. Mathews, Premashis Manna. mCranberry: A rationally engineered monomeric red fluorescent protein with 85% quantum yield. Preprint: https://doi.org/10.64898/2026.10.01.755472
 
 #Press
 

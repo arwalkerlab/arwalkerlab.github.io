@@ -1,6 +1,6 @@
 +++
 title = "ACS Spring 2022"
-date = "2022-3-22"
+date = "2022-03-22"
 author = "ARW"
 cover = "images/acsMar2022.jpg"
 description = "ACS March 2022"
