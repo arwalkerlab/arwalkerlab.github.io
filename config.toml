@@ -42,6 +42,13 @@ paginate = 6
   # it's set to `true` by default
   # oneHeadingSize = false
 
+#  author = "Alice R. Walker"
+#  email = "arwalker@wayne.edu"
+
+#  [params.author]
+#  author  = "Alice R. Walker"
+#  email = "arwalker@wayne.edu"
+
 [languages]
   [languages.en.params]
     languageName = "English"
