@@ -95,7 +95,7 @@ NIH R35: https://research.wayne.edu/news/ai-computer-models-may-make-development
 
 #Prior to faculty appointment:
 
-10. Joseph E. Thomaz*, Alice R. Walker*, Stephen J. Van Wyck, Jan Meisner, Todd J. Martínez, and Michael D. Fayer. Proton transfer dynamics in the aprotic proton accepting solvent 1-methylimidazole. J. Phys. Chem. B, 2020.
+10. Joseph E. Thomaz, Alice R. Walker, Stephen J. Van Wyck, Jan Meisner, Todd J. Martínez, and Michael D. Fayer. Proton transfer dynamics in the aprotic proton accepting solvent 1-methylimidazole. J. Phys. Chem. B, 2020.
 
 9. Alice R. Walker, Nikhil Baddam, and G. Andrés Cisneros. Unfolding pathways of hen egg-white lysozyme in ethanol. J. Phys. Chem. B, 123(15):3267–3271, 2019
 
